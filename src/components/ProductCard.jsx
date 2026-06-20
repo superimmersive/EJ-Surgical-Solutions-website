@@ -15,11 +15,11 @@ export default function ProductCard({ product }) {
 
   return (
     <div className="card group flex flex-col overflow-hidden transition hover:shadow-md">
-      <Link to={`/product/${product.id}`} className="relative aspect-square overflow-hidden bg-slate-100">
+      <Link to={`/product/${product.id}`} className="relative aspect-square overflow-hidden bg-white p-4">
         <img
           src={product.image}
           alt={product.name}
-          className="h-full w-full object-cover transition duration-300 group-hover:scale-105"
+          className="h-full w-full object-contain transition duration-300 group-hover:scale-105"
           loading="lazy"
         />
         {product.badge && (
@@ -55,7 +55,9 @@ export default function ProductCard({ product }) {
 
         <div className="mt-auto flex items-end justify-between pt-4">
           <div>
-            <span className="text-lg font-bold text-slate-900">{formatPrice(product.price)}</span>
+            <span className={`font-bold text-slate-900 ${product.priceOnRequest ? 'text-sm' : 'text-lg'}`}>
+              {formatPrice(product.price, product.priceOnRequest)}
+            </span>
             {product.originalPrice && (
               <span className="ml-2 text-sm text-slate-400 line-through">
                 {formatPrice(product.originalPrice)}

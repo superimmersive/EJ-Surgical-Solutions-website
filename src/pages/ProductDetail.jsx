@@ -42,8 +42,8 @@ export default function ProductDetail() {
       </Link>
 
       <div className="mt-6 grid gap-10 lg:grid-cols-2">
-        <div className="card overflow-hidden">
-          <img src={product.image} alt={product.name} className="aspect-square w-full object-cover" />
+        <div className="card overflow-hidden bg-white p-6">
+          <img src={product.image} alt={product.name} className="aspect-square w-full object-contain" />
         </div>
 
         <div>
@@ -68,7 +68,9 @@ export default function ProductDetail() {
           </div>
 
           <div className="mt-6 flex items-baseline gap-3">
-            <span className="text-3xl font-bold text-slate-900">{formatPrice(product.price)}</span>
+            <span className={`font-bold text-slate-900 ${product.priceOnRequest ? 'text-base' : 'text-3xl'}`}>
+              {formatPrice(product.price, product.priceOnRequest)}
+            </span>
             {product.originalPrice && (
               <span className="text-lg text-slate-400 line-through">{formatPrice(product.originalPrice)}</span>
             )}

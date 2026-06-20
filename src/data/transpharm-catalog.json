@@ -1,0 +1,3983 @@
+{
+  "scrapedAt": "2026-06-20T15:37:37.075Z",
+  "source": "https://www.transpharm.co.za",
+  "categories": [
+    {
+      "id": "iv-access-needles-syringes",
+      "name": "IV Access, Needles & Syringes",
+      "transpharmId": "012-101",
+      "department": "Surgical"
+    },
+    {
+      "id": "bandaging",
+      "name": "Bandaging",
+      "transpharmId": "012-102",
+      "department": "Surgical"
+    },
+    {
+      "id": "pop-plaster-casts-splints",
+      "name": "POP - Plaster Casts & Splints",
+      "transpharmId": "012-103",
+      "department": "Surgical"
+    },
+    {
+      "id": "cotton-and-gauze",
+      "name": "Cotton and Gauze",
+      "transpharmId": "012-104",
+      "department": "Surgical"
+    },
+    {
+      "id": "wound-care",
+      "name": "Wound Care",
+      "transpharmId": "012-105",
+      "department": "Surgical"
+    },
+    {
+      "id": "gloves",
+      "name": "Gloves",
+      "transpharmId": "012-106",
+      "department": "Surgical"
+    },
+    {
+      "id": "blades-sutures-staplers",
+      "name": "Blades, Sutures & Staplers",
+      "transpharmId": "012-107",
+      "department": "Surgical"
+    },
+    {
+      "id": "respiratory",
+      "name": "Respiratory",
+      "transpharmId": "012-108",
+      "department": "Surgical"
+    },
+    {
+      "id": "non-chargeables",
+      "name": "Non-Chargeables",
+      "transpharmId": "012-109",
+      "department": "Surgical"
+    },
+    {
+      "id": "ppe-donning",
+      "name": "PPE & Donning",
+      "transpharmId": "012-110",
+      "department": "Surgical"
+    },
+    {
+      "id": "cleaning-antiseptic-and-waste",
+      "name": "Cleaning, Antiseptic and Waste",
+      "transpharmId": "012-111",
+      "department": "Surgical"
+    },
+    {
+      "id": "urology",
+      "name": "Urology",
+      "transpharmId": "012-112",
+      "department": "Surgical"
+    },
+    {
+      "id": "surgical-general-miscellaneous",
+      "name": "Surgical General/Miscellaneous",
+      "transpharmId": "012-113",
+      "department": "Surgical"
+    },
+    {
+      "id": "ostomy-care",
+      "name": "Ostomy Care",
+      "transpharmId": "012-114",
+      "department": "Surgical"
+    },
+    {
+      "id": "physiotherapy",
+      "name": "Physiotherapy",
+      "transpharmId": "012-115",
+      "department": "Surgical"
+    },
+    {
+      "id": "furniture-trolleys",
+      "name": "Furniture & Trolleys",
+      "transpharmId": "012-116",
+      "department": "Surgical"
+    },
+    {
+      "id": "baby-paediatrics",
+      "name": "Baby & Paediatrics",
+      "transpharmId": "012-117",
+      "department": "Surgical"
+    },
+    {
+      "id": "gynaecology",
+      "name": "Gynaecology",
+      "transpharmId": "012-118",
+      "department": "Surgical"
+    },
+    {
+      "id": "patient-monitoring",
+      "name": "Patient Monitoring",
+      "transpharmId": "012-119",
+      "department": "Surgical"
+    },
+    {
+      "id": "tests-and-strips",
+      "name": "Tests and Strips",
+      "transpharmId": "012-120",
+      "department": "Surgical"
+    },
+    {
+      "id": "laboratory",
+      "name": "Laboratory",
+      "transpharmId": "012-121",
+      "department": "Surgical"
+    },
+    {
+      "id": "dental",
+      "name": "Dental",
+      "transpharmId": "012-122",
+      "department": "Surgical"
+    },
+    {
+      "id": "renal",
+      "name": "Renal",
+      "transpharmId": "012-123",
+      "department": "Surgical"
+    },
+    {
+      "id": "surgical-instruments",
+      "name": "Surgical Instruments",
+      "transpharmId": "012-124",
+      "department": "Surgical"
+    },
+    {
+      "id": "equipment-and-accessories",
+      "name": "Equipment and Accessories",
+      "transpharmId": "012-125",
+      "department": "Surgical"
+    },
+    {
+      "id": "ent-ear-nose-and-throat",
+      "name": "ENT - Ear, Nose and Throat",
+      "transpharmId": "012-126",
+      "department": "Surgical"
+    },
+    {
+      "id": "aesthetics",
+      "name": "Aesthetics",
+      "transpharmId": "012-100",
+      "department": "Surgical"
+    },
+    {
+      "id": "orthopaedic",
+      "name": "Orthopaedic",
+      "transpharmId": "012-127",
+      "department": "Surgical"
+    },
+    {
+      "id": "veterinary",
+      "name": "Veterinary",
+      "transpharmId": "050",
+      "department": "Veterinary"
+    },
+    {
+      "id": "veterinary-articles",
+      "name": "Veterinary Articles",
+      "transpharmId": "013",
+      "department": "Veterinary"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "transpharmCode": "99900EA",
+      "name": "EXT SET J-LOOP ADULT 17CM SMALL BORE 1",
+      "category": "iv-access-needles-syringes",
+      "categoryLabel": "IV Access, Needles & Syringes",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 66,
+      "inStock": true,
+      "description": "EXT SET J-LOOP ADULT 17CM SMALL BORE 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Extensions, Stopcocks & Claves"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99900-01.jpg?context=bWFzdGVyfGltYWdlc3w5MTIyMHxpbWFnZS9qcGVnfGFHSmxMMmhqWWk4NU5EZzJPREk1TURreU9EazBMelV4TlZkNE5URTFTRjg1T1Rrd01GOHdNUzVxY0djfDAzYjUzZDdhMzg3ZmRjZTFmY2E1NDUxMTAyNjAzZWI4YjZjMzkxYTAxYTQwMDMzOWVlNjUzOThlN2FkMzY5YTc"
+    },
+    {
+      "id": 2,
+      "transpharmCode": "99867EA",
+      "name": "STOPCOCK 3WAY +EXT 100CM COSTIWAY 1",
+      "category": "iv-access-needles-syringes",
+      "categoryLabel": "IV Access, Needles & Syringes",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 196,
+      "inStock": true,
+      "description": "STOPCOCK 3WAY +EXT 100CM COSTIWAY 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Extensions, Stopcocks & Claves",
+        "Surgicals Less Than R20!"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99867-01.jpg?context=bWFzdGVyfGltYWdlc3wxNDk3ODV8aW1hZ2UvanBlZ3xhR1kwTDJnd1pTODVORGcyT0RFNE5qY3lOamN3THpVeE5WZDROVEUxU0Y4NU9UZzJOMTh3TVM1cWNHY3xmZTEzNzZjMzAzNjE2YTNlNGY3ZTIwMTlmYjdiMWY0ZjdlZmE2YmMzMWI5NTU1NzE2YTQ1ODYzNzk2YjdkYjgz"
+    },
+    {
+      "id": 3,
+      "transpharmCode": "99866EA",
+      "name": "STOPCOCK 3WAY + EXT 50CM COSTIWAY 1",
+      "category": "iv-access-needles-syringes",
+      "categoryLabel": "IV Access, Needles & Syringes",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 163,
+      "inStock": true,
+      "description": "STOPCOCK 3WAY + EXT 50CM COSTIWAY 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Extensions, Stopcocks & Claves",
+        "Surgicals Less Than R20!"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99866-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjU5MzB8aW1hZ2UvanBlZ3xhRFV6TDJnd01TODVORGcyT0RFNE1qYzVORFUwTHpVeE5WZDROVEUxU0Y4NU9UZzJObDh3TVM1cWNHY3w1MjRhYTNiN2U2NzVhMWI5MGRkNDkyMGI4ZDM5ODI4NTMzZDcyN2FhYzBjMjM5ZjU0M2ViNDJjZmRkMzllMzA5"
+    },
+    {
+      "id": 4,
+      "transpharmCode": "99865EA",
+      "name": "STOPCOCK 3WAY +EXT 10CM COSTIWAY 1",
+      "category": "iv-access-needles-syringes",
+      "categoryLabel": "IV Access, Needles & Syringes",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 128,
+      "inStock": true,
+      "description": "STOPCOCK 3WAY +EXT 10CM COSTIWAY 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Extensions, Stopcocks & Claves",
+        "Surgicals Less Than R20!"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99865-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTAzMjB8aW1hZ2UvanBlZ3xhRGt6TDJnMU5DODVORGcyT0RFM09ESXdOekF5THpVeE5WZDROVEUxU0Y4NU9UZzJOVjh3TVM1cWNHY3wwNjIwNTZkMjBhNzc3MGJhMzU5MDJiYzkwZDc4M2E4MjkxZDlhZTEwNTVhNGMyNDc1MTFmOTdhNzEzZjA4YTdi"
+    },
+    {
+      "id": 5,
+      "transpharmCode": "99864EA",
+      "name": "STOPCOCK 3WAY - NO EXTENSION COSTIWAY",
+      "category": "iv-access-needles-syringes",
+      "categoryLabel": "IV Access, Needles & Syringes",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 161,
+      "inStock": true,
+      "description": "STOPCOCK 3WAY - NO EXTENSION COSTIWAY — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Extensions, Stopcocks & Claves",
+        "Surgicals Less Than R20!"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99864-01.jpg?context=bWFzdGVyfGltYWdlc3wxMzg3NzJ8aW1hZ2UvanBlZ3xhRE0wTDJnMk1pODVORGcyT0RFM05ESTNORGcyTHpVeE5WZDROVEUxU0Y4NU9UZzJORjh3TVM1cWNHY3xjMTNiMTJlZjgyNzhiZWRmNmRmYjJlYjZlNDc4ZGZiMDM0N2FmYjVjMTZlYmYxNzBlZTNhYjUwZWY3NDZmZjI1"
+    },
+    {
+      "id": 6,
+      "transpharmCode": "99862EA",
+      "name": "IV ADMIN SET ADULT 20DR COSTIWAY 1",
+      "category": "iv-access-needles-syringes",
+      "categoryLabel": "IV Access, Needles & Syringes",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 175,
+      "inStock": true,
+      "description": "IV ADMIN SET ADULT 20DR COSTIWAY 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Administration Sets"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99862-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDk0NTd8aW1hZ2UvanBlZ3xhR1poTDJoak5DODVORGcyT0RFMk5qUXhNRFUwTHpVeE5WZDROVEUxU0Y4NU9UZzJNbDh3TVM1cWNHY3wzNmJjNzU0Y2NmYmY0MWM0ZWI5ZjAwY2U3M2JkYzNhMmEwMzI3ZmM3NWVjMzM5MDVhN2FkNTU3NTk5Y2Q4ZjFj"
+    },
+    {
+      "id": 7,
+      "transpharmCode": "99861EA",
+      "name": "IV ADMIN SET 20 DRP FLOW CNTRL COSTIWAY",
+      "category": "iv-access-needles-syringes",
+      "categoryLabel": "IV Access, Needles & Syringes",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 126,
+      "inStock": true,
+      "description": "IV ADMIN SET 20 DRP FLOW CNTRL COSTIWAY — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Administration Sets"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99861-01.jpg?context=bWFzdGVyfGltYWdlc3wxMzM3Nzl8aW1hZ2UvanBlZ3xhRGxpTDJoa01pODVORGcyT0RFMk1qUTNPRE00THpVeE5WZDROVEUxU0Y4NU9UZzJNVjh3TVM1cWNHY3xkZjBjMjBhMzM3MmU5MzViOWFkNTY4NTU3OGMyNWIzZDVmMmFmNDM5MDBlMzgwZmNkYmRiN2ZiMjExMjA2YjYw"
+    },
+    {
+      "id": 8,
+      "transpharmCode": "99858EA",
+      "name": "IV ADMIN SET W/HANGER ADD-A-LINE COSTIWA",
+      "category": "iv-access-needles-syringes",
+      "categoryLabel": "IV Access, Needles & Syringes",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 63,
+      "inStock": true,
+      "description": "IV ADMIN SET W/HANGER ADD-A-LINE COSTIWA — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Administration Sets",
+        "Surgicals Less Than R20!"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99858-01.jpg?context=bWFzdGVyfGltYWdlc3wxOTAyNTJ8aW1hZ2UvanBlZ3xhRFZqTDJnMk5DODVORGcyT0RFME5UYzJOamN3THpVeE5WZDROVEUxU0Y4NU9UZzFPRjh3TVM1cWNHY3xlOWI2M2E1MzAyMmQ5MDk5YzVlNTY4MWVlZWVkOTFkMTQ0N2EyMDU2YThmNDg0ODBmMTA3NjRkNDRlYjVkYWIx"
+    },
+    {
+      "id": 9,
+      "transpharmCode": "99286EA",
+      "name": "COHESIVE BANDAGE D3 BLACK 75MMX10M 1",
+      "category": "bandaging",
+      "categoryLabel": "Bandaging",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 38,
+      "inStock": true,
+      "description": "COHESIVE BANDAGE D3 BLACK 75MMX10M 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Self Adhesive Bandages",
+        "HiTech",
+        "Surgical Promotions"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99286-02.jpg?context=bWFzdGVyfGltYWdlc3wxMzk2MjZ8aW1hZ2UvanBlZ3xhRGRqTDJnd05TODVORGcyTmpBeE5URTVNVE0wTHpVeE5WZDROVEUxU0Y4NU9USTRObDh3TWk1cWNHY3wyZGRlYWRiNDM3MmIyZTQ2OGMyM2JjNjdmYWM4MzY3NDA4ZGNjZTIwZjUxY2IyODYyNDQ1OTU2NWRmY2JhZWVm"
+    },
+    {
+      "id": 10,
+      "transpharmCode": "99284EA",
+      "name": "COHESIVE BANDAGE D3 BEIGE 75MMX10M 1",
+      "category": "bandaging",
+      "categoryLabel": "Bandaging",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 26,
+      "inStock": true,
+      "description": "COHESIVE BANDAGE D3 BEIGE 75MMX10M 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Self Adhesive Bandages",
+        "HiTech",
+        "Surgical Promotions"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99284-02.jpg?context=bWFzdGVyfGltYWdlc3wxNTc5MTJ8aW1hZ2UvanBlZ3xhRFJoTDJnMVpDODVORGcyTmpBd056TXlOekF5THpVeE5WZDROVEUxU0Y4NU9USTRORjh3TWk1cWNHY3w2YTFkNDMzNmY1ZDYxMzVjOTM0ZjA3M2M1NmNkYTE3MjFkMjllYzQxMDczZWQyNzVkOWFjZWFhMTY0YzQ4MWFh"
+    },
+    {
+      "id": 11,
+      "transpharmCode": "99283EA",
+      "name": "COHESIVE BANDAGE D3 ROYAL BLUE 75MMX10M",
+      "category": "bandaging",
+      "categoryLabel": "Bandaging",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 193,
+      "inStock": true,
+      "description": "COHESIVE BANDAGE D3 ROYAL BLUE 75MMX10M — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Self Adhesive Bandages",
+        "HiTech",
+        "Surgical Promotions"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99283-02.jpg?context=bWFzdGVyfGltYWdlc3wxNjc5NDl8aW1hZ2UvanBlZ3xhR1ZpTDJnMllTODVORGcyTmpBd016TTVORGcyTHpVeE5WZDROVEUxU0Y4NU9USTRNMTh3TWk1cWNHY3xiNTA1ZTQ5MTFjNzY2OGY5YzI5ZjdjMWU2Yjg2NjA1NmEwZTg4ZmE4OWZmMjhlNjMyNzI4ZDVjMTE1ZjIwZGQz"
+    },
+    {
+      "id": 12,
+      "transpharmCode": "99282EA",
+      "name": "COHESIVE BANDAGE D3 RED 75MMX10M 1",
+      "category": "bandaging",
+      "categoryLabel": "Bandaging",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 196,
+      "inStock": true,
+      "description": "COHESIVE BANDAGE D3 RED 75MMX10M 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Self Adhesive Bandages",
+        "HiTech",
+        "Surgical Promotions"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99282-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjIwMzF8aW1hZ2UvanBlZ3xhREZoTDJneU9DOHhNemM1TlRJek1EYzBORFl3Tmk4MU1UVlhlRFV4TlVoZk9Ua3lPREpmTURFdWFuQm58MDI3MDM2ZjVmMTIxODhiZWJiYThiZmRiNzJlYjQyODY3YzUzN2UwNDI1Njg4MTdmMzEyNWZkYmExM2QwNDZlMg"
+    },
+    {
+      "id": 13,
+      "transpharmCode": "98381EA",
+      "name": "CREPE BANDAGE HEALTHEASE 5CMx4.5CM 12's",
+      "category": "bandaging",
+      "categoryLabel": "Bandaging",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 122,
+      "inStock": true,
+      "description": "CREPE BANDAGE HEALTHEASE 5CMx4.5CM 12's — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Non-Adhesive Bandages"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98381-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjg5NDl8aW1hZ2UvanBlZ3xhR1EyTDJoaU5DODVORGcyTWpJMU9EWTJOemd5THpVeE5WZDROVEUxU0Y4NU9ETTRNVjh3TVM1cWNHY3xjZTQzMTg3ZmI0NjliYjlmMjY1Mjk5YzIyM2VkNjU4ZGYyN2YwNWYzZTUyZWI1ZmI0NTc4Y2NmOTY5NTcyZGMx"
+    },
+    {
+      "id": 14,
+      "transpharmCode": "98375EA",
+      "name": "CREPE BANDAGE HEALTHEASE 15CMx4.5CM 12's",
+      "category": "bandaging",
+      "categoryLabel": "Bandaging",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 186,
+      "inStock": true,
+      "description": "CREPE BANDAGE HEALTHEASE 15CMx4.5CM 12's — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Non-Adhesive Bandages"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98375-01.jpg?context=bWFzdGVyfGltYWdlc3w2ODI1NHxpbWFnZS9qcGVnfGFEQmtMMmd6TUM4NU5EZzJNakl6TXpRek5qUTJMelV4TlZkNE5URTFTRjg1T0RNM05WOHdNUzVxY0djfDc2NzY1N2E1MTgwZWM1YzNiNzJhN2YwYWFiNmJhOTk4OGZhMWNjMTFmNmZkNmMxNDlhOGQxNDczZWVkOTE1N2I"
+    },
+    {
+      "id": 15,
+      "transpharmCode": "98374EA",
+      "name": "CREPE BANDAGE HEALTHEASE 10CMx4.5CM 12's",
+      "category": "bandaging",
+      "categoryLabel": "Bandaging",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 181,
+      "inStock": true,
+      "description": "CREPE BANDAGE HEALTHEASE 10CMx4.5CM 12's — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Non-Adhesive Bandages"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98374-01.jpg?context=bWFzdGVyfGltYWdlc3wxMzcwMDR8aW1hZ2UvanBlZ3xhRFEyTDJnNE5TODVORGcyTWpJeU9UVXdORE13THpVeE5WZDROVEUxU0Y4NU9ETTNORjh3TVM1cWNHY3xhNzFhZGM3NDA2ZDFjNjNlODhkNTE1Y2E2ZGMyNGUxYTc3YzU5MGFhMDA1MjcxMTA2MDI0NmZhYmE0YTVhMmU4"
+    },
+    {
+      "id": 16,
+      "transpharmCode": "98373EA",
+      "name": "CREPE BANDAGE HEALTHEA  7.5CMx4.5CM 12's",
+      "category": "bandaging",
+      "categoryLabel": "Bandaging",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 198,
+      "inStock": true,
+      "description": "CREPE BANDAGE HEALTHEA  7.5CMx4.5CM 12's — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Non-Adhesive Bandages"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98373-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjc3OTB8aW1hZ2UvanBlZ3xhR1UzTDJnNU1pODVORGcyTWpJeU5UVTNNakUwTHpVeE5WZDROVEUxU0Y4NU9ETTNNMTh3TVM1cWNHY3w1MzNkZGRhZGYxYjM1NzRjMDYzNWQzZTRkMjQ4YjNiMGExM2JmOWE3ZjRkZDk4NzZhZGE1ZWJlNWVjZmUwZGQ4"
+    },
+    {
+      "id": 17,
+      "transpharmCode": "99523EA",
+      "name": "UNDERCAST PADDING MW03 75MM X 2.7M 12~",
+      "category": "pop-plaster-casts-splints",
+      "categoryLabel": "POP - Plaster Casts & Splints",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 174,
+      "inStock": true,
+      "description": "UNDERCAST PADDING MW03 75MM X 2.7M 12~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Orthopedic Wool /Undercast Pad"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99523-01.jpg?context=bWFzdGVyfGltYWdlc3wxOTI0NjJ8aW1hZ2UvanBlZ3xhREkxTDJnNU1TODVORGcyTmprMk9EUXhNalEyTHpVeE5WZDROVEUxU0Y4NU9UVXlNMTh3TVM1cWNHY3w0NGFhODg3MGJmNmFlZjBhY2U3NDllM2I0OWJhYTEzMDM2Zjc4MDgyOWQ4MGJjODlhNGY2NjQwZGEzNzNjOTI4"
+    },
+    {
+      "id": 18,
+      "transpharmCode": "99522EA",
+      "name": "UNDERCAST PADDING MW02 50MMx2.7M 12~",
+      "category": "pop-plaster-casts-splints",
+      "categoryLabel": "POP - Plaster Casts & Splints",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 116,
+      "inStock": true,
+      "description": "UNDERCAST PADDING MW02 50MMx2.7M 12~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Orthopedic Wool /Undercast Pad"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99522-01.jpg?context=bWFzdGVyfGltYWdlc3wxOTIwODN8aW1hZ2UvanBlZ3xhREZrTDJnNVppODVORGcyTmprMk5ERTFNall5THpVeE5WZDROVEUxU0Y4NU9UVXlNbDh3TVM1cWNHY3xmMTI5MzE1NTNkNDNkNmU0ZWI4ZTlmOGYwOGY1NzZhZGRkMGY5OTBjMThmYmI2OThjOTk1MWNmYjVhMmRiYzYz"
+    },
+    {
+      "id": 19,
+      "transpharmCode": "99521EA",
+      "name": "UNDERCAST PADDING MW06 150MMx2.7M 12~",
+      "category": "pop-plaster-casts-splints",
+      "categoryLabel": "POP - Plaster Casts & Splints",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 152,
+      "inStock": true,
+      "description": "UNDERCAST PADDING MW06 150MMx2.7M 12~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Orthopedic Wool /Undercast Pad"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99521-01.jpg?context=bWFzdGVyfGltYWdlc3wxNDY5Nzl8aW1hZ2UvanBlZ3xhRFkyTDJobVlTODVORGcyTmprMU9Ea3dPVGMwTHpVeE5WZDROVEUxU0Y4NU9UVXlNVjh3TVM1cWNHY3xlMzAzNmM1OWY5ZWQ2NTg2YmZjMDJmMjZmY2M5ZTU3MGMwMmE5YzE4MjJiYzU5ZTU4Y2ZiMzJlZGI3Mjc4NGVh"
+    },
+    {
+      "id": 20,
+      "transpharmCode": "98380EA",
+      "name": "ORTHOPAEDIC PAD SYNTH H/EASE 20CMX3M 6~",
+      "category": "pop-plaster-casts-splints",
+      "categoryLabel": "POP - Plaster Casts & Splints",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 83,
+      "inStock": true,
+      "description": "ORTHOPAEDIC PAD SYNTH H/EASE 20CMX3M 6~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Orthopedic Wool /Undercast Pad"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98380-01.jpg?context=bWFzdGVyfGltYWdlc3wyNDY2Njd8aW1hZ2UvanBlZ3xhRFE1TDJoaE55ODVORGcyTWpJMU5EY3pOVFkyTHpVeE5WZDROVEUxU0Y4NU9ETTRNRjh3TVM1cWNHY3xhNzJlMzhkOWU1Njc4ZjVkNDg0NTFlNGUyYjA5MmM4Y2EzZmUyNDhmYjc4OWI1ZDI2MmUyMDg0NWU0NzMwYmUz"
+    },
+    {
+      "id": 21,
+      "transpharmCode": "98379EA",
+      "name": "ORTHOPAEDIC PAD SYNTH H/EASE 15CMX3M 12~",
+      "category": "pop-plaster-casts-splints",
+      "categoryLabel": "POP - Plaster Casts & Splints",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 192,
+      "inStock": true,
+      "description": "ORTHOPAEDIC PAD SYNTH H/EASE 15CMX3M 12~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Orthopedic Wool /Undercast Pad"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98379-01.jpg?context=bWFzdGVyfGltYWdlc3wyMjIxNDF8aW1hZ2UvanBlZ3xhR0pqTDJnNU9TODVORGcyTWpJMU1EZ3dNelV3THpVeE5WZDROVEUxU0Y4NU9ETTNPVjh3TVM1cWNHY3xmMTM2ZDVkNTAzZjk4OGEwM2UxM2NkY2M3NTcwM2MyOWRjNTQ0Y2Q0MDA4OWJlM2ZhNmNlNjg1YzM2OGY0MDIw"
+    },
+    {
+      "id": 22,
+      "transpharmCode": "98378EA",
+      "name": "ORTHOPAEDIC PAD SYNTH H/EASE 10CMX3M 12~",
+      "category": "pop-plaster-casts-splints",
+      "categoryLabel": "POP - Plaster Casts & Splints",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 36,
+      "inStock": true,
+      "description": "ORTHOPAEDIC PAD SYNTH H/EASE 10CMX3M 12~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Orthopedic Wool /Undercast Pad"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98378-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzcyMjZ8aW1hZ2UvanBlZ3xhREEzTDJnME1TODVORGcyTWpJME5UZzRPRE13THpVeE5WZDROVEUxU0Y4NU9ETTNPRjh3TVM1cWNHY3wzMGU2NjU1MWQ4NmNmNWQ0Y2Q3ZDYzYzE3NGVjM2FiNzhjOGJhZDFjNWNiZTk0MGI5M2NlYzJkODlhYmNlNzI4"
+    },
+    {
+      "id": 23,
+      "transpharmCode": "98377EA",
+      "name": "ORTHOPAEDIC PAD SYNTH H/EAS 7.5CMX3M 12~",
+      "category": "pop-plaster-casts-splints",
+      "categoryLabel": "POP - Plaster Casts & Splints",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 100,
+      "inStock": true,
+      "description": "ORTHOPAEDIC PAD SYNTH H/EAS 7.5CMX3M 12~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Orthopedic Wool /Undercast Pad"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98377-01.jpg?context=bWFzdGVyfGltYWdlc3wyMTYzNjd8aW1hZ2UvanBlZ3xhR05qTDJnek1pODVORGcyTWpJME1UTXdNRGM0THpVeE5WZDROVEUxU0Y4NU9ETTNOMTh3TVM1cWNHY3w1NzQ3ODVmODZjZGE1OTAyNmE4Mjk0YzRhYzk4OTY2YWIwNTJmN2ExNzU0YTJkNzE2NTc2ZDhlYmIzN2RhMWFi"
+    },
+    {
+      "id": 24,
+      "transpharmCode": "98376EA",
+      "name": "ORTHOPAEDIC PAD SYNTH H/EASE 5CMX3M 12~",
+      "category": "pop-plaster-casts-splints",
+      "categoryLabel": "POP - Plaster Casts & Splints",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 116,
+      "inStock": true,
+      "description": "ORTHOPAEDIC PAD SYNTH H/EASE 5CMX3M 12~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Orthopedic Wool /Undercast Pad"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98376-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzY4MjN8aW1hZ2UvanBlZ3xhRGd3TDJneU1pODVORGcyTWpJek56TTJPRFl5THpVeE5WZDROVEUxU0Y4NU9ETTNObDh3TVM1cWNHY3xmZmE2N2FhMWE1ODU2NTk5NTYzZjE1ODRlZGQ1NzlmZDY4Y2EyMTBkYzAxMWRjODc5N2Q0ODBlMDFmY2ZiNTMw"
+    },
+    {
+      "id": 25,
+      "transpharmCode": "99229EA",
+      "name": "GAUZE 100X100X4PLY N/S PLASTERMAN 100~",
+      "category": "cotton-and-gauze",
+      "categoryLabel": "Cotton and Gauze",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 100,
+      "inStock": true,
+      "description": "GAUZE 100X100X4PLY N/S PLASTERMAN 100~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Gauze - Unsterile"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99229-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjQyOTN8aW1hZ2UvanBlZ3xhR00yTDJneVppODVORGcyTlRjME56Z3dORFEyTHpVeE5WZDROVEUxU0Y4NU9USXlPVjh3TVM1cWNHY3wxNDY4M2IxODAyNjBiOTdiYzgxMDI5ZGM1ZDgyMDlmOTY2ODE1YzdiY2U2NmNkYTBmOWZjMmM5Mjc3MDcxNGFl"
+    },
+    {
+      "id": 26,
+      "transpharmCode": "99228EA",
+      "name": "GAUZE 75X75X4PLY N/S PLASTERMAN 100~",
+      "category": "cotton-and-gauze",
+      "categoryLabel": "Cotton and Gauze",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 172,
+      "inStock": true,
+      "description": "GAUZE 75X75X4PLY N/S PLASTERMAN 100~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Gauze - Unsterile",
+        "Surgicals Less Than R20!"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99228-01.jpg?context=bWFzdGVyfGltYWdlc3wxMTIwNTZ8aW1hZ2UvanBlZ3xhRFkyTDJnelpDODVORGcyTlRjME16ZzNNak13THpVeE5WZDROVEUxU0Y4NU9USXlPRjh3TVM1cWNHY3wxOGEzNGMxYTVlMWZjMTYwYzcxZjVlYzc3NTIzM2ZhOTg3ZmMzYjhjMDhmZTU4ZGJkYWIxMWU0ZTFlOTBmZjMy"
+    },
+    {
+      "id": 27,
+      "transpharmCode": "99227EA",
+      "name": "GAUZE 50X50X4PLY N/S PLASTERMAN 100~",
+      "category": "cotton-and-gauze",
+      "categoryLabel": "Cotton and Gauze",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 170,
+      "inStock": true,
+      "description": "GAUZE 50X50X4PLY N/S PLASTERMAN 100~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Gauze - Unsterile",
+        "Surgicals Less Than R20!"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99227-01.jpg?context=bWFzdGVyfGltYWdlc3w4Mzk3N3xpbWFnZS9qcGVnfGFEbG1MMmc1TWk4NU5EZzJOVGN6T1RrME1ERTBMelV4TlZkNE5URTFTRjg1T1RJeU4xOHdNUzVxY0djfDUyM2QwMTNjZjM1NTI3ODAxNDQ2YzEwZGUzMjQyY2Q0YWIzZTAyZjI5Nzg2YjNmNmIyNzVhNWU3YjIwMzNkZWM"
+    },
+    {
+      "id": 28,
+      "transpharmCode": "99181EA",
+      "name": "GAUZE X-RAY 100x100MM SURGIPAK STE 5s",
+      "category": "cotton-and-gauze",
+      "categoryLabel": "Cotton and Gauze",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 21,
+      "inStock": true,
+      "description": "GAUZE X-RAY 100x100MM SURGIPAK STE 5s — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Gauze - Sterile"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99181-01.jpg?context=bWFzdGVyfGltYWdlc3wxNDc4NDF8aW1hZ2UvanBlZ3xhR1F3TDJoaE15ODVORGcyTlRZMU16UXpNall5THpVeE5WZDROVEUxU0Y4NU9URTRNVjh3TVM1cWNHY3w4MjI1NWIzN2JmZDUzNTA3ZTc1YWUwNjM1YTlhYjU4YTUxNjBkNzY1M2VmMDMxOGFhNjZkZDBhOTI4ZDVlZGI2"
+    },
+    {
+      "id": 29,
+      "transpharmCode": "98370EA",
+      "name": "GAUZE ROLL 90CM X 100M 1's",
+      "category": "cotton-and-gauze",
+      "categoryLabel": "Cotton and Gauze",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 164,
+      "inStock": true,
+      "description": "GAUZE ROLL 90CM X 100M 1's — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Gauze Specialized"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98370-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzQ1OTB8aW1hZ2UvanBlZ3xhR014TDJnNU5TODVORGcyTWpJd05ESTNNamswTHpVeE5WZDROVEUxU0Y4NU9ETTNNRjh3TVM1cWNHY3wwNjkwOWNjOWEwY2M4YzVhZTk5MjFiMjU3OTZlYTdkZjg5ODVmZTE1YTc1ZWNjOWY0MzVhYjRhNTk3YmZlNGNj"
+    },
+    {
+      "id": 30,
+      "transpharmCode": "98369EA",
+      "name": "GAUZE ROLL 90CMx5M PLASTERMAN 1's",
+      "category": "cotton-and-gauze",
+      "categoryLabel": "Cotton and Gauze",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 104,
+      "inStock": true,
+      "description": "GAUZE ROLL 90CMx5M PLASTERMAN 1's — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Gauze Specialized",
+        "Surgicals Less Than R20!"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98369-01.jpg?context=bWFzdGVyfGltYWdlc3w3NTQyMnxpbWFnZS9qcGVnfGFETTBMMmc0T0M4NU5EZzJNakl3TURNME1EYzRMelV4TlZkNE5URTFTRjg1T0RNMk9WOHdNUzVxY0djfGVmODBjNjJjMjNkYzA3NmJkZTZmYWIxNjllYzYwYjNlODc4OGIyZjgzZDI4MzVlZWViZTA0YTE0NmFmOTY4MjE"
+    },
+    {
+      "id": 31,
+      "transpharmCode": "98329EA",
+      "name": "GAUZE N/S 7.5X7.5CM 8PLY MEDISTAR 100~",
+      "category": "cotton-and-gauze",
+      "categoryLabel": "Cotton and Gauze",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 141,
+      "inStock": true,
+      "description": "GAUZE N/S 7.5X7.5CM 8PLY MEDISTAR 100~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Gauze - Unsterile"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98329-01.jpg?context=bWFzdGVyfGltYWdlc3w5NzkxNHxpbWFnZS9qcGVnfGFHRXpMMmd6TlM4NU5EZzJNakF5TkRjd05ETXdMelV4TlZkNE5URTFTRjg1T0RNeU9WOHdNUzVxY0djfDA5NjRiZTRhZTQ2OWU1ZmQ3YWVlMDUyMzk5Njg5ZjZjOTA1NzEyNGIzY2RhYjY2Mzk2MDI4NjM0OGMwNDMyZTQ"
+    },
+    {
+      "id": 32,
+      "transpharmCode": "98328EA",
+      "name": "GAUZE N/S 10X10CM 8PLY MEDISTAR 100~",
+      "category": "cotton-and-gauze",
+      "categoryLabel": "Cotton and Gauze",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 61,
+      "inStock": true,
+      "description": "GAUZE N/S 10X10CM 8PLY MEDISTAR 100~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Gauze - Unsterile"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98328-01.jpg?context=bWFzdGVyfGltYWdlc3w5ODc3NnxpbWFnZS9qcGVnfGFEUXpMMmcwTXk4NU5EZzJNakF5TURjM01qRTBMelV4TlZkNE5URTFTRjg1T0RNeU9GOHdNUzVxY0djfDA5OWMzOGU4MmEyNmE0NDk5NTllMDk1MGM0ZjRjMjBiMjcwNmI2MmY2NjM1Y2ZhZjQ2NjBlMDNkNGYxYzU4Y2Y"
+    },
+    {
+      "id": 33,
+      "transpharmCode": "99849EA",
+      "name": "TRANSPORE PLASTIC TAPE 76MMx9.1M 4~",
+      "category": "wound-care",
+      "categoryLabel": "Wound Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 38,
+      "inStock": true,
+      "description": "TRANSPORE PLASTIC TAPE 76MMx9.1M 4~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Tapes: Transparent / Plastic"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99849-01.jpg?context=bWFzdGVyfGltYWdlc3w3MTQ0NnxpbWFnZS9qcGVnfGFHWTVMMmhrWmk4NU5EZzJPREV4TXpZMU5EQTJMelV4TlZkNE5URTFTRjg1T1RnME9WOHdNUzVxY0djfDU5YTlhOTEwMTRkMjFhMjYwMTc0ZjBkNWQ1OWUyMDYwNDJjNjU1YjU0YzllNzUzYjM1OTMyYmViNThlMmYwYzM"
+    },
+    {
+      "id": 34,
+      "transpharmCode": "99848EA",
+      "name": "TRANSPORE PLASTIC TAPE 50MMx9.1M 6~",
+      "category": "wound-care",
+      "categoryLabel": "Wound Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 173,
+      "inStock": true,
+      "description": "TRANSPORE PLASTIC TAPE 50MMx9.1M 6~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Tapes: Transparent / Plastic"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99848-01.jpg?context=bWFzdGVyfGltYWdlc3w4MTE2NnxpbWFnZS9qcGVnfGFEWTBMMmhqTnk4NU5EZzJPREV3T0Rjek9EZzJMelV4TlZkNE5URTFTRjg1T1RnME9GOHdNUzVxY0djfDVlMmJhYTc1ZTNlMmUyMjA5NTQ5MTIxNTNiMjVhOGM0MjdjYmZmYWQ5YTgyNWFjNGEwYjkxZTFhMGM3YjRjNjk"
+    },
+    {
+      "id": 35,
+      "transpharmCode": "99847EA",
+      "name": "TRANSPORE PLASTIC TAPE 25MMx9.1M  12~",
+      "category": "wound-care",
+      "categoryLabel": "Wound Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 49,
+      "inStock": true,
+      "description": "TRANSPORE PLASTIC TAPE 25MMx9.1M  12~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Tapes: Transparent / Plastic"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99847-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjE2ODh8aW1hZ2UvanBlZ3xhREUyTDJoaU9TODVORGcyT0RFd05ERTFNVE0wTHpVeE5WZDROVEUxU0Y4NU9UZzBOMTh3TVM1cWNHY3w3ZWJlMjI1YTVkNzAzOTk2OTMyYjk1ZGMwNWUxNjdhMGYxNTVmNmZkZTA4N2Q4MGUyM2Y1NGRkNWMxZmVjZWY3"
+    },
+    {
+      "id": 36,
+      "transpharmCode": "99846EA",
+      "name": "TRANSPORE PLASTIC TAPE 12.5MMx9.1M 24~",
+      "category": "wound-care",
+      "categoryLabel": "Wound Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 126,
+      "inStock": true,
+      "description": "TRANSPORE PLASTIC TAPE 12.5MMx9.1M 24~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Tapes: Transparent / Plastic"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99846-01.jpg?context=bWFzdGVyfGltYWdlc3w5NDQ1MHxpbWFnZS9qcGVnfGFEZzRMMmhoWWk4NU5EZzJPREV3TURJeE9URTRMelV4TlZkNE5URTFTRjg1T1RnME5sOHdNUzVxY0djfGNkMjJmMGYzOTg5NjU2MWFmNjY0YmM2MTJiN2FkMTBlZDBjOTZlZjk3ZTFmMjc3NDdjYjgwMzE2YTU3NjE4YTA"
+    },
+    {
+      "id": 37,
+      "transpharmCode": "99845EA",
+      "name": "MICROPORE 75MMx9.1M PAPER TAPE 4~",
+      "category": "wound-care",
+      "categoryLabel": "Wound Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 115,
+      "inStock": true,
+      "description": "MICROPORE 75MMx9.1M PAPER TAPE 4~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Tapes: Paper"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99845-01.jpg?context=bWFzdGVyfGltYWdlc3w2NDM2M3xpbWFnZS9qcGVnfGFEZzVMMmcxTnk4NU5EZzJPREE1TmpJNE56QXlMelV4TlZkNE5URTFTRjg1T1RnME5WOHdNUzVxY0djfDlkY2RlNmFmZThlNjc1ZWQ3MGY3YTk4ZGRlMTBkNTcxNjQ1MWJhYzY0MjdmOWFkYjExOGJkMTE1YTFmN2QyNWQ"
+    },
+    {
+      "id": 38,
+      "transpharmCode": "99844EA",
+      "name": "MICROPORE 50MMx9.1MM PAPER TAPE 6~",
+      "category": "wound-care",
+      "categoryLabel": "Wound Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 51,
+      "inStock": true,
+      "description": "MICROPORE 50MMx9.1MM PAPER TAPE 6~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Tapes: Paper"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99844-01.jpg?context=bWFzdGVyfGltYWdlc3w3NDczNXxpbWFnZS9qcGVnfGFERTJMMmcyTlM4NU5EZzJPREE1TWpNMU5EZzJMelV4TlZkNE5URTFTRjg1T1RnME5GOHdNUzVxY0djfGFlNDZiNTg5ZjJmNjRmNTQ0ZWQ5NWY2OTNlNTUzMjNlYWU0OGRiYjc0NmM2NDY4ZmMxMjI5MWI4ZjFiZDdjOTU"
+    },
+    {
+      "id": 39,
+      "transpharmCode": "99842EA",
+      "name": "MICROPORE 12.5MMx9.1M PAPER TAPE 24~",
+      "category": "wound-care",
+      "categoryLabel": "Wound Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 148,
+      "inStock": true,
+      "description": "MICROPORE 12.5MMx9.1M PAPER TAPE 24~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Tapes: Paper"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99842-01.jpg?context=bWFzdGVyfGltYWdlc3w2NDk3NnxpbWFnZS9qcGVnfGFHVm1MMmhqTnk4NU5EZzJPREE0TkRRNU1EVTBMelV4TlZkNE5URTFTRjg1T1RnME1sOHdNUzVxY0djfDg3MmM5YTMwMGJkYzhlYjFiZmI5ZTBhOWRmNWJmZTkzODVmYTVkOGZlZjRiZTZmYzUxMWY2NTI2ZGFmYzM5MzU"
+    },
+    {
+      "id": 40,
+      "transpharmCode": "99494EA",
+      "name": "L-MESITRAN SOFT GEL TUBE 15GR1",
+      "category": "wound-care",
+      "categoryLabel": "Wound Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 97,
+      "inStock": true,
+      "description": "L-MESITRAN SOFT GEL TUBE 15GR1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Dressings: Honey"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99494-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTkyOHxpbWFnZS9qcGVnfGFHUXhMMmd5TUM4NU5EZzJOamcxTWpReE16YzBMelV4TlZkNE5URTFTRjg1T1RRNU5GOHdNUzVxY0djfDE3M2QxNTM1ZGJmNjkzZjQxZTg3MWM0YWQ1YjJmODRmZDFlODg0NTc0MzY4MDUxMjI1MTM5MGZjNzBjNzdkNTE"
+    },
+    {
+      "id": 41,
+      "transpharmCode": "99591EA",
+      "name": "GLOVES SURG STERILE LP HEALTHEAS 8.5 50~",
+      "category": "gloves",
+      "categoryLabel": "Gloves",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 168,
+      "inStock": true,
+      "description": "GLOVES SURG STERILE LP HEALTHEAS 8.5 50~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Surgical Gloves - Sterile"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99591-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjA1MTd8aW1hZ2UvanBlZ3xhRFEwTDJobFl5ODVORGcyTnpJMk9USXlNamN3THpVeE5WZDROVEUxU0Y4NU9UVTVNVjh3TVM1cWNHY3w3MDgxOWE2NjljNTUyNjAxZjcxZDQyZThmZWYzYzI4NTdmOWM0ODcyMzBmOTk4OTVjZDkzNWRhY2YyZjk3Mjdi"
+    },
+    {
+      "id": 42,
+      "transpharmCode": "99590EA",
+      "name": "GLOVES SURG STERILE LP HEALTHEASE 8 50~",
+      "category": "gloves",
+      "categoryLabel": "Gloves",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 157,
+      "inStock": true,
+      "description": "GLOVES SURG STERILE LP HEALTHEASE 8 50~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Surgical Gloves - Sterile"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99590-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjA1MTd8aW1hZ2UvanBlZ3xhR0UwTDJoa1pTODVORGcyTnpJMk5USTVNRFUwTHpVeE5WZDROVEUxU0Y4NU9UVTVNRjh3TVM1cWNHY3w4YmJiOWY4OTdjNzM5NTYyOGVlMDI0OGM2NjRiYjQwYTg5ZDhlN2E2MWIwYzcxOGRkNjVlNzYwZjIyOWE4Njdm"
+    },
+    {
+      "id": 43,
+      "transpharmCode": "99589EA",
+      "name": "GLOVES SURG STERILE LP HEALTHEAS 7.5 50~",
+      "category": "gloves",
+      "categoryLabel": "Gloves",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 83,
+      "inStock": true,
+      "description": "GLOVES SURG STERILE LP HEALTHEAS 7.5 50~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Surgical Gloves - Sterile"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99589-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjA1MTd8aW1hZ2UvanBlZ3xhREUyTDJoa01TODVORGcyTnpJMk1UTTFPRE00THpVeE5WZDROVEUxU0Y4NU9UVTRPVjh3TVM1cWNHY3wxM2FlMDAzODI1NGJiOWI2MTk0NTI1NmU1ODA3OGU1YmJhY2NkOGFiNjhjMGQyY2U1MDY4N2JiZDIyMGVmOWY4"
+    },
+    {
+      "id": 44,
+      "transpharmCode": "99588EA",
+      "name": "GLOVES SURG STERILE LP HEALTHEASE 7 50~",
+      "category": "gloves",
+      "categoryLabel": "Gloves",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 58,
+      "inStock": true,
+      "description": "GLOVES SURG STERILE LP HEALTHEASE 7 50~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Surgical Gloves - Sterile"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99588-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjA1MTd8aW1hZ2UvanBlZ3xhR1JrTDJnM1lpODVORGcyTnpJMU56UXlOakl5THpVeE5WZDROVEUxU0Y4NU9UVTRPRjh3TVM1cWNHY3xjMjU3MjliNjk1ZDVjYzE4OGM0NTQ1YzlmNzI3YTk0M2Q4MjExMjQ2ZTg0ZDQyZGVkZDJmOWExNmExZWM0ODEz"
+    },
+    {
+      "id": 45,
+      "transpharmCode": "99587EA",
+      "name": "GLOVES SURG STERILE LP HEALTHEAS 6.5 50~",
+      "category": "gloves",
+      "categoryLabel": "Gloves",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 214,
+      "inStock": true,
+      "description": "GLOVES SURG STERILE LP HEALTHEAS 6.5 50~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Surgical Gloves - Sterile"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99587-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjA1MTd8aW1hZ2UvanBlZ3xhRE5rTDJnMlpTODVORGcyTnpJMU16UTVOREEyTHpVeE5WZDROVEUxU0Y4NU9UVTROMTh3TVM1cWNHY3xkMjkxYWUyODQzMWEyOWY3OWNmZTg0ZTU1MWZlMDUyZmUxZTE2MGIwMDExZDQyMWE2NWZhZmY4YmFlZGVhNjdj"
+    },
+    {
+      "id": 46,
+      "transpharmCode": "99586EA",
+      "name": "GLOVES SURG STERILE LP HEALTHEASE 6 50~",
+      "category": "gloves",
+      "categoryLabel": "Gloves",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 104,
+      "inStock": true,
+      "description": "GLOVES SURG STERILE LP HEALTHEASE 6 50~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Surgical Gloves - Sterile"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99586-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjA1MjV8aW1hZ2UvanBlZ3xhREEwTDJneE9TODVORGcyTnpJME9UVTJNVGt3THpVeE5WZDROVEUxU0Y4NU9UVTRObDh3TVM1cWNHY3w5YjkyYzI0MTM3YzliMTQ0ZmM2MWEyNmRkNWM3ZjBmNzc3YmE2ZmJmNGM5ZDI4NDlhYjA2OTVjYTMxNDFjN2I2"
+    },
+    {
+      "id": 47,
+      "transpharmCode": "99585EA",
+      "name": "GLOVES SURG STERILE PF HEALTHEAS 8.5 50~",
+      "category": "gloves",
+      "categoryLabel": "Gloves",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 209,
+      "inStock": true,
+      "description": "GLOVES SURG STERILE PF HEALTHEAS 8.5 50~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Surgical Gloves - Sterile"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99585-01.jpg?context=bWFzdGVyfGltYWdlc3wxMzgxMTN8aW1hZ2UvanBlZ3xhRGMyTDJnd1lpODVORGcyTnpJME5UWXlPVGMwTHpVeE5WZDROVEUxU0Y4NU9UVTROVjh3TVM1cWNHY3wyYTk2NzAxMGYzYTk2OTcyOGM1NzdlY2U4MGM2ODdlNDYyZmIzMDllMGM2YjBiNWE2NDc2MDE1NTgxOGI5NGFi"
+    },
+    {
+      "id": 48,
+      "transpharmCode": "99584EA",
+      "name": "GLOVES SURG STERILE PF HEALTHEASE 8 50~",
+      "category": "gloves",
+      "categoryLabel": "Gloves",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 199,
+      "inStock": true,
+      "description": "GLOVES SURG STERILE PF HEALTHEASE 8 50~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Surgical Gloves - Sterile"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99584-01.jpg?context=bWFzdGVyfGltYWdlc3wxMzgxMTN8aW1hZ2UvanBlZ3xhREpoTDJnd01pODVORGcyTnpJME1UWTVOelU0THpVeE5WZDROVEUxU0Y4NU9UVTRORjh3TVM1cWNHY3w4YjdlYmRiZTY1NDMzODBlMTJlOGJkNGY3ZTRiMDdiNjcyMzVjYWEyY2E4N2E5NTJiZWIwNGFhODVmMTg3NWE2"
+    },
+    {
+      "id": 49,
+      "transpharmCode": "99680EA",
+      "name": "STITCH CUTTER LONG HEALTHEASE 100~",
+      "category": "blades-sutures-staplers",
+      "categoryLabel": "Blades, Sutures & Staplers",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 122,
+      "inStock": true,
+      "description": "STITCH CUTTER LONG HEALTHEASE 100~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Stitchcutters & Staple Remover"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99680-01.jpg?context=bWFzdGVyfGltYWdlc3wxNDExNjd8aW1hZ2UvanBlZ3xhREUxTDJnME55ODVORGcyTnpRNU5EazVOREl5THpVeE5WZDROVEUxU0Y4NU9UWTRNRjh3TVM1cWNHY3wwYTdiNWMyNzIxNTQ1MGNkNDNiN2M1NjljMGJmYmM4ZWRjNmQ1M2YzMmE2OTIxY2ZmNzAyZDMzNWZkNjk4ODZh"
+    },
+    {
+      "id": 50,
+      "transpharmCode": "98961EA",
+      "name": "DRESS TRAY SUTURE REMOVAL COSTIWAY",
+      "category": "blades-sutures-staplers",
+      "categoryLabel": "Blades, Sutures & Staplers",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 114,
+      "inStock": true,
+      "description": "DRESS TRAY SUTURE REMOVAL COSTIWAY — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Sutures"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98961-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzQ4OTl8aW1hZ2UvanBlZ3xhREkyTDJnMFl5ODVORGcyTlRBek5qQTRNelV3THpVeE5WZDROVEUxU0Y4NU9EazJNVjh3TVM1cWNHY3xmZTc1YzhiMjc2ZWIwYmQ3Y2ZkYjQ5Y2VlMDBmODMxODdkNzdmNTRkYzIwNGY0Y2QxY2ZmYmFjOTBlMDg1OThh"
+    },
+    {
+      "id": 51,
+      "transpharmCode": "98041EA",
+      "name": "SUT NYLON 5/0 MEDISTAR 20MM RC 75CM 12~",
+      "category": "blades-sutures-staplers",
+      "categoryLabel": "Blades, Sutures & Staplers",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 150,
+      "inStock": true,
+      "description": "SUT NYLON 5/0 MEDISTAR 20MM RC 75CM 12~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Sutures: Non-Absorbing: Nylon"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98041-01.jpg?context=bWFzdGVyfGltYWdlc3wxMzMyMDJ8aW1hZ2UvanBlZ3xhREkwTDJneFlpODVORGcyTVRFek56QXhPVEU0THpVeE5WZDROVEUxU0Y4NU9EQTBNVjh3TVM1cWNHY3w1NmMwYjIxZGM3ZDU1NTQzMWFiYmVjZmQ5MTFjMWRhODg1NGVjYzE0Y2M1Mjc5OTY4N2M2ZWJhYWE1ZjcxNTVm"
+    },
+    {
+      "id": 52,
+      "transpharmCode": "98040EA",
+      "name": "SUT NYLON 4/0 MEDISTAR 20MM RC 75CM 12~",
+      "category": "blades-sutures-staplers",
+      "categoryLabel": "Blades, Sutures & Staplers",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 157,
+      "inStock": true,
+      "description": "SUT NYLON 4/0 MEDISTAR 20MM RC 75CM 12~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Sutures: Non-Absorbing: Nylon"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98040-01.jpg?context=bWFzdGVyfGltYWdlc3wxMTc0NzB8aW1hZ2UvanBlZ3xhR00xTDJneU9DODVORGcyTVRFek16QTROekF5THpVeE5WZDROVEUxU0Y4NU9EQTBNRjh3TVM1cWNHY3xkMjc1YTE4NzUwZTEyM2YwNWFiZGY5YzlkYjI2M2VkYmFiNTBlYjM2MGRiOTk3ZDk3NjBiNGE4ZjU4ZTQzOGRi"
+    },
+    {
+      "id": 53,
+      "transpharmCode": "98039EA",
+      "name": "SUT NYLON 3/0 MEDISTAR 25MM RC 75CM 12~",
+      "category": "blades-sutures-staplers",
+      "categoryLabel": "Blades, Sutures & Staplers",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 117,
+      "inStock": true,
+      "description": "SUT NYLON 3/0 MEDISTAR 25MM RC 75CM 12~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Sutures: Non-Absorbing: Nylon"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98039-01.jpg?context=bWFzdGVyfGltYWdlc3wxMTk3NzN8aW1hZ2UvanBlZ3xhR1prTDJnM1pDODVORGcyTVRFeU9URTFORGcyTHpVeE5WZDROVEUxU0Y4NU9EQXpPVjh3TVM1cWNHY3xiMzZiZDZjNmRlMjI3NjJmYjgzNDFhYzdkZDQ4MzMxYmM3YTJjNmZkMjFiZTIwMDFjZjU4ZTQ5YzhlYzg3ZTRl"
+    },
+    {
+      "id": 54,
+      "transpharmCode": "98038EA",
+      "name": "SUT NYLON 2/0 MEDISTAR 30MM RC 75CM 12~",
+      "category": "blades-sutures-staplers",
+      "categoryLabel": "Blades, Sutures & Staplers",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 164,
+      "inStock": true,
+      "description": "SUT NYLON 2/0 MEDISTAR 30MM RC 75CM 12~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Sutures: Non-Absorbing: Nylon"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98038-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjE1NTh8aW1hZ2UvanBlZ3xhRGhpTDJnNFlpODVORGcyTVRFeU5USXlNamN3THpVeE5WZDROVEUxU0Y4NU9EQXpPRjh3TVM1cWNHY3wwMGVmNDY2ZjMwOTE4YjdlNDY3OWNmM2NmMGZmMWQ2YmJhN2ViMWQ2M2Y4ODg3ZGIyYjhjYTM3NTA2NWNkMTRl"
+    },
+    {
+      "id": 55,
+      "transpharmCode": "98037EA",
+      "name": "SUT NYLON 1/0 MEDISTAR 35MM RC 75CM 12~",
+      "category": "blades-sutures-staplers",
+      "categoryLabel": "Blades, Sutures & Staplers",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 89,
+      "inStock": true,
+      "description": "SUT NYLON 1/0 MEDISTAR 35MM RC 75CM 12~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Sutures: Non-Absorbing: Nylon"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98037-01.jpg?context=bWFzdGVyfGltYWdlc3wxMTU3NzF8aW1hZ2UvanBlZ3xhREppTDJnNU9TODVORGcyTVRFeU1USTVNRFUwTHpVeE5WZDROVEUxU0Y4NU9EQXpOMTh3TVM1cWNHY3xmZTEzZTQ2NjU0ODRmZDlhMmU2YTBiMmU3YjQ5Nzc0ODEzMDAwOTQ5ZWQxZThlZGMzNWYxNWY2NTM0MGEzMWFj"
+    },
+    {
+      "id": 56,
+      "transpharmCode": "98035EA",
+      "name": "SUT CHROMI 4/0 MEDISTAR 20MM RND 75CM 12",
+      "category": "blades-sutures-staplers",
+      "categoryLabel": "Blades, Sutures & Staplers",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 105,
+      "inStock": true,
+      "description": "SUT CHROMI 4/0 MEDISTAR 20MM RND 75CM 12 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Sutures : Absorbing : Chromic"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98035-01.jpg?context=bWFzdGVyfGltYWdlc3wxMTc3NzZ8aW1hZ2UvanBlZ3xhR1l5TDJobVlpODVORGcyTVRFeE16UXlOakl5THpVeE5WZDROVEUxU0Y4NU9EQXpOVjh3TVM1cWNHY3w4OTRkMWE0OTM5ZWUwOWE1YjQ1MDZjYTljYjk0M2M4MGI1ZDIxNWE5MzlkNjJlNTZkZDVkZjQxZDE2OTQ5Mjg3"
+    },
+    {
+      "id": 57,
+      "transpharmCode": "99036EA",
+      "name": "ROSSMAX PEAK FLOW METER PAED",
+      "category": "respiratory",
+      "categoryLabel": "Respiratory",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 55,
+      "inStock": true,
+      "description": "ROSSMAX PEAK FLOW METER PAED — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Spacers and Peak Flows"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99036-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjY2NzR8aW1hZ2UvanBlZ3xhREE0TDJnNFlTODVORGcyTlRJMk5ERTBPRGM0THpVeE5WZDROVEUxU0Y4NU9UQXpObDh3TVM1cWNHY3xiZmZjZGRmYmVkOGJmYTMzYTE4M2NiODYwOTg0NTA5ZTA2NWIzNDMxZGVhMTIzZDgyZTAyNWFkMWFmZDI5NGUz"
+    },
+    {
+      "id": 58,
+      "transpharmCode": "99035EA",
+      "name": "ROSSMAX PEAK FLOW METER ADULT",
+      "category": "respiratory",
+      "categoryLabel": "Respiratory",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 120,
+      "inStock": true,
+      "description": "ROSSMAX PEAK FLOW METER ADULT — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Spacers and Peak Flows"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99035-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjg0NTZ8aW1hZ2UvanBlZ3xhRFJoTDJnd1lpODVOakF3TXpjM016SXpOVFV3THpVeE5WZDROVEUxU0Y4NU9UQXpOVjh3TVM1cWNHY3w2NjZiNmRlZDc2MThhNzM3NGY4NzdlNTQ3ZWU3MWM3MTA4M2Q2ZTMwZDRlMTUxMWI4YTc1YjI2NGM0Nzg5NDgx"
+    },
+    {
+      "id": 59,
+      "transpharmCode": "99032EA",
+      "name": "ROSSMAX AERO SPACER + ADULT MASK",
+      "category": "respiratory",
+      "categoryLabel": "Respiratory",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 88,
+      "inStock": true,
+      "description": "ROSSMAX AERO SPACER + ADULT MASK — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Spacers and Peak Flows"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99032-01.jpg?context=bWFzdGVyfGltYWdlc3w2NDAxMnxpbWFnZS9qcGVnfGFHVXpMMmc0TkM4NU5qQTBPVGczTmpVd01EYzRMelV4TlZkNE5URTFTRjg1T1RBek1sOHdNUzVxY0djfDQ3YjI3ODNlYWNhMDIxZTYzYmMzYzQzODE3MmViYTFmYjJjYjM4MjgyNDA2YTAwOWI2MTU3MTdhMzI5ZDQ1OTY"
+    },
+    {
+      "id": 60,
+      "transpharmCode": "99031EA",
+      "name": "ROSSMAX AERO SPACER + CHILD MASK",
+      "category": "respiratory",
+      "categoryLabel": "Respiratory",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 145,
+      "inStock": true,
+      "description": "ROSSMAX AERO SPACER + CHILD MASK — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Spacers and Peak Flows"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99031-01.jpg?context=bWFzdGVyfGltYWdlc3w2NDE2OHxpbWFnZS9qcGVnfGFEZ3lMMmc1TlM4NU5qQTBPVGczTVRreE16STJMelV4TlZkNE5URTFTRjg1T1RBek1WOHdNUzVxY0djfGE3ZDc1OTNlODBmMjVkMTE5ZjE5NDJlZDBkMWJlYmEzNjRiOTExMDViZWJhOWNmNDc4M2UwOTA5YWQxMjZkZDM"
+    },
+    {
+      "id": 61,
+      "transpharmCode": "99017EA",
+      "name": "ROSSMAX AERO SPACER + INFANT MASK",
+      "category": "respiratory",
+      "categoryLabel": "Respiratory",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 55,
+      "inStock": true,
+      "description": "ROSSMAX AERO SPACER + INFANT MASK — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Spacers and Peak Flows"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99017-01.jpg?context=bWFzdGVyfGltYWdlc3w2MzgyNXxpbWFnZS9qcGVnfGFHTmxMMmhsWVM4NU5qQTBPVGcyTnprNE1URXdMelV4TlZkNE5URTFTRjg1T1RBeE4xOHdNUzVxY0djfDRkNzRhOTA1MDk5ZTQ4ZGI3ZWRlOGQ2ZDk0YTA5NTQyYzc5ZTAyZGZjZDVhYzJhMjlkYzFiNmU2ODI2YzE5NWM"
+    },
+    {
+      "id": 62,
+      "transpharmCode": "98935EA",
+      "name": "NEBULIZER T PIECE ADULT HEALTHEASE 1",
+      "category": "respiratory",
+      "categoryLabel": "Respiratory",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 99,
+      "inStock": true,
+      "description": "NEBULIZER T PIECE ADULT HEALTHEASE 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Nebulization Masks",
+        "Surgicals Less Than R20!"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98935-01.jpg?context=bWFzdGVyfGltYWdlc3wxMzQ1MDd8aW1hZ2UvanBlZ3xhRFl5TDJoaE5pODVORGcyTkRneU9EQXdOamN3THpVeE5WZDROVEUxU0Y4NU9Ea3pOVjh3TVM1cWNHY3w2YjJiZjMyYTBlYzAxMWZmOTNkNjBlNTU4OWYxYzA1YzU2MjUwZGY1MzIwNzE4OGNiZTM3ZjIxNTI0OTUxYmI1"
+    },
+    {
+      "id": 63,
+      "transpharmCode": "95460EA",
+      "name": "NASAL CANNULA ADULT 3M NASOSOFT 1",
+      "category": "respiratory",
+      "categoryLabel": "Respiratory",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 103,
+      "inStock": true,
+      "description": "NASAL CANNULA ADULT 3M NASOSOFT 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Nasal Cannula's",
+        "Surgicals Less Than R20!"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-95460-01.jpg?context=bWFzdGVyfGltYWdlc3w4NTUwOXxpbWFnZS9qcGVnfGFHVmtMMmhoWXk4NU5EZzFNalF4TVRnNE16Z3lMelV4TlZkNE5URTFTRjg1TlRRMk1GOHdNUzVxY0djfDg5MmYxYTQwZjg1NDUwYjYzMzY5MmQ5NTQzYTgxOWQ4YzFlNjcyYWFhYzViMTVlMmE5NDQ5NDIzN2ZlMTdmOWI"
+    },
+    {
+      "id": 64,
+      "transpharmCode": "95451EA",
+      "name": "MASK NEBULIZER PAED TRIDENT 1",
+      "category": "respiratory",
+      "categoryLabel": "Respiratory",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 46,
+      "inStock": true,
+      "description": "MASK NEBULIZER PAED TRIDENT 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Nebulization Masks",
+        "Surgicals Less Than R20!"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-95451-01.jpg?context=bWFzdGVyfGltYWdlc3wxNDQ2MjF8aW1hZ2UvanBlZ3xhR0psTDJnd01pODVORGcxTWpNMk56azNORGN3THpVeE5WZDROVEUxU0Y4NU5UUTFNVjh3TVM1cWNHY3w3Y2NhMTZhMGNiZWYwM2E5NjI5MWMyZWEzYzQ1ZTJkNmNjYzhhNGQwYzFkM2EyODUzMjFhNTM4MmJkNTgzMWM0"
+    },
+    {
+      "id": 65,
+      "transpharmCode": "97145EA",
+      "name": "LINEN SAVER 510X650 6PLY 10'S",
+      "category": "non-chargeables",
+      "categoryLabel": "Non-Chargeables",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 218,
+      "inStock": true,
+      "description": "LINEN SAVER 510X650 6PLY 10'S — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Linen Savers and Protectors"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-97145-01.jpg?context=bWFzdGVyfGltYWdlc3wxOTY0NjJ8aW1hZ2UvanBlZ3xhR1JpTDJnNU5DOHhNalF4T1RnNU16RXdNRFUzTkM4MU1UVlhlRFV4TlVoZk9UY3hORFZmTURFdWFuQm58NmIxZjk1NzA0ZWNkYmZjOTQwZGRjY2E5OThhY2NmOGVjMzFhNDE2YTM4MzI1NTBjYzNkMDZhYjViMzgyMGIxNA"
+    },
+    {
+      "id": 66,
+      "transpharmCode": "97144EA",
+      "name": "LINEN SAVER 510X650 4PLY X 10'S",
+      "category": "non-chargeables",
+      "categoryLabel": "Non-Chargeables",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 137,
+      "inStock": true,
+      "description": "LINEN SAVER 510X650 4PLY X 10'S — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Linen Savers and Protectors"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-97144-01.jpg?context=bWFzdGVyfGltYWdlc3wyMDU3NzF8aW1hZ2UvanBlZ3xhR0V5TDJobU1DODVORGcxTnpnNU5EazFNekkyTHpVeE5WZDROVEUxU0Y4NU56RTBORjh3TVM1cWNHY3w1OGJkOTUwOTIyYWVkOGFmM2EzZjA3MDRlYjY0OWQ1MDYxMDFmZTZkYmQxOGJlZGQwYWRhNzdlYTY4MDQyNTZl"
+    },
+    {
+      "id": 67,
+      "transpharmCode": "96343EA",
+      "name": "FORTECARE UNDERPAD 60X90CM 5 LAYERS 20",
+      "category": "non-chargeables",
+      "categoryLabel": "Non-Chargeables",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 193,
+      "inStock": true,
+      "description": "FORTECARE UNDERPAD 60X90CM 5 LAYERS 20 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Linen Savers and Protectors"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-96343-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjMwMDV8aW1hZ2UvanBlZ3xhRFF6TDJnMU15OHhNVGMzTXpBMU5UZzVNelV6TkM4MU1UVlhlRFV4TlVoZk9UWXpORE5mTURFdWFuQm58MmQ4NzAzMDdiMGYyMDdkNWU1MzBlODVlZGFjZmJhN2NkNWViMmU0MmQ5OThiNWEwZjM1YmNmNWUxYjVlMzU5Mw"
+    },
+    {
+      "id": 68,
+      "transpharmCode": "95646EA",
+      "name": "LINEN SAVER 60X90 PULP CLINIHEALTH 200~",
+      "category": "non-chargeables",
+      "categoryLabel": "Non-Chargeables",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 178,
+      "inStock": true,
+      "description": "LINEN SAVER 60X90 PULP CLINIHEALTH 200~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Linen Savers and Protectors",
+        "Surgical Promotions"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-95646-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzMxMjB8aW1hZ2UvanBlZ3xhREppTDJoaVppODVOakU1TXpZd09EUXhOelU0THpVeE5WZDROVEUxU0Y4NU5UWTBObDh3TVM1cWNHY3w5MDRkYTBjOTI5NWY0OGM5ZTljMTJkOTE0NWUwYmY4ZWRhNDc5NzdiM2M2NDM1ZjgzOTkyNTY2ODhiNzkyYmMw"
+    },
+    {
+      "id": 69,
+      "transpharmCode": "95645EA",
+      "name": "LINEN SAVER 60X90 PULP CLINIHEALTH 20~",
+      "category": "non-chargeables",
+      "categoryLabel": "Non-Chargeables",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 51,
+      "inStock": true,
+      "description": "LINEN SAVER 60X90 PULP CLINIHEALTH 20~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Linen Savers and Protectors",
+        "Surgical Promotions"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-95645-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzc0NTd8aW1hZ2UvanBlZ3xhRGhoTDJoaU1TODVOakU1TXpZd05EUTROVFF5THpVeE5WZDROVEUxU0Y4NU5UWTBOVjh3TVM1cWNHY3xhZTI1NzBlODMwMzUzYmI5Y2FlYTNlMWNjYzJiZWZkZTQwOGVkMmJlZWZhN2FlZmRiNjU3NWYzZjQ5YjVlNDU2"
+    },
+    {
+      "id": 70,
+      "transpharmCode": "95516EA",
+      "name": "FORTECARE UNDERPAD 60X60CM 5 LAYERS 200",
+      "category": "non-chargeables",
+      "categoryLabel": "Non-Chargeables",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 170,
+      "inStock": true,
+      "description": "FORTECARE UNDERPAD 60X60CM 5 LAYERS 200 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Linen Savers and Protectors"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-95516-02.jpg?context=bWFzdGVyfGltYWdlc3w3MDI3NHxpbWFnZS9qcGVnfGFHUTJMMmhrT1M4NU5qQXdNekkxTWpnM09UWTJMelV4TlZkNE5URTFTRjg1TlRVeE5sOHdNaTVxY0djfGU3MzQ2YjE5ZDNmOTc1NjFmZmY2MzIyMGVkMGIwZjg3OWRmYjAyOTQxZDZmOGEwZjllNDg2YmZmNTU4N2YxMTk"
+    },
+    {
+      "id": 71,
+      "transpharmCode": "95132EA",
+      "name": "SHEET FITTED EXAM COUCH PVC CLEAR",
+      "category": "non-chargeables",
+      "categoryLabel": "Non-Chargeables",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 91,
+      "inStock": true,
+      "description": "SHEET FITTED EXAM COUCH PVC CLEAR — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Linen and Garments"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-95132-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTgxNjh8aW1hZ2UvanBlZ3xhRE5sTDJnMk5pODVORGcxTVRFNU1qSTFPRGcyTHpVeE5WZDROVEUxU0Y4NU5URXpNbDh3TVM1cWNHY3w5YTE1MWRhYjVmOTMxMDQ2NjdiZjQyZWU5ZDQyODkwYjRkNDU1ZTM5ODI5Y2M2YmIzNTBiODU3NDI3ZTY2M2E5"
+    },
+    {
+      "id": 72,
+      "transpharmCode": "95131EA",
+      "name": "SHEET FITTED EXAM COUCH PVC NAVY",
+      "category": "non-chargeables",
+      "categoryLabel": "Non-Chargeables",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 95,
+      "inStock": true,
+      "description": "SHEET FITTED EXAM COUCH PVC NAVY — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Linen and Garments"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-95131-01.jpg?context=bWFzdGVyfGltYWdlc3wyNDYwNDZ8aW1hZ2UvanBlZ3xhREExTDJneE1TODVORGcxTVRFNE9ETXlOamN3THpVeE5WZDROVEUxU0Y4NU5URXpNVjh3TVM1cWNHY3w2NzkxYTRhNmI4NmU4ODljNzNhOTI3MzQwZGEyMmRkZjdmMzI1ZTQ3NWNjMWVkNzNiNDlkMzg2NGFjYzQwODY3"
+    },
+    {
+      "id": 73,
+      "transpharmCode": "99679EA",
+      "name": "MOP CAPS 21 INCH GREEN 100~",
+      "category": "ppe-donning",
+      "categoryLabel": "PPE & Donning",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 50,
+      "inStock": true,
+      "description": "MOP CAPS 21 INCH GREEN 100~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Head Covers"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99679-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjgxOTh8aW1hZ2UvanBlZ3xhRFV6TDJnMU1pODVORGcyTnpRNU1UQTJNakEyTHpVeE5WZDROVEUxU0Y4NU9UWTNPVjh3TVM1cWNHY3wyMWE0Y2ZhNjRhYTlkNjIyZWMxMWNkNjNlNGM1NDdlZTU4OGVmYzU3N2E4MmI2MTk3YTU4ZTczODdkOGVjNzEx"
+    },
+    {
+      "id": 74,
+      "transpharmCode": "98402EA",
+      "name": "APRON PLASTIC YELLOW HEALTHEASE 100~",
+      "category": "ppe-donning",
+      "categoryLabel": "PPE & Donning",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 213,
+      "inStock": true,
+      "description": "APRON PLASTIC YELLOW HEALTHEASE 100~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Aprons"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98402-01.jpg?context=bWFzdGVyfGltYWdlc3wyMDYwNjV8aW1hZ2UvanBlZ3xhR1l5TDJobVpTODVORGcyTWpReU1UVXlORGM0THpVeE5WZDROVEUxU0Y4NU9EUXdNbDh3TVM1cWNHY3xhMjk3ODliYzc4NmEzNmRlYmIyYzU1MjA0MGQ4OTk4ZmMyYmM4NzZmYzA4YTY3NzJjZmVmNjhiYjg5YWEyMGU3"
+    },
+    {
+      "id": 75,
+      "transpharmCode": "98401EA",
+      "name": "APRON PLASTIC RED HEALTHEASE 100~",
+      "category": "ppe-donning",
+      "categoryLabel": "PPE & Donning",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 180,
+      "inStock": true,
+      "description": "APRON PLASTIC RED HEALTHEASE 100~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Aprons"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98401-01.jpg?context=bWFzdGVyfGltYWdlc3wyMDcyNzN8aW1hZ2UvanBlZ3xhR0UyTDJoaE9TODVORGcyTWpReE56VTVNall5THpVeE5WZDROVEUxU0Y4NU9EUXdNVjh3TVM1cWNHY3w3MDA4NTNjMjRiYzE4ZGQ4YmIwOGFkN2UzZDliZGU2NGViM2NiOGNjODhlZjk4MWM4ZTI1OGQ1Y2I4OTA3MTc1"
+    },
+    {
+      "id": 76,
+      "transpharmCode": "98400EA",
+      "name": "APRON PLASTIC BLUE HEALTHEASE 100~",
+      "category": "ppe-donning",
+      "categoryLabel": "PPE & Donning",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 21,
+      "inStock": true,
+      "description": "APRON PLASTIC BLUE HEALTHEASE 100~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Aprons"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98400-01.jpg?context=bWFzdGVyfGltYWdlc3wyMjA3MzR8aW1hZ2UvanBlZ3xhREF5TDJnNU9DODVORGcyTWpReE1qQXlNakEyTHpVeE5WZDROVEUxU0Y4NU9EUXdNRjh3TVM1cWNHY3xhYjE0NTM1ZDE4MGQ1MzgyODUxNTYwNjZjNDIyOGYwYjQzNjZiZGE3NDU0NjkwNGViMjA4YjE5ZDM1MTMwNzYw"
+    },
+    {
+      "id": 77,
+      "transpharmCode": "98366EA",
+      "name": "MOP CAP BOUFFANT BLUE HEALTHEASE 100~",
+      "category": "ppe-donning",
+      "categoryLabel": "PPE & Donning",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 160,
+      "inStock": true,
+      "description": "MOP CAP BOUFFANT BLUE HEALTHEASE 100~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Head Covers"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98366-01.jpg?context=bWFzdGVyfGltYWdlc3wyNDA2NDh8aW1hZ2UvanBlZ3xhRFU1TDJobU1pODVORGcyTWpFNE1qTXhPRE00THpVeE5WZDROVEUxU0Y4NU9ETTJObDh3TVM1cWNHY3w3ZTQ5NWNjMmVhOGQ2MmYwODA5NDgyMTgwYzExYWNkMGVhNmQ2NDIwYjU1Yjk3Yjc2ZTgzNTViNWNlMmVkY2I1"
+    },
+    {
+      "id": 78,
+      "transpharmCode": "98365EA",
+      "name": "MOP CAP BOUFFANT BLACK HEALTHEASE 100~",
+      "category": "ppe-donning",
+      "categoryLabel": "PPE & Donning",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 72,
+      "inStock": true,
+      "description": "MOP CAP BOUFFANT BLACK HEALTHEASE 100~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Head Covers"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98365-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzk4MDd8aW1hZ2UvanBlZ3xhRFZoTDJoaU9DODVORGcyTWpFM09ETTROakl5THpVeE5WZDROVEUxU0Y4NU9ETTJOVjh3TVM1cWNHY3w2OGYxZDBkNjBiZWM3OGM3Nzg1NThkZjk4OThkZWRmMmQ5Zjc5OTY5NzE1YjRhZjdkMGE3MjVjNDY1NTU2MDNh"
+    },
+    {
+      "id": 79,
+      "transpharmCode": "98364EA",
+      "name": "MOP CAP BOUFFANT WHITE HEALTHEASE 100~",
+      "category": "ppe-donning",
+      "categoryLabel": "PPE & Donning",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 105,
+      "inStock": true,
+      "description": "MOP CAP BOUFFANT WHITE HEALTHEASE 100~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Head Covers"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98364-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjg2MTZ8aW1hZ2UvanBlZ3xhR05rTDJoaFlTODVORGcyTWpFM05EUTFOREEyTHpVeE5WZDROVEUxU0Y4NU9ETTJORjh3TVM1cWNHY3wxOTMyMDg4MTdiOGMxZTc3ZmRjNjIwNTg1OTE1NWY2YzBkM2Y1MjllNmIxYWFjZjgyNDQxOGMxZjE0NmMyNjgy"
+    },
+    {
+      "id": 80,
+      "transpharmCode": "98363EA",
+      "name": "MOP CAP BOUFFANT RED HEALTHEASE 100~",
+      "category": "ppe-donning",
+      "categoryLabel": "PPE & Donning",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 46,
+      "inStock": true,
+      "description": "MOP CAP BOUFFANT RED HEALTHEASE 100~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Head Covers"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98363-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzY2NTZ8aW1hZ2UvanBlZ3xhRE5tTDJnNVpDODVORGcyTWpFM01EVXlNVGt3THpVeE5WZDROVEUxU0Y4NU9ETTJNMTh3TVM1cWNHY3wyNGI3ZmFkM2RmNWIzZjIxYzI1ZDFkMDA3YjhmZDI2MDBlZWVjZDA4YmEzZjhhYWM0MzRiOGY5MWUxMDMzYWJi"
+    },
+    {
+      "id": 81,
+      "transpharmCode": "99592EA",
+      "name": "NAIL AUTOCLAVE SCRUB BRUSHES 10~",
+      "category": "cleaning-antiseptic-and-waste",
+      "categoryLabel": "Cleaning, Antiseptic and Waste",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 112,
+      "inStock": true,
+      "description": "NAIL AUTOCLAVE SCRUB BRUSHES 10~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Brushes - Hands"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99592-01.jpg?context=bWFzdGVyfGltYWdlc3w4NDIwNHxpbWFnZS9qcGVnfGFEZ3lMMmhpWlM4NU5EZzJOekkzTXpFMU5EZzJMelV4TlZkNE5URTFTRjg1T1RVNU1sOHdNUzVxY0djfDAxZGU4MWIwNzdmNDUzZTA1NzdhMWU2OGNiMzU5MTIyZDUwNGI1ZGYyM2M2NzMyMTMyZDBjMDlmMGYzNjc2YmE"
+    },
+    {
+      "id": 82,
+      "transpharmCode": "99493EA",
+      "name": "WASHCLOTH HYGIENE FULL BODY SACLIN 1",
+      "category": "cleaning-antiseptic-and-waste",
+      "categoryLabel": "Cleaning, Antiseptic and Waste",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 105,
+      "inStock": true,
+      "description": "WASHCLOTH HYGIENE FULL BODY SACLIN 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Cleaning of Hands and Skin"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99493-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDYwMDR8aW1hZ2UvanBlZ3xhRFUwTDJobFl5ODVOakF3TXpnM09EUXlNRGM0THpVeE5WZDROVEUxU0Y4NU9UUTVNMTh3TVM1cWNHY3wzMjdlN2UxYjk4OTE2MmFmZTYxMzZmOWMzMTBjZmVlYzBlZjQwMjA0NzdhYjAyNWI5ZTY5ZmM1YTZhYjVhODFh"
+    },
+    {
+      "id": 83,
+      "transpharmCode": "97375EA",
+      "name": "SOPURE ANY SURFACE DISINFE CLEANER 500ML",
+      "category": "cleaning-antiseptic-and-waste",
+      "categoryLabel": "Cleaning, Antiseptic and Waste",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 94,
+      "inStock": true,
+      "description": "SOPURE ANY SURFACE DISINFE CLEANER 500ML — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Surface Cleaning & Sprays"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-97375-01.jpg?context=bWFzdGVyfGltYWdlc3w4MDQwN3xpbWFnZS9qcGVnfGFEYzJMMmhtTVM4NU5EZzFPRGM0T1RFNU1UazRMelV4TlZkNE5URTFTRjg1TnpNM05WOHdNUzVxY0djfDE0OGEzYTNmN2YzYmZhMWM1Mjk2YjI2NDdjMzUyOGJlNjRmOWIyZThjYzllN2ZkMjg0MDE5NDc0OGVhNGM5YTY"
+    },
+    {
+      "id": 84,
+      "transpharmCode": "97211EA",
+      "name": "SANI-TOUCH SANISPRAY 80% 550ML",
+      "category": "cleaning-antiseptic-and-waste",
+      "categoryLabel": "Cleaning, Antiseptic and Waste",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 88,
+      "inStock": true,
+      "description": "SANI-TOUCH SANISPRAY 80% 550ML — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Surface Cleaning & Sprays"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-97211-01.jpg?context=bWFzdGVyfGltYWdlc3w4NDcxOXxpbWFnZS9qcGVnfGFHSmxMMmd6TUM4NU5EZzFPREU0T1RnMk5USTJMelV4TlZkNE5URTFTRjg1TnpJeE1WOHdNUzVxY0djfDY5NjU0OGZiN2I2ZjExMGFjNzE1NTAwNjc2MmNlZWRhOWE5ZjQyYWE1ZjFjODg5ZjczMGU3YzFjNWZhNzU0MDM"
+    },
+    {
+      "id": 85,
+      "transpharmCode": "96464EA",
+      "name": "DISINFECT CLEAN SANIWIPES WET WIPES 150~",
+      "category": "cleaning-antiseptic-and-waste",
+      "categoryLabel": "Cleaning, Antiseptic and Waste",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 130,
+      "inStock": true,
+      "description": "DISINFECT CLEAN SANIWIPES WET WIPES 150~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Surface Cleaning & Sprays"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-96464-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzk4ODh8aW1hZ2UvanBlZ3xhREptTDJnNVl5OHhNelV3T0RreE5EUXhNelU1T0M4MU1UVlhlRFV4TlVoZk9UWTBOalJmTURFdWFuQm58YWExOWY1N2RhMzZjYTZmOTVhNGM0ZjY4YTlkZDhkZmQzNjU4NGVkZmMyZDE1NjBjZDdmNGZhOWE1M2Q3NDM0Yg"
+    },
+    {
+      "id": 86,
+      "transpharmCode": "96463EA",
+      "name": "ALCOHOL 80% MEDIWIPES 150 SANI-TOUCH",
+      "category": "cleaning-antiseptic-and-waste",
+      "categoryLabel": "Cleaning, Antiseptic and Waste",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 192,
+      "inStock": true,
+      "description": "ALCOHOL 80% MEDIWIPES 150 SANI-TOUCH — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Alcohol & Ethanol"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-96463-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzYyNTR8aW1hZ2UvanBlZ3xhR0pqTDJoaE9TOHhNelV3T0RreE5EQXlNRE00TWk4MU1UVlhlRFV4TlVoZk9UWTBOak5mTURFdWFuQm58NzdmMDIyOTAwYmNlMDcyMzQxZTk2ZTQ2MTUyMTA1MWFlY2EwOTgzZjE2YTU5ZDQzNDAyYmMwMmZhNzI3NjUzMg"
+    },
+    {
+      "id": 87,
+      "transpharmCode": "96462EA",
+      "name": "ALCOHOL 80% MEDIWIPES 600 SANI-TOUCH",
+      "category": "cleaning-antiseptic-and-waste",
+      "categoryLabel": "Cleaning, Antiseptic and Waste",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 100,
+      "inStock": true,
+      "description": "ALCOHOL 80% MEDIWIPES 600 SANI-TOUCH — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Surface Cleaning & Sprays"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-96462-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzMzNTN8aW1hZ2UvanBlZ3xhREk0TDJnNU5DODVORGcxTmpBNU5UWTJNak00THpVeE5WZDROVEUxU0Y4NU5qUTJNbDh3TVM1cWNHY3w0YzQzMmUxNzQ0MTNhYzM0YTg5MDkyMGZjZDkwN2E4NDVkZmQwNGYzZTNkMjQwZDhjNmU3YWFjYTAyODFkZWE5"
+    },
+    {
+      "id": 88,
+      "transpharmCode": "96461EA",
+      "name": "ALCO FREE SANI-TOUCH STERIWIPE SWABS 500",
+      "category": "cleaning-antiseptic-and-waste",
+      "categoryLabel": "Cleaning, Antiseptic and Waste",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 78,
+      "inStock": true,
+      "description": "ALCO FREE SANI-TOUCH STERIWIPE SWABS 500 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Surface Cleaning & Sprays"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-96461-01.jpg?context=bWFzdGVyfGltYWdlc3wyMTA1ODB8aW1hZ2UvanBlZ3xhRFk1TDJobU15OHhNelV3T0RreE16SXpNemsxTUM4MU1UVlhlRFV4TlVoZk9UWTBOakZmTURFdWFuQm58ODUxZmQ5ZThjMTFjZGQzMGI5ZGVlNDhmODRmY2E5ZmEwOTM0NmY5NTI5ODBhOTM2ODZiOTA3N2NiMjU5MDhlOA"
+    },
+    {
+      "id": 89,
+      "transpharmCode": "99902EA",
+      "name": "CYSTO IRRIGATION SET COSTIWAY 1",
+      "category": "urology",
+      "categoryLabel": "Urology",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 102,
+      "inStock": true,
+      "description": "CYSTO IRRIGATION SET COSTIWAY 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Cysto Irrigation"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99902-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTYyNDB8aW1hZ2UvanBlZ3xhR0V6TDJoaU1DODVORGcyT0RJNU9EYzVNekkyTHpVeE5WZDROVEUxU0Y4NU9Ua3dNbDh3TVM1cWNHY3w4ZGNhMTRkZTZkYWRlNjI1OWZkYzhhNDkzYWI3OGUzMmIwYzA5YWQ4NGExOTVlM2ZkMTM0NmUzMGE3YzAyYzgy"
+    },
+    {
+      "id": 90,
+      "transpharmCode": "98960EA",
+      "name": "DRESS TRAY CATHETER COSTIWAY",
+      "category": "urology",
+      "categoryLabel": "Urology",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 204,
+      "inStock": true,
+      "description": "DRESS TRAY CATHETER COSTIWAY — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Catheter Trays"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98960-01.jpg?context=bWFzdGVyfGltYWdlc3wxOTI0MTJ8aW1hZ2UvanBlZ3xhR1ZrTDJoaFpTODVORGcyTlRBeU9ESXhPVEU0THpVeE5WZDROVEUxU0Y4NU9EazJNRjh3TVM1cWNHY3w1M2VmZTYzNGVjNWNkNmFkZmU0MDY2OGZiZTFlNGU4M2Q0NzNjMDkwODc1YWYzMDBhMGNmZmZkYzljZjM2MTM5"
+    },
+    {
+      "id": 91,
+      "transpharmCode": "98956EA",
+      "name": "CATHETER PACK COSTIWAY",
+      "category": "urology",
+      "categoryLabel": "Urology",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 145,
+      "inStock": true,
+      "description": "CATHETER PACK COSTIWAY — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Catheter Trays"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98956-01.jpg?context=bWFzdGVyfGltYWdlc3wxODA0MjN8aW1hZ2UvanBlZ3xhREkxTDJnME55ODVORGcyTkRrNU1qZ3lPVGMwTHpVeE5WZDROVEUxU0Y4NU9EazFObDh3TVM1cWNHY3w0NmYxM2JlMDBkNWRjNGNkYWNmZmVmMTk0MTM4MjdkYjJjYzMyNzEzMmNiN2UzMTYwMGQ1ZTM3M2EyNWVkYmU0"
+    },
+    {
+      "id": 92,
+      "transpharmCode": "98955EA",
+      "name": "DRESS TRAY CATHETER W/10ML SYR COSTIWAY",
+      "category": "urology",
+      "categoryLabel": "Urology",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 164,
+      "inStock": true,
+      "description": "DRESS TRAY CATHETER W/10ML SYR COSTIWAY — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Catheter Trays"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98955-01.jpg?context=bWFzdGVyfGltYWdlc3wxODIxNTZ8aW1hZ2UvanBlZ3xhR0l6TDJneFlpODVORGcyTkRrNE5EazJOVFF5THpVeE5WZDROVEUxU0Y4NU9EazFOVjh3TVM1cWNHY3w0N2FkNjFhZjRiZGNiZWNmYzljNzE2NmRkYWNlZTM1NGEyNWMzYjZiY2ZkZmEzZjg3MDkyNjkzYzE2YzVmYWUz"
+    },
+    {
+      "id": 93,
+      "transpharmCode": "94654EA",
+      "name": "COLOPLAST URINE BAG 50CM 500ML 10 ~",
+      "category": "urology",
+      "categoryLabel": "Urology",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 155,
+      "inStock": true,
+      "description": "COLOPLAST URINE BAG 50CM 500ML 10 ~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Urine Bags & Meters"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-94654-01.jpg?context=bWFzdGVyfGltYWdlc3w4ODYwM3xpbWFnZS9qcGVnfGFHWm1MMmcwWVM4NU5EZzBPVGd3TVRVNE5EazBMelV4TlZkNE5URTFTRjg1TkRZMU5GOHdNUzVxY0djfDY5NjgyZWJlYTFlYzMxMGU3MjQ2N2Q0ZjNkZDdiYWQ1NWI4MTk0MWRhZTYyNjYyZTQyNzg5ZGE2MWJjZjVmZWM"
+    },
+    {
+      "id": 94,
+      "transpharmCode": "93130EA",
+      "name": "NELATON CATH 14FG 200MM AKACIA 1",
+      "category": "urology",
+      "categoryLabel": "Urology",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 100,
+      "inStock": true,
+      "description": "NELATON CATH 14FG 200MM AKACIA 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Nelaton Catheters",
+        "Surgicals Less Than R20!"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-93130-01.jpg?context=bWFzdGVyfGltYWdlc3w2NTgyMnxpbWFnZS9qcGVnfGFHTXpMMmczTkM4NU5EZzBOVFUzTWpJeE9URTRMelV4TlZkNE5URTFTRjg1TXpFek1GOHdNUzVxY0djfDEyYWQ0Y2Q5NDk0YmI3N2JlN2Y3NGExNTg2Nzc1ZjU4NjU4MDZhMTEwYTBlYmUyMDdiYmNiNjY0OTk1ODNlNDM"
+    },
+    {
+      "id": 95,
+      "transpharmCode": "92913EA",
+      "name": "FOLEY CATH 100% SILI FG10-03ML AKACIA 1",
+      "category": "urology",
+      "categoryLabel": "Urology",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 70,
+      "inStock": true,
+      "description": "FOLEY CATH 100% SILI FG10-03ML AKACIA 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Foley Catheters - 100% Silicon"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-92913-01.jpg?context=bWFzdGVyfGltYWdlc3w0NTcyN3xpbWFnZS9qcGVnfGFHWmlMMmcxTnk4NU5EZzBORGd4TWprNE5EWXlMelV4TlZkNE5URTFTRjg1TWpreE0xOHdNUzVxY0djfGM2NjY0NzM5ZDdlN2ExNGM4MTBmY2ViMjI0Y2JlZWZmZDE5NTI0MmZiNGE0ZjE3YTFmYTliNDJiNTZmNmE0MmQ"
+    },
+    {
+      "id": 96,
+      "transpharmCode": "92594EA",
+      "name": "SPEEDICATH CH14 MALE 30~",
+      "category": "urology",
+      "categoryLabel": "Urology",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 121,
+      "inStock": true,
+      "description": "SPEEDICATH CH14 MALE 30~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Nelaton Catheters"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-92594-01.jpg?context=bWFzdGVyfGltYWdlc3wxNDEzODJ8aW1hZ2UvanBlZ3xhR1kxTDJnMk9DODVORGcwTXpjMk1ERTBPRGM0THpVeE5WZDROVEUxU0Y4NU1qVTVORjh3TVM1cWNHY3wxZDhkNGE2Mjk4ZjQ1OGM2MTY1ZmM4ZWQyMjkwNGI0N2FiNjRkMWI3MjgwMzQzNDg1MzZmOTVmODU2NTAwMjVl"
+    },
+    {
+      "id": 97,
+      "transpharmCode": "98963EA",
+      "name": "PROCEDURE PACK COSTIWAY",
+      "category": "surgical-general-miscellaneous",
+      "categoryLabel": "Surgical General/Miscellaneous",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 51,
+      "inStock": true,
+      "description": "PROCEDURE PACK COSTIWAY — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Trays - Disposable"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98963-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzQyODd8aW1hZ2UvanBlZ3xhRE5qTDJnM055ODVORGcyTlRBMU1UZ3hNakUwTHpVeE5WZDROVEUxU0Y4NU9EazJNMTh3TVM1cWNHY3xlOGQ5NDQxOWFmZTNiNjUyNjEyZjg1ZDdhMzAzN2RkYmQ2ODRlZmVjNmY1ZmEzNDVkMDgyOTA0YWU5NDFmN2Uy"
+    },
+    {
+      "id": 98,
+      "transpharmCode": "98949EA",
+      "name": "DRESS TRAY CIRCUMCISION COSTIWAY",
+      "category": "surgical-general-miscellaneous",
+      "categoryLabel": "Surgical General/Miscellaneous",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 82,
+      "inStock": true,
+      "description": "DRESS TRAY CIRCUMCISION COSTIWAY — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Trays - Disposable"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98949-01.jpg?context=bWFzdGVyfGltYWdlc3wyNDAyNDV8aW1hZ2UvanBlZ3xhRFk1TDJneU9TODVORGcyTkRrek5UZ3hNelF5THpVeE5WZDROVEUxU0Y4NU9EazBPVjh3TVM1cWNHY3w3NzdjOTE5NDc1ZDExNzM3ODBkYWNhNzIwOGIxNmU2N2IwYjdkOGFlOWVjY2Q4MDMzNDhlNzllZDQ0Mjk4MWQ5"
+    },
+    {
+      "id": 99,
+      "transpharmCode": "98929EA",
+      "name": "DRESS TRAY HEALTHEASE",
+      "category": "surgical-general-miscellaneous",
+      "categoryLabel": "Surgical General/Miscellaneous",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 151,
+      "inStock": true,
+      "description": "DRESS TRAY HEALTHEASE — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Trays - Disposable"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98929-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjcyNDB8aW1hZ2UvanBlZ3xhREE1TDJobE55OHhNamt6TnpNek5qZzBPRFF4TkM4MU1UVlhlRFV4TlVoZk9UZzVNamxmTURFdWFuQm58ODkxYzc4NmU4Y2FlZGFkZTQ4NWZmZDVmNGQxM2RkM2JmZjhhMmE0ZTE3YjJlOGNlNjMwZTBmZmQxZWYyZTA1Ng"
+    },
+    {
+      "id": 100,
+      "transpharmCode": "9032EA",
+      "name": "SUCTION TIP METAL FG20 YELLOW AKACIA 1",
+      "category": "surgical-general-miscellaneous",
+      "categoryLabel": "Surgical General/Miscellaneous",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 160,
+      "inStock": true,
+      "description": "SUCTION TIP METAL FG20 YELLOW AKACIA 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Suctioning: Micro Tips+Handles"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-9032-01.jpg?context=bWFzdGVyfGltYWdlc3w0MzUwNHxpbWFnZS9qcGVnfGFEaGxMMmcxWXk4eE16YzBNVEk1TWpReU1URTFNQzgxTVRWWGVEVXhOVWhmT1RBek1sOHdNUzVxY0djfDNlNmRmZTAxMzYyNWMzMzVkNWVhNDZjYTEzZmE5YjUxOWY3NTQ5ODY0OGM3NTY5MzU4ZjQ1OTZjOWQwMzMzZTI"
+    },
+    {
+      "id": 101,
+      "transpharmCode": "87478EA",
+      "name": "SKIN MARKER FINE TIP HI-CARE 1",
+      "category": "surgical-general-miscellaneous",
+      "categoryLabel": "Surgical General/Miscellaneous",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 35,
+      "inStock": true,
+      "description": "SKIN MARKER FINE TIP HI-CARE 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Skin Markers",
+        "Surgicals Less Than R20!"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-87478-01.jpg?context=bWFzdGVyfGltYWdlc3w3NDk1NHxpbWFnZS9qcGVnfGFERXpMMmd6TXk4NU5EZ3pNVGMyTVRRNU1ESXlMelV4TlZkNE5URTFTRjg0TnpRM09GOHdNUzVxY0djfDAzM2VjMDkzZjU1NzgyYzc1ZjE4Mzg0YTFlMzkwNmYwM2I0OTdlZDdjNzFmODkzOWIzN2ZhMTlhMDBmZWVhMzU"
+    },
+    {
+      "id": 102,
+      "transpharmCode": "86695EA",
+      "name": "FOLIODRAPE PLUS REINFOR ADH 75X90CM 1",
+      "category": "surgical-general-miscellaneous",
+      "categoryLabel": "Surgical General/Miscellaneous",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 168,
+      "inStock": true,
+      "description": "FOLIODRAPE PLUS REINFOR ADH 75X90CM 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Surgical Drapes",
+        "Hartmann"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-86695-01.jpg?context=bWFzdGVyfGltYWdlc3wxMzA0Njh8aW1hZ2UvanBlZ3xhR1k0TDJneFl5ODVORGd5T1RNd05UZzFOak13THpVeE5WZDROVEUxU0Y4NE5qWTVOVjh3TVM1cWNHY3w3MDMwM2VhZmZiZDNlNGU4Y2E4ZDM2OThhNmYzODQxNjY1OWJjOWQxZGQwYjUzNWRjYzI5M2IwNWMyNDFkZTZm"
+    },
+    {
+      "id": 103,
+      "transpharmCode": "86693EA",
+      "name": "FOLIODRAPE PROTECT SELF ADH 75CMX75CM 1",
+      "category": "surgical-general-miscellaneous",
+      "categoryLabel": "Surgical General/Miscellaneous",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 124,
+      "inStock": true,
+      "description": "FOLIODRAPE PROTECT SELF ADH 75CMX75CM 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Surgical Drapes",
+        "Hartmann"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-86693-01.jpg?context=bWFzdGVyfGltYWdlc3wxNDIxMTB8aW1hZ2UvanBlZ3xhR0poTDJoa01TODVORGd5T1RJNU56TXpOall5THpVeE5WZDROVEUxU0Y4NE5qWTVNMTh3TVM1cWNHY3xhMzdlZmNiYTRjZjYyZTFiMzg5MjU2ZDFlMzYxNjcyNzFjNWI0NGJhOWViMGFhNTE3YjkzYjE1OWMyMzk0ZjBl"
+    },
+    {
+      "id": 104,
+      "transpharmCode": "86692EA",
+      "name": "FOLIODRAPE PROTECT SELF ADH 45CMX75CM 1",
+      "category": "surgical-general-miscellaneous",
+      "categoryLabel": "Surgical General/Miscellaneous",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 89,
+      "inStock": true,
+      "description": "FOLIODRAPE PROTECT SELF ADH 45CMX75CM 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Surgical Drapes",
+        "Hartmann",
+        "Surgicals Less Than R20!"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-86692-01.jpg?context=bWFzdGVyfGltYWdlc3wyNjMwMjR8aW1hZ2UvanBlZ3xhRGxsTDJneFlpOHhNVGcyTURjNE56QTJPRGsxT0M4MU1UVlhlRFV4TlVoZk9EWTJPVEpmTURFdWFuQm58MThhNTQwNjg3NTVhZDVkYzFkMGU5YTVmMTJmOWQzNDU5MmEwNmUwY2FiMWRhZjIzMzZhNGJlMGJlN2IyYzc0Mg"
+    },
+    {
+      "id": 105,
+      "transpharmCode": "99722EA",
+      "name": "SENSURA MIO 2PC CONVEX BASE PLAT 60MM 5~",
+      "category": "ostomy-care",
+      "categoryLabel": "Ostomy Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 125,
+      "inStock": true,
+      "description": "SENSURA MIO 2PC CONVEX BASE PLAT 60MM 5~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Plates, Wafers & Flanges"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99722-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjc4OTl8aW1hZ2UvanBlZ3xhRFZtTDJnNE1pODVOakF3TXprNU5EYzBOekU0THpVeE5WZDROVEUxU0Y4NU9UY3lNbDh3TVM1cWNHY3w0YjdlNmFjYmI2Nzg4Y2VjMDRiNWM2ZmYxZjg3Mzk1NzRiMTc0ZDlmMGJmNzNkZjUyMGM5Y2YzZWUxODllYjFk"
+    },
+    {
+      "id": 106,
+      "transpharmCode": "99721EA",
+      "name": "SENSURA MIO 2P DRAINABLE MAXI 60MM 30~",
+      "category": "ostomy-care",
+      "categoryLabel": "Ostomy Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 108,
+      "inStock": true,
+      "description": "SENSURA MIO 2P DRAINABLE MAXI 60MM 30~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Ostomy Bags & Pouches"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99721-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTY2MDF8aW1hZ2UvanBlZ3xhR1k0TDJneE1TODVOakF3TXprNE1qazFNRGN3THpVeE5WZDROVEUxU0Y4NU9UY3lNVjh3TVM1cWNHY3wzZTczMjVhMTY5ZDczMDNmZWJlODhjZmFjNGZkODUyZGU1NzdmMmEwMzlkMTg5MDZjYjExNmU5MTNmNTI0YmNh"
+    },
+    {
+      "id": 107,
+      "transpharmCode": "99720EA",
+      "name": "SENSURA MIO FLAT BASE PLATE 2PC 60MM 5~",
+      "category": "ostomy-care",
+      "categoryLabel": "Ostomy Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 26,
+      "inStock": true,
+      "description": "SENSURA MIO FLAT BASE PLATE 2PC 60MM 5~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Plates, Wafers & Flanges"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99720-01.jpg?context=bWFzdGVyfGltYWdlc3w5NDk0OXxpbWFnZS9qcGVnfGFEa3hMMmcwWlM4NU5qQXdNemszTlRBNE5qTTRMelV4TlZkNE5URTFTRjg1T1RjeU1GOHdNUzVxY0djfGM1ZDc2OTc4NGIzMzJhZTVkYjU0ODBlNmYxMzE1NDljYjQzMTU0ZTU3NjI0MWFkZDVkOGJmZmE1MmNmYmYwY2I"
+    },
+    {
+      "id": 108,
+      "transpharmCode": "99488EA",
+      "name": "ESTEEM+DRN CLP STD TAN 421838 10~",
+      "category": "ostomy-care",
+      "categoryLabel": "Ostomy Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 193,
+      "inStock": true,
+      "description": "ESTEEM+DRN CLP STD TAN 421838 10~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Plates, Wafers & Flanges"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99488-01.jpg?context=bWFzdGVyfGltYWdlc3w5MDE0NHxpbWFnZS9qcGVnfGFHSTJMMmhsWVM4NU5EZzJOamd5TkRnNE9EWXlMelV4TlZkNE5URTFTRjg1T1RRNE9GOHdNUzVxY0djfDNkMDlmNWU0ZTA1ZjllNDQxMjJlMmI1MTNlMDU1NTU3MWYyNzViNDhhODMxMjZmZjBiMzJmNTZjYTg4OTIwYzA"
+    },
+    {
+      "id": 109,
+      "transpharmCode": "98427EA",
+      "name": "HOLL 11403 CERA PLUS CONVEX SB CTF 5~",
+      "category": "ostomy-care",
+      "categoryLabel": "Ostomy Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 91,
+      "inStock": true,
+      "description": "HOLL 11403 CERA PLUS CONVEX SB CTF 5~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Plates, Wafers & Flanges",
+        "Hartmann"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98427-01.jpg?context=bWFzdGVyfGltYWdlc3wxNDgxNjN8aW1hZ2UvanBlZ3xhREkwTDJobFlTODVORGcyTWpVd09UQXhOVE0wTHpVeE5WZDROVEUxU0Y4NU9EUXlOMTh3TVM1cWNHY3w4YWU3MjExNjVmYmIxNjMzOWIzMzA3MTBkZjIwM2UxMmYxNDMyYTBhZTFhM2JhYzdmZTQwYjZiOGNlYjdkZmU0"
+    },
+    {
+      "id": 110,
+      "transpharmCode": "97611EA",
+      "name": "HOLL 18924 NEW IMAGE ENHCD URTMY POU 10~",
+      "category": "ostomy-care",
+      "categoryLabel": "Ostomy Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 164,
+      "inStock": true,
+      "description": "HOLL 18924 NEW IMAGE ENHCD URTMY POU 10~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Ostomy Bags & Pouches",
+        "Hartmann"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-97611-01.jpg?context=bWFzdGVyfGltYWdlc3wxMzAwMzV8aW1hZ2UvanBlZ3xhRFppTDJoaU1DODVORGcxT1RZek56SXlOemd5THpVeE5WZDROVEUxU0Y4NU56WXhNVjh3TVM1cWNHY3wxZWY0MWMxZTMyMGJmZDJlOGNiMjQ4ZTI1N2RiYTJjMzY1ZGRmYTA5NjRmOWJjNWIwOWY0ZjhmN2E1OGIzY2Ji"
+    },
+    {
+      "id": 111,
+      "transpharmCode": "97198EA",
+      "name": "HOLL 18923 NEW IMAGE ENH DESIGN URT 10~",
+      "category": "ostomy-care",
+      "categoryLabel": "Ostomy Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 51,
+      "inStock": true,
+      "description": "HOLL 18923 NEW IMAGE ENH DESIGN URT 10~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Ostomy Bags & Pouches",
+        "Hartmann"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-97198-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjEwMzl8aW1hZ2UvanBlZ3xhR0k0TDJoaU5DODVORGcxT0RFeE9UQTROak00THpVeE5WZDROVEUxU0Y4NU56RTVPRjh3TVM1cWNHY3w0ZWEzNTY2YzkyNjc2YjNiMzZlYmQwMWQ4MjQ3ZGIxM2M5NjU1NDY5YWY4YWExMjgxOGFmODZkOTljMzk4ZDVm"
+    },
+    {
+      "id": 112,
+      "transpharmCode": "95640EA",
+      "name": "BRAVA SKIN BARRIER WIPES 30~",
+      "category": "ostomy-care",
+      "categoryLabel": "Ostomy Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 22,
+      "inStock": true,
+      "description": "BRAVA SKIN BARRIER WIPES 30~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Infection Protection"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-95640-01.jpg?context=bWFzdGVyfGltYWdlc3w4MjcxOHxpbWFnZS9qcGVnfGFHWTBMMmd4WlM4NU5EZzFNekV5TmpnNE1UVTRMelV4TlZkNE5URTFTRjg1TlRZME1GOHdNUzVxY0djfGNlNTI4NzVlMWRiZGQ3ZDAxZjExNTNjYTgwOWY1M2Y0YTk5Y2Y4MTAxZmM3NjNhMWEzNGYxMWMyMjYxNWNmNjk"
+    },
+    {
+      "id": 113,
+      "transpharmCode": "99281EA",
+      "name": "KINESIO TAPE D3 RED 5CMX6M 1",
+      "category": "physiotherapy",
+      "categoryLabel": "Physiotherapy",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 181,
+      "inStock": true,
+      "description": "KINESIO TAPE D3 RED 5CMX6M 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Kinesiology Tape",
+        "HiTech",
+        "Surgical Promotions"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99281-01.jpg?context=bWFzdGVyfGltYWdlc3wxODAzOTJ8aW1hZ2UvanBlZ3xhRFk0TDJnNE5pODVORGcyTlRrNU5UVXpNRFUwTHpVeE5WZDROVEUxU0Y4NU9USTRNVjh3TVM1cWNHY3wwMWVkZDI2YmU1MWRmOWI0M2M2ZDM1OTA1YzRkNzMxNWMxMjQxYTUzY2IxZmQ4ODU3YWE2ZGUxZGE4OThlNmE4"
+    },
+    {
+      "id": 114,
+      "transpharmCode": "99280EA",
+      "name": "KINESIO TAPE D3 ELECTRIC BLUE 5CMX6M 1",
+      "category": "physiotherapy",
+      "categoryLabel": "Physiotherapy",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 217,
+      "inStock": true,
+      "description": "KINESIO TAPE D3 ELECTRIC BLUE 5CMX6M 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Kinesiology Tape",
+        "HiTech",
+        "Surgical Promotions"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99280-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzc5ODh8aW1hZ2UvanBlZ3xhREE1TDJnNU5DODVORGcyTlRrNU1UVTVPRE00THpVeE5WZDROVEUxU0Y4NU9USTRNRjh3TVM1cWNHY3w5OTNkZDU3N2UxYzc4NmQ3YjQ3YzZmMjI2NjZhNDYwZDhjZGQzNTNjMGMwYWFiYWZmMWMzYzQ2YjE0YWI1NjVm"
+    },
+    {
+      "id": 115,
+      "transpharmCode": "99279EA",
+      "name": "KINESIO TAPE D3 LIME GREEN 5CMX6M 1",
+      "category": "physiotherapy",
+      "categoryLabel": "Physiotherapy",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 181,
+      "inStock": true,
+      "description": "KINESIO TAPE D3 LIME GREEN 5CMX6M 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Kinesiology Tape",
+        "HiTech",
+        "Surgical Promotions"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99279-01.jpg?context=bWFzdGVyfGltYWdlc3wxODA3NzV8aW1hZ2UvanBlZ3xhRFF5TDJobE9TODVORGcyTlRrNE56WTJOakl5THpVeE5WZDROVEUxU0Y4NU9USTNPVjh3TVM1cWNHY3xhOTNkMGZiODQ2ZjE1ODRiZDIxOGM3ZDMyYzlhMTg1NDM1ZmY4ZDdkZWRlOWM1Mzg4MzhmYjZhYWFhMTZkMjk5"
+    },
+    {
+      "id": 116,
+      "transpharmCode": "99277EA",
+      "name": "KINESIO TAPE D3 BEIGE 5CMX6M 1",
+      "category": "physiotherapy",
+      "categoryLabel": "Physiotherapy",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 58,
+      "inStock": true,
+      "description": "KINESIO TAPE D3 BEIGE 5CMX6M 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Kinesiology Tape",
+        "HiTech",
+        "Surgical Promotions"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99277-01.jpg?context=bWFzdGVyfGltYWdlc3wyMDY2ODR8aW1hZ2UvanBlZ3xhRFUyTDJoaE5pODVORGcyTlRrM05UZzJPVGMwTHpVeE5WZDROVEUxU0Y4NU9USTNOMTh3TVM1cWNHY3wzM2I1Y2IzMzdhYTk5ZDgzODdhNWQxNGY4YmNhNzM3NjQ4MzJhNWM3YjMxMTc4ZGE3OTU1YmEzNDNmNDNkYzJj"
+    },
+    {
+      "id": 117,
+      "transpharmCode": "99276EA",
+      "name": "KINESIO TAPE D3 PINK 5CMX6M 1",
+      "category": "physiotherapy",
+      "categoryLabel": "Physiotherapy",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 191,
+      "inStock": true,
+      "description": "KINESIO TAPE D3 PINK 5CMX6M 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Kinesiology Tape",
+        "HiTech",
+        "Surgical Promotions"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99276-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjE1NTd8aW1hZ2UvanBlZ3xhR000TDJnNU9DODVORGcyTlRrM01Ua3pOelU0THpVeE5WZDROVEUxU0Y4NU9USTNObDh3TVM1cWNHY3xlM2M2M2Y1NDdhZDRkOGVhZGYwOTQ5MTIxZWJmOGIwOTIwMDE0MWVmYWJiYWY4Y2IxMzM2M2IwYWU0NjViY2Fi"
+    },
+    {
+      "id": 118,
+      "transpharmCode": "99275EA",
+      "name": "KINESIO TAPE D3 BLACK 5CMX6M 1",
+      "category": "physiotherapy",
+      "categoryLabel": "Physiotherapy",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 160,
+      "inStock": true,
+      "description": "KINESIO TAPE D3 BLACK 5CMX6M 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Kinesiology Tape",
+        "HiTech",
+        "Surgical Promotions"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99275-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjY2MjF8aW1hZ2UvanBlZ3xhR1JtTDJnME5TODVORGcyTlRrMk9EQXdOVFF5THpVeE5WZDROVEUxU0Y4NU9USTNOVjh3TVM1cWNHY3xlN2QyYWJlNjdmY2U2MTU0NDU3MjAwZWVjYzI5NjAyZjBjYzdlYjY0YjIwMWM4ZmFlYWI3NzFhY2EwYWY5MzM3"
+    },
+    {
+      "id": 119,
+      "transpharmCode": "92235EA",
+      "name": "KINESIO TAPE MX CAMO PINK 5CMX5CM 1",
+      "category": "physiotherapy",
+      "categoryLabel": "Physiotherapy",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 211,
+      "inStock": true,
+      "description": "KINESIO TAPE MX CAMO PINK 5CMX5CM 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Kinesiology Tape"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-92235-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzA5NDF8aW1hZ2UvanBlZ3xhR0l4TDJneE1DODVORGcwTWpjek5ERTRNamN3THpVeE5WZDROVEUxU0Y4NU1qSXpOVjh3TVM1cWNHY3w2NDRkNGI4YzE2NzVlMDAxMzE4NWUzMzQ0YmYwMDlkMWUyNDQ1YjE4ZmM5ZmVkZmMwNDc2MDViMTI1MDI2ZTcx"
+    },
+    {
+      "id": 120,
+      "transpharmCode": "92234EA",
+      "name": "KINESIO TAPE MX CAMO MULTI 5CMX5M 1",
+      "category": "physiotherapy",
+      "categoryLabel": "Physiotherapy",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 219,
+      "inStock": true,
+      "description": "KINESIO TAPE MX CAMO MULTI 5CMX5M 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Kinesiology Tape"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-92234-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzQyNTB8aW1hZ2UvanBlZ3xhREkwTDJnd015ODVORGcwTWpjek1ESTFNRFUwTHpVeE5WZDROVEUxU0Y4NU1qSXpORjh3TVM1cWNHY3xmZDJkMjkzYjQzZGE3Mzg3OTAyZTAzOTkxOTEwN2JmMzJlZWE1YjFiYzhlMTAyYTBmZTU4ODQ4NGVhZTBkNWY1"
+    },
+    {
+      "id": 121,
+      "transpharmCode": "97601EA",
+      "name": "IV DRIP STAND 4 HOOK CLINIHEALTH 1",
+      "category": "furniture-trolleys",
+      "categoryLabel": "Furniture & Trolleys",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 20,
+      "inStock": true,
+      "description": "IV DRIP STAND 4 HOOK CLINIHEALTH 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Drip Stands"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-97601-01.jpg?context=bWFzdGVyfGltYWdlc3w2NTEzM3xpbWFnZS9qcGVnfGFHWmlMMmhpWVM4NU9EY3lOakl3T1RjNE1qQTJMelV4TlZkNE5URTFTRjg1TnpZd01WOHdNUzVxY0djfGJmY2Q3YWJhNzg5NWYzOWRhYTUyZDZlMjBhOGZjOGYyMDVlYWVmODY1Nzc2OTJlNzFmMDUxNzk5YTI1MzhkYjA"
+    },
+    {
+      "id": 122,
+      "transpharmCode": "97568EA",
+      "name": "SCREEN 4 FOLD CLINIHEALTH 1",
+      "category": "furniture-trolleys",
+      "categoryLabel": "Furniture & Trolleys",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 57,
+      "inStock": true,
+      "description": "SCREEN 4 FOLD CLINIHEALTH 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Screens - 3 and 4 Folds"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-97568-01.jpg?context=bWFzdGVyfGltYWdlc3wxMzExODN8aW1hZ2UvanBlZ3xhRFE1TDJnMk15ODVOakU1TXpZME56Y3pPVEU0THpVeE5WZDROVEUxU0Y4NU56VTJPRjh3TVM1cWNHY3xmMzlhODBjMjYxMjk0MDRiNGU2NmVmNGZkYWVkZGNlMDY4MjIxYmU1YjZlOTMzNWI0ZDEyNmFlZDQzNDhlMWY2"
+    },
+    {
+      "id": 123,
+      "transpharmCode": "85204EA",
+      "name": "W/A HALOGEN LAMP 3.5V 03100-U",
+      "category": "furniture-trolleys",
+      "categoryLabel": "Furniture & Trolleys",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 62,
+      "inStock": true,
+      "description": "W/A HALOGEN LAMP 3.5V 03100-U — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Lights"
+      ],
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15f558118?w=600&h=600&fit=crop"
+    },
+    {
+      "id": 124,
+      "transpharmCode": "20281EA",
+      "name": "TROLLEY INSTRUMENT 2 SHELF 40X60CM  1",
+      "category": "furniture-trolleys",
+      "categoryLabel": "Furniture & Trolleys",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 181,
+      "inStock": true,
+      "description": "TROLLEY INSTRUMENT 2 SHELF 40X60CM  1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Trolleys - Theatre"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-20281-01.jpg?context=bWFzdGVyfGltYWdlc3w4MTc4OXxpbWFnZS9qcGVnfGFEVTJMMmc1TlM4NU5EYzBPVGd3TkRRMk1qTTRMelV4TlZkNE5URTFTRjh5TURJNE1WOHdNUzVxY0djfDhiZjIxYTE4ZWExNWIxYmIzODdiNGY3NDE5YzcxOTUxODUzY2UzMGI5N2I1ZTA0NzJiNjg3YjYzNWE2NmUxMWM"
+    },
+    {
+      "id": 125,
+      "transpharmCode": "108548EA",
+      "name": "EXAMINATION LAMP -WHITE",
+      "category": "furniture-trolleys",
+      "categoryLabel": "Furniture & Trolleys",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 111,
+      "inStock": true,
+      "description": "EXAMINATION LAMP -WHITE — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Lights"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-108548-01.jpg?context=bWFzdGVyfGltYWdlc3wyNTQ5MHxpbWFnZS9qcGVnfGFHSTRMMmcyWXk4eE1qWTJPVEF3TWpVeE5EUTJNaTgxTVRWWGVEVXhOVWhmTVRBNE5UUTRYekF4TG1wd1p3fGIyMzM3ZTgwMWIxNDc3Mzk4YjYzYTY2MWI2NDViNDAwMzllNjk3ZGFmM2E5ODM3ZTZlMDMxMzkxZWM4ZGIyOWY"
+    },
+    {
+      "id": 126,
+      "transpharmCode": "108545EA",
+      "name": "EXAMINATION LAMP - BLACK",
+      "category": "furniture-trolleys",
+      "categoryLabel": "Furniture & Trolleys",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 27,
+      "inStock": true,
+      "description": "EXAMINATION LAMP - BLACK — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Lights"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-108545-01.jpg?context=bWFzdGVyfGltYWdlc3w5NzQzMXxpbWFnZS9qcGVnfGFESmlMMmcxWmk4eE1qWTJPVEF3TWpFeU1USTBOaTgxTVRWWGVEVXhOVWhmTVRBNE5UUTFYekF4TG1wd1p3fDY2ODFkMWRmMWRiODcxODlmYmIwNzg4NDY2ZjM4NDYzZWZhMmI2ZDUzNDM4ODRiYzYwODZlNjcyYjA0YmJkNTY"
+    },
+    {
+      "id": 127,
+      "transpharmCode": "108544EA",
+      "name": "EXAMINATION LAMP -LED",
+      "category": "furniture-trolleys",
+      "categoryLabel": "Furniture & Trolleys",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 76,
+      "inStock": true,
+      "description": "EXAMINATION LAMP -LED — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Lights"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-108544-01.jpg?context=bWFzdGVyfGltYWdlc3w1NzI3OXxpbWFnZS9qcGVnfGFHUm1MMmd3T1M4eE1qWTJPVEF3TVRjeU9EQXpNQzgxTVRWWGVEVXhOVWhmTVRBNE5UUTBYekF4TG1wd1p3fDNlOGY3OWUzY2U3ZGNjZDA1NTU5MzlmNWU0NTRhMWEwMTJiNmFiMDM3NmExNzM4N2I1OWU5YWU0NDUxY2M3Njc"
+    },
+    {
+      "id": 128,
+      "transpharmCode": "108462EA",
+      "name": "EXAM LAMP KD2005W-1 LED MOBILE",
+      "category": "furniture-trolleys",
+      "categoryLabel": "Furniture & Trolleys",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 211,
+      "inStock": true,
+      "description": "EXAM LAMP KD2005W-1 LED MOBILE — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Lights"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-108462-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTEyNjd8aW1hZ2UvanBlZ3xhR1UxTDJnME9TOHhNalkyT0RrNE5EYzFOREl3Tmk4MU1UVlhlRFV4TlVoZk1UQTRORFl5WHpBeExtcHdad3wwOTQ3YjNjOGNmOGEzN2E0ZDZkNmVlZDZhMzYyZGMwYjAzMDcxN2NmOTlhN2Q4Mjg1Y2Q3OWNkNDEyYmY2MDc5"
+    },
+    {
+      "id": 129,
+      "transpharmCode": "98397EA",
+      "name": "SPEC VAG LARGE SCREW-TYPE HEALTHEASE 1",
+      "category": "gynaecology",
+      "categoryLabel": "Gynaecology",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 118,
+      "inStock": true,
+      "description": "SPEC VAG LARGE SCREW-TYPE HEALTHEASE 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Speculums",
+        "Surgicals Less Than R20!"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98397-01.jpg?context=bWFzdGVyfGltYWdlc3w1ODI5MnxpbWFnZS9qcGVnfGFHTXlMMmhqTVM4NU5EZzJNak00T0RReU9URXdMelV4TlZkNE5URTFTRjg1T0RNNU4xOHdNUzVxY0djfDJmY2UyMjYxYmJkZTlmYjlmMDBjMTNlMTVkMzUzMjgxZDljMzYyYzEyOTZmYjI3YTQzN2VkNzdkN2I2MjIxYTQ"
+    },
+    {
+      "id": 130,
+      "transpharmCode": "98396EA",
+      "name": "SPEC VAG MEDIUM SCREW-TYPE HEALTHEASE",
+      "category": "gynaecology",
+      "categoryLabel": "Gynaecology",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 147,
+      "inStock": true,
+      "description": "SPEC VAG MEDIUM SCREW-TYPE HEALTHEASE — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Speculums",
+        "Surgicals Less Than R20!"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98396-01.png?context=bWFzdGVyfGltYWdlc3wyNjM2MTN8aW1hZ2UvcG5nfGFEa3pMMmc1TVM4eE16RXdOelV6TWpZeU56azVPQzgxTVRWWGVEVXhOVWhmT1Rnek9UWmZNREV1Y0c1bnxiM2IxMWExZTdjNmRlNDVmM2ZjODRlM2RhMDkzZGFhMDZlOGRjM2VjNWMwMjI3YzI5MzhiZjk4YWVlMmZhYmFj"
+    },
+    {
+      "id": 131,
+      "transpharmCode": "98395EA",
+      "name": "SPEC VAG SMALL SCREW-TYPE HEALTHEASE",
+      "category": "gynaecology",
+      "categoryLabel": "Gynaecology",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 45,
+      "inStock": true,
+      "description": "SPEC VAG SMALL SCREW-TYPE HEALTHEASE — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Speculums",
+        "Surgicals Less Than R20!"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98395-01.png?context=bWFzdGVyfGltYWdlc3wyNDE2MDZ8aW1hZ2UvcG5nfGFEQmpMMmd5WlM4eE16RXdOelV6TXpRM09UazJOaTgxTVRWWGVEVXhOVWhmT1Rnek9UVmZNREV1Y0c1bnw0MjI2YTdhYjA3OWVmMzk1MGRhYTVlMTNlY2ZjYWYzZTA0MjdlYTk5NWU2MmRiYWM2Y2YwNTU1NDM0YTcxMTU2"
+    },
+    {
+      "id": 132,
+      "transpharmCode": "90674EA",
+      "name": "DOPPLER FOETAL BABY SOUNDS AUDIO WITH DI",
+      "category": "gynaecology",
+      "categoryLabel": "Gynaecology",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 77,
+      "inStock": true,
+      "description": "DOPPLER FOETAL BABY SOUNDS AUDIO WITH DI — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Gynae Equipment"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-90674-01.jpg?context=bWFzdGVyfGltYWdlc3wxMzA1OTB8aW1hZ2UvanBlZ3xhREF6TDJneU5pODVORGd6T1RFME56Y3lOVEV3THpVeE5WZDROVEUxU0Y4NU1EWTNORjh3TVM1cWNHY3xjYmI5OGM3ZjM2ZDVlN2RmOWVhMWMzYzE1NDBkMTVlNTVmM2NhYmE5NDFkMGE4MTFhYmNmNmUzYWI4NTYzM2Vi"
+    },
+    {
+      "id": 133,
+      "transpharmCode": "62751EA",
+      "name": "SPEC VAG MEDIUM DISPOSABLE SAHC",
+      "category": "gynaecology",
+      "categoryLabel": "Gynaecology",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 109,
+      "inStock": true,
+      "description": "SPEC VAG MEDIUM DISPOSABLE SAHC — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Speculums",
+        "Surgicals Less Than R20!"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-62751-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjA4OTB8aW1hZ2UvanBlZ3xhRFE0TDJobU5DODVORGd3TURnNE1UVTRNak00THpVeE5WZDROVEUxU0Y4Mk1qYzFNVjh3TVM1cWNHY3xlMDQ4ZWRjMzNlMjU5ZDZjNWRhYWRkMTA3YjExNGYzOWZkZmZhZGY4MmY0NzRkZjdiZTE2MDIzOTdiYjA0NGI1"
+    },
+    {
+      "id": 134,
+      "transpharmCode": "62750EA",
+      "name": "SPEC VAG LARGE DISPOSABLE SAHC 1",
+      "category": "gynaecology",
+      "categoryLabel": "Gynaecology",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 40,
+      "inStock": true,
+      "description": "SPEC VAG LARGE DISPOSABLE SAHC 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Speculums",
+        "Surgicals Less Than R20!"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-62750-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjUyMTJ8aW1hZ2UvanBlZ3xhREV3TDJnNVppODVORGd3TURnM056WTFNREl5THpVeE5WZDROVEUxU0Y4Mk1qYzFNRjh3TVM1cWNHY3xkYTA4MzRiYTZhODVhZTE3ZGU4NTk1NjZlNzAzMTdhN2JjMDg2MTliNzI2M2JhODgzMDE0MDE2Y2NmMzVlOGIy"
+    },
+    {
+      "id": 135,
+      "transpharmCode": "55484EA",
+      "name": "SPEC VAG SMALL DISPOSABLE SAHC",
+      "category": "gynaecology",
+      "categoryLabel": "Gynaecology",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 128,
+      "inStock": true,
+      "description": "SPEC VAG SMALL DISPOSABLE SAHC — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Speculums",
+        "Surgicals Less Than R20!"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-55484-01.jpg?context=bWFzdGVyfGltYWdlc3w3OTc4M3xpbWFnZS9qcGVnfGFERTVMMmhsTnk4eE1EQXdNekkxTkRRM05qZ3pNQzgxTVRWWGVEVXhOVWhmTlRVME9EUmZNREV1YW5Cbnw5ZjczYzE2MzBkOTcxMzE2MTMwN2VhNWY4ZThiYjJmYTM3OGY5ODJhN2Q1NGMxMGNkNzAyM2QyYzU5YjA3YWFm"
+    },
+    {
+      "id": 136,
+      "transpharmCode": "51705EA",
+      "name": "AMNIOTIC HOOK CURVED PVC 1",
+      "category": "gynaecology",
+      "categoryLabel": "Gynaecology",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 93,
+      "inStock": true,
+      "description": "AMNIOTIC HOOK CURVED PVC 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Gynae Consumables",
+        "Surgicals Less Than R20!"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-51705-01.jpg?context=bWFzdGVyfGltYWdlc3w1MTQ2NXxpbWFnZS9qcGVnfGFHSTBMMmczTXk4NU5EYzVNakl4TXpRMk16TTBMelV4TlZkNE5URTFTRjgxTVRjd05WOHdNUzVxY0djfDA3ZWQ1MzM4ZTYzYjkyMjZlNWIzN2M5ZDBiNDZjNTZhNTAzOWVjOTc5YmE3ZjM0OWRjOTE5ODU2YjZhZDMyMmY"
+    },
+    {
+      "id": 137,
+      "transpharmCode": "99264EA",
+      "name": "BRAUN THERMOSCAN 7+ IN EAR THERMOMETER 1",
+      "category": "patient-monitoring",
+      "categoryLabel": "Patient Monitoring",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 118,
+      "inStock": true,
+      "description": "BRAUN THERMOSCAN 7+ IN EAR THERMOMETER 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Thermometers"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99264-01.png?context=bWFzdGVyfGltYWdlc3wxMzY2NjN8aW1hZ2UvcG5nfGFESTFMMmhpTUM4eE16RTNNVFE1TkRnME5qUTVOQzgxTVRWWGVEVXhOVWhmT1RreU5qUmZNREV1Y0c1bnw3YWY1MDYzZTRjOTVhMTU1NTNlODRlMDMxNzk2MGIxMjI0Mzc4YmFhNWY3Y2E2NzA4ZWI5ODA1NzVmNDFmNWRl"
+    },
+    {
+      "id": 138,
+      "transpharmCode": "99241EA",
+      "name": "STET SINGLE HEAD HEALTHEASE",
+      "category": "patient-monitoring",
+      "categoryLabel": "Patient Monitoring",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 168,
+      "inStock": true,
+      "description": "STET SINGLE HEAD HEALTHEASE — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Stethoscopes"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99241-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjIxMTN8aW1hZ2UvanBlZ3xhRFJpTDJobU5TODVORGcyTlRnd05qYzROamcyTHpVeE5WZDROVEUxU0Y4NU9USTBNVjh3TVM1cWNHY3xhNGM5YzVmY2Q4Mjg4MjE5NGQwZmIyMzgxODg1NmJkY2Y3MDljMWMyMjJhZDI3YTE0ZjE4YzlmNDFiOTAyYWY3"
+    },
+    {
+      "id": 139,
+      "transpharmCode": "99028EA",
+      "name": "ROSSMAX THERMOM PROBE COVER RA600 10~",
+      "category": "patient-monitoring",
+      "categoryLabel": "Patient Monitoring",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 33,
+      "inStock": true,
+      "description": "ROSSMAX THERMOM PROBE COVER RA600 10~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Thermometers"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99028-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzg5NzV8aW1hZ2UvanBlZ3xhREptTDJneU55ODVORGcyTlRJMU5qSTRORFEyTHpVeE5WZDROVEUxU0Y4NU9UQXlPRjh3TVM1cWNHY3xkMzU3N2ZhNDFiM2NhZjllODM2NDZkYmM1MWQ2Yzc2MjMzMjQ1ZTcxZjgwMWFlM2NjM2QxMjYwMzFjZjgxOTM2"
+    },
+    {
+      "id": 140,
+      "transpharmCode": "99024EA",
+      "name": "ROSSMAX STETHOSCOPE SINGLE HEAD",
+      "category": "patient-monitoring",
+      "categoryLabel": "Patient Monitoring",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 53,
+      "inStock": true,
+      "description": "ROSSMAX STETHOSCOPE SINGLE HEAD — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Stethoscopes"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99024-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzIxNDV8aW1hZ2UvanBlZ3xhR1kyTDJoak55ODVOakF3TXpjMU16VTNORGN3THpVeE5WZDROVEUxU0Y4NU9UQXlORjh3TVM1cWNHY3xhMmJkM2JiMDVkMmUzMTY2MTEwNGJmNTAyNjEwN2ZhMWRkMzMzNGIzY2M2MGVhYzViMWNlYzJhOWE0YWZiMGU1"
+    },
+    {
+      "id": 141,
+      "transpharmCode": "99022EA",
+      "name": "ROSSMAX STETHOSCOPE DUAL HEAD",
+      "category": "patient-monitoring",
+      "categoryLabel": "Patient Monitoring",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 86,
+      "inStock": true,
+      "description": "ROSSMAX STETHOSCOPE DUAL HEAD — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Stethoscopes"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99022-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjAzODJ8aW1hZ2UvanBlZ3xhR05tTDJnM09DODVOakF3TXpjek9UUTRORFEyTHpVeE5WZDROVEUxU0Y4NU9UQXlNbDh3TVM1cWNHY3wzZTdkMjMzMTAxMjdmMzE3Mjg0NTRiYjhkNDcyODU4NTVmZmJhNjRmYmQ3Y2IyNjAwYzU4YTM2NGEzNjE4ZmZm"
+    },
+    {
+      "id": 142,
+      "transpharmCode": "98966EA",
+      "name": "ROSSMAX BP SPHYGMOMANOMETER ANEROID",
+      "category": "patient-monitoring",
+      "categoryLabel": "Patient Monitoring",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 149,
+      "inStock": true,
+      "description": "ROSSMAX BP SPHYGMOMANOMETER ANEROID — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Manual Blood Pressure Machines"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98966-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTc5NTl8aW1hZ2UvanBlZ3xhR1kxTDJoaE55ODVORGcyTlRBM05UUXdOVEV3THpVeE5WZDROVEUxU0Y4NU9EazJObDh3TVM1cWNHY3xiYjdiMzVjZWY0ZGY0NWMyMjU5MDdiNDI3YjkzYTFmNWQ0NDA3NmMyZTBiODVjNDdkYWM0N2ZhM2RhZDY5ZWM5"
+    },
+    {
+      "id": 143,
+      "transpharmCode": "98399EA",
+      "name": "ULTRASOUND GEL MULTIP 250ML HEALTHEASE 1",
+      "category": "patient-monitoring",
+      "categoryLabel": "Patient Monitoring",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 40,
+      "inStock": true,
+      "description": "ULTRASOUND GEL MULTIP 250ML HEALTHEASE 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Gel for ECG / Ultrasound",
+        "Surgicals Less Than R20!"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98399-01.png?context=bWFzdGVyfGltYWdlc3w5MjYzNHxpbWFnZS9wbmd8YURaaUwyaG1OeTh4TXpFd056VXpNVGMzTmpBek1DODFNVFZYZURVeE5VaGZPVGd6T1RsZk1ERXVjRzVufDAzN2Y5Y2VjMGIzNDAwOWJiODBlYTFkMzIzOWQwM2IyNjViNzAxYTA3NjNjMDdhNDRmYzZlYTY0Y2ZjYmVmM2Q"
+    },
+    {
+      "id": 144,
+      "transpharmCode": "98393EA",
+      "name": "ECG ELECTRODES CHILD PRE-GEL HEALTHE 50s",
+      "category": "patient-monitoring",
+      "categoryLabel": "Patient Monitoring",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 107,
+      "inStock": true,
+      "description": "ECG ELECTRODES CHILD PRE-GEL HEALTHE 50s — supplied by EJ Surgical Solutions.",
+      "features": [
+        "ECG Electrodes"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98393-01.jpg?context=bWFzdGVyfGltYWdlc3wxOTE0MTJ8aW1hZ2UvanBlZ3xhR1EwTDJnM1pTODVORGcyTWpNMU56WXlOekU0THpVeE5WZDROVEUxU0Y4NU9ETTVNMTh3TVM1cWNHY3wyYWEzZGM2Yjk0ZWNhYzg0ZDgyN2NmMGNiMDE3MTliYmJiNjVkM2Y3NzMyY2UyOTI1ZjZjYzY3ZGQ5YzBiZjdk"
+    },
+    {
+      "id": 145,
+      "transpharmCode": "99483EA",
+      "name": "HIV 1/2 RAPID TEST IN VITRO 25'S",
+      "category": "tests-and-strips",
+      "categoryLabel": "Tests and Strips",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 104,
+      "inStock": true,
+      "description": "HIV 1/2 RAPID TEST IN VITRO 25'S — supplied by EJ Surgical Solutions.",
+      "features": [
+        "HIV Tests"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99483-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjg2ODV8aW1hZ2UvanBlZ3xhRFkyTDJneU55ODVORGcyTmpnd09URTFPVGs0THpVeE5WZDROVEUxU0Y4NU9UUTRNMTh3TVM1cWNHY3xiMDBmY2ZjZmNjNWFmMGVlZTQ5OTEzMDMwMTI5ZGU5MGVkNmYzYWRlYTcxMjU3NjM0MTY1MGZkNDMwMzJjZGIy"
+    },
+    {
+      "id": 146,
+      "transpharmCode": "99482EA",
+      "name": "TUBERCULOSIS RAPID TEST CASSETTE 40's",
+      "category": "tests-and-strips",
+      "categoryLabel": "Tests and Strips",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 95,
+      "inStock": true,
+      "description": "TUBERCULOSIS RAPID TEST CASSETTE 40's — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Other Tests"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99482-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDUyODd8aW1hZ2UvanBlZ3xhREEwTDJoaE55OHhNelExTVRrek56UTRNRGN6TkM4MU1UVlhlRFV4TlVoZk9UazBPREpmTURFdWFuQm58NTdlMmE5MTIwNDU4NGVjMzk5ZmQyNmFlYWU3M2MyMjRlZmZhNGU5YTM3YzY5ZDBkYTRhYzA2M2QxOGQ5NTc1Ng"
+    },
+    {
+      "id": 147,
+      "transpharmCode": "99315EA",
+      "name": "DRUG 6 PANEL TEST SALIVA CLINIHEALTH 1",
+      "category": "tests-and-strips",
+      "categoryLabel": "Tests and Strips",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 150,
+      "inStock": true,
+      "description": "DRUG 6 PANEL TEST SALIVA CLINIHEALTH 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Drugs of Abuse Tests"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99315-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDE1MDl8aW1hZ2UvanBlZ3xhRFl4TDJoa05TODVORGcyTmpFMk1ETTFNelU0THpVeE5WZDROVEUxU0Y4NU9UTXhOVjh3TVM1cWNHY3wwNzU2NjU3MGU3NzY0ZjgyN2Q5OTEzM2RiY2YwNDVlMWJjYWEyYzJmNTczZTIzZjc0MzUyZjdhNjMxMWFkODgz"
+    },
+    {
+      "id": 148,
+      "transpharmCode": "99312EA",
+      "name": "URINALYSIS 10 PARAMETER 100~",
+      "category": "tests-and-strips",
+      "categoryLabel": "Tests and Strips",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 184,
+      "inStock": true,
+      "description": "URINALYSIS 10 PARAMETER 100~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Urine Tests"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99312-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjU4NzZ8aW1hZ2UvanBlZ3xhREl3TDJnd01pODVORGcyTmpFME1EWTVNamM0THpVeE5WZDROVEUxU0Y4NU9UTXhNbDh3TVM1cWNHY3wwNGFiNzkxODM5MzMwZDk0OTAxYTI5YTFhNmZjMzVkYzM5YTU3NDdkM2M4Zjc0MzI1MWM4NjU3MTQwMjA2MmIx"
+    },
+    {
+      "id": 149,
+      "transpharmCode": "99310EA",
+      "name": "COMBI SCREEN 11 PLUS URINE STRIPS 150~",
+      "category": "tests-and-strips",
+      "categoryLabel": "Tests and Strips",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 217,
+      "inStock": true,
+      "description": "COMBI SCREEN 11 PLUS URINE STRIPS 150~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Urine Tests"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99310-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTM4MTB8aW1hZ2UvanBlZ3xhRGRtTDJoak15ODVORGcyTmpFeU5EazJOREUwTHpVeE5WZDROVEUxU0Y4NU9UTXhNRjh3TVM1cWNHY3wwNWU1NTc4ZTFlZTI5MWMxMTdiZGNiN2E2ODg3OTJkZmIyZDE2Y2FmZDI4YzA4NjYxZmRjNzY4ZDVlODQ0ZmEy"
+    },
+    {
+      "id": 150,
+      "transpharmCode": "99222EA",
+      "name": "HIV DEVICE TEST KHB + LANCET & SWABS 50~",
+      "category": "tests-and-strips",
+      "categoryLabel": "Tests and Strips",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 112,
+      "inStock": true,
+      "description": "HIV DEVICE TEST KHB + LANCET & SWABS 50~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "HIV Tests"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99222-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjYxMjN8aW1hZ2UvanBlZ3xhR1V4TDJnNFpTODVORGcyTlRjeE5qTTBOekU0THpVeE5WZDROVEUxU0Y4NU9USXlNbDh3TVM1cWNHY3w0OWMyZWE3Zjk0NDAxYjI2NGJhZjlmYzJlY2MzMjM1MDYwOWE1ODJjOTIwOWIxY2QzM2E2ODY3MDI3ZjczYzQw"
+    },
+    {
+      "id": 151,
+      "transpharmCode": "99221EA",
+      "name": "SYPHILIS SAFECARE DEVICES 10s",
+      "category": "tests-and-strips",
+      "categoryLabel": "Tests and Strips",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 72,
+      "inStock": true,
+      "description": "SYPHILIS SAFECARE DEVICES 10s — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Other Tests"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99221-01.jpg?context=bWFzdGVyfGltYWdlc3wxMTM2NTJ8aW1hZ2UvanBlZ3xhRFUwTDJnNE1TODVORGcyTlRjeE1qUXhOVEF5THpVeE5WZDROVEUxU0Y4NU9USXlNVjh3TVM1cWNHY3wzNjM4MzE1ZWI2ODQxMWM2NDk3MGQ4NDBjZmRlMGIxYWQ2ZWVlZGZjOTg1NGM1NmNiODU4NjU4NmVjMzNjODdm"
+    },
+    {
+      "id": 152,
+      "transpharmCode": "98687EA",
+      "name": "FORA 6 CHOLESTEROL STRIPS TOTAL PK 10",
+      "category": "tests-and-strips",
+      "categoryLabel": "Tests and Strips",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 120,
+      "inStock": true,
+      "description": "FORA 6 CHOLESTEROL STRIPS TOTAL PK 10 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Cholesterol / Lipogram Tests"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98687-01.jpg?context=bWFzdGVyfGltYWdlc3wyMDAxNjR8aW1hZ2UvanBlZ3xhRGd5TDJnME9DODVORGcyTXpjeE9UYzVNamswTHpVeE5WZDROVEUxU0Y4NU9EWTROMTh3TVM1cWNHY3xjOWE1NWUwYmYzYmVjZWRmNTRmOWUwNDBiZjdlYzQ1MjFmYmUxYzYxM2NlNWNmMzgxYTljNTMyOTZkM2E2MzIw"
+    },
+    {
+      "id": 153,
+      "transpharmCode": "96356EA",
+      "name": "PIPETTE PASTEUR LDPE UNSTERILE 5ML 100",
+      "category": "laboratory",
+      "categoryLabel": "Laboratory",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 132,
+      "inStock": true,
+      "description": "PIPETTE PASTEUR LDPE UNSTERILE 5ML 100 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Pipettes"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-96356-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjY1NjN8aW1hZ2UvanBlZ3xhRGxqTDJoaFlTODVORGcxTlRZNE1UZ3dNalUwTHpVeE5WZDROVEUxU0Y4NU5qTTFObDh3TVM1cWNHY3w2MjllMTc4ZTc0M2FhOTdjY2Q3OThiODlmMzlkY2M5NzRkOTI4NjUwZDlmOWNiNDQxZmQ2NzFiZGQ1NDE4ZGZm"
+    },
+    {
+      "id": 154,
+      "transpharmCode": "96355EA",
+      "name": "PIPETTE PASTEUR LDPE UNSTERILE 1ML 250'S",
+      "category": "laboratory",
+      "categoryLabel": "Laboratory",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 59,
+      "inStock": true,
+      "description": "PIPETTE PASTEUR LDPE UNSTERILE 1ML 250'S — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Pipettes"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-96355-01.jpg?context=bWFzdGVyfGltYWdlc3wxMzUwOTd8aW1hZ2UvanBlZ3xhRFV3TDJnMU5TODVORGcxTlRZM056ZzNNRE00THpVeE5WZDROVEUxU0Y4NU5qTTFOVjh3TVM1cWNHY3w3Yzk0ODQyYzY4OGY2NzEwNDZhYWRmODQ2NWYwZWVhNGU2ZGEzMGQ0MDMzY2I3MjJiMTllNTEzMjZhMWZjMjlj"
+    },
+    {
+      "id": 155,
+      "transpharmCode": "95694EA",
+      "name": "THERMOMETER WALL STANDARD 215MM 1",
+      "category": "laboratory",
+      "categoryLabel": "Laboratory",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 89,
+      "inStock": true,
+      "description": "THERMOMETER WALL STANDARD 215MM 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Laboratory Equipment"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-95694-01.jpg?context=bWFzdGVyfGltYWdlc3w5OTE0NHxpbWFnZS9qcGVnfGFEUXpMMmhpTUM4NU5EZzFNek13TnpjMk1EazBMelV4TlZkNE5URTFTRjg1TlRZNU5GOHdNUzVxY0djfGYyOTNhZDgxN2U5MWU0YWMwZGJmMTMyMTY0N2Q5ZGY0OTE0Yzg4MzkxNmJmZTY4OTA5ODZmYjJmN2NjYzViNzk"
+    },
+    {
+      "id": 156,
+      "transpharmCode": "89671EA",
+      "name": "SWABSTICK COTTON N/ST 150MM 100",
+      "category": "laboratory",
+      "categoryLabel": "Laboratory",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 159,
+      "inStock": true,
+      "description": "SWABSTICK COTTON N/ST 150MM 100 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Swabs and Swabsticks"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-89671-01.jpg?context=bWFzdGVyfGltYWdlc3wxMTY4NTN8aW1hZ2UvanBlZ3xhREkxTDJneE1DODVORGd6TmpRM09EUTBNemd5THpVeE5WZDROVEUxU0Y4NE9UWTNNVjh3TVM1cWNHY3wxYjIzNDVjOGRlOTY0MDAxNDI5YjlkNzQwYmU4ZGQzMGVhZDRjY2QwOWMyYjFiODI3MjZmM2NjZWIyZjIzYjBi"
+    },
+    {
+      "id": 157,
+      "transpharmCode": "8871EA",
+      "name": "MEASURING CYLINDER PLASTIC  500ML",
+      "category": "laboratory",
+      "categoryLabel": "Laboratory",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 151,
+      "inStock": true,
+      "description": "MEASURING CYLINDER PLASTIC  500ML — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Laboratory Equipment"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-8871-01.jpg?context=bWFzdGVyfGltYWdlc3w1NzY4MXxpbWFnZS9qcGVnfGFETmxMMmd3Tnk4NU5EZ3pORE0xTWpRMU5UazRMelV4TlZkNE5URTFTRjg0T0RjeFh6QXhMbXB3Wnd8NGI5ZTBkNjQzZTNkYzZlYzkxNDlkOTc0YmRhODU0Nzg4YmIyZDQ4MGFkMDUzYjExMTRhYzIyN2JmZjg1MzdhZQ"
+    },
+    {
+      "id": 158,
+      "transpharmCode": "8870EA",
+      "name": "MEASURING CYLINDER GLASS  100ML",
+      "category": "laboratory",
+      "categoryLabel": "Laboratory",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 209,
+      "inStock": true,
+      "description": "MEASURING CYLINDER GLASS  100ML — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Laboratory Equipment"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-8870-01.jpg?context=bWFzdGVyfGltYWdlc3w1ODgxMXxpbWFnZS9qcGVnfGFHRmxMMmhrWVM4NU5EZ3pORE15TnpJeU5EWXlMelV4TlZkNE5URTFTRjg0T0Rjd1h6QXhMbXB3Wnd8NzFlMDNlZDQ4NjYyMDYzMjRlMGVhNmNmYjc4N2M5YWJkNWYxNGU5YmE1OTNjNGE1ZmUxYzM4ZDRjNzA4ODZiZg"
+    },
+    {
+      "id": 159,
+      "transpharmCode": "8869EA",
+      "name": "MEASURING CYLINDER GLASS   50ML",
+      "category": "laboratory",
+      "categoryLabel": "Laboratory",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 199,
+      "inStock": true,
+      "description": "MEASURING CYLINDER GLASS   50ML — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Laboratory Equipment"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-8869-01.jpg?context=bWFzdGVyfGltYWdlc3w1OTIzNnxpbWFnZS9qcGVnfGFEQmxMMmhqWkM4NU5EZ3pORE15TXpJNU1qUTJMelV4TlZkNE5URTFTRjg0T0RZNVh6QXhMbXB3Wnd8ZmE5YzVlMTMzMjE3YjExZjdlMjQzOTkxZTQwNDU5NDYzZDNiZGU0Y2Y4ZjEwNzRhYTg5NjY1ZDEzOWVjODU3Zg"
+    },
+    {
+      "id": 160,
+      "transpharmCode": "80882EA",
+      "name": "FUNNEL PLASTIC SMALL 1",
+      "category": "laboratory",
+      "categoryLabel": "Laboratory",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 58,
+      "inStock": true,
+      "description": "FUNNEL PLASTIC SMALL 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Laboratory Equipment"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-80882-01.jpg?context=bWFzdGVyfGltYWdlc3w2NzY3M3xpbWFnZS9qcGVnfGFEZ3lMMmd6TlM4NU5EZ3hOVFkxTVRRek1EY3dMelV4TlZkNE5URTFTRjg0TURnNE1sOHdNUzVxY0djfGQ2ODA1NjU4NzBiZDkxMTUzNTUyZDAwYTYxMDliNGY4OWM4YmNjZmMzYzViYTkyMjY2MDE5NjY2ZmExY2MxMzI"
+    },
+    {
+      "id": 161,
+      "transpharmCode": "99982EA",
+      "name": "DISPOTECH SALIVA EJECTORS 150MM 100~",
+      "category": "dental",
+      "categoryLabel": "Dental",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 145,
+      "inStock": true,
+      "description": "DISPOTECH SALIVA EJECTORS 150MM 100~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Dental Accessories+Consumables"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99982-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjEwNzl8aW1hZ2UvanBlZ3xhRGt6TDJobE9DOHhNelExTVRrek9EWTJNRE00TWk4MU1UVlhlRFV4TlVoZk9UazVPREpmTURFdWFuQm58MzNkNGRjY2EwNjA1MWQzZmQ1YjQzNzllMzgwYjcyYzgwM2ZiMjBmYWI0OTlkMDU1YWIwZGQ4NTlhNjBlMzQ3Yw"
+    },
+    {
+      "id": 162,
+      "transpharmCode": "98403EA",
+      "name": "DENTAL NEEDLE 30G X 0.3 X 21MM SHORT 100",
+      "category": "dental",
+      "categoryLabel": "Dental",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 34,
+      "inStock": true,
+      "description": "DENTAL NEEDLE 30G X 0.3 X 21MM SHORT 100 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Dental Needles & Syringes"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98403-01.jpg?context=bWFzdGVyfGltYWdlc3wxNDE2MTJ8aW1hZ2UvanBlZ3xhRGd3TDJobU15ODVORGcyTWpReU5UUTFOamswTHpVeE5WZDROVEUxU0Y4NU9EUXdNMTh3TVM1cWNHY3xmMmQ2M2E1OTE2YjcxODQ3ZjcwN2RkNGM4MjhiMmNlNjMxYjE0YjQ4ZGU1N2FhMDY1Mjg2M2RjMDFkMjU2MDBl"
+    },
+    {
+      "id": 163,
+      "transpharmCode": "95016EA",
+      "name": "DENTAL SYRINGE STAINLESS STEEL ACROTEQ 1",
+      "category": "dental",
+      "categoryLabel": "Dental",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 94,
+      "inStock": true,
+      "description": "DENTAL SYRINGE STAINLESS STEEL ACROTEQ 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Dental Needles & Syringes"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-95016-01.jpg?context=bWFzdGVyfGltYWdlc3w4MzQ2NnxpbWFnZS9qcGVnfGFESXhMMmhqWWk4NU5EZzFNRGN4TVRnM09UazRMelV4TlZkNE5URTFTRjg1TlRBeE5sOHdNUzVxY0djfDU0MWE0NTc3NjkzYTJlOGViMDU3MGQ5NjBkZDZiNDdkOGJlMzU3NzhmYWIzMzM3MDllODY2OTk0NWViMzNkOTg"
+    },
+    {
+      "id": 164,
+      "transpharmCode": "86704EA",
+      "name": "DENTAL NEEDLE 30GX42MM HEALTHEASE 100",
+      "category": "dental",
+      "categoryLabel": "Dental",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 169,
+      "inStock": true,
+      "description": "DENTAL NEEDLE 30GX42MM HEALTHEASE 100 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Dental Needles & Syringes"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-86704-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzMyNTV8aW1hZ2UvanBlZ3xhRGs0TDJnM1l5ODVORGd5T1RNME16ZzJOekU0THpVeE5WZDROVEUxU0Y4NE5qY3dORjh3TVM1cWNHY3xkMmFlMjBmZTM4ZjE5MjdkYjZiNzdmYmZlY2ExNDJiMjc1MWRhMGZlNjg3MDU5ZmY4MjczYjY3YzE3ODBjYjY1"
+    },
+    {
+      "id": 165,
+      "transpharmCode": "86702EA",
+      "name": "DENTAL NEEDLE 27GX38MM HEALTHEASE 100",
+      "category": "dental",
+      "categoryLabel": "Dental",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 156,
+      "inStock": true,
+      "description": "DENTAL NEEDLE 27GX38MM HEALTHEASE 100 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Dental Needles & Syringes"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-86702-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjQ3Njh8aW1hZ2UvanBlZ3xhREJtTDJoa1pDODVORGd5T1RNek5qQXdNamcyTHpVeE5WZDROVEUxU0Y4NE5qY3dNbDh3TVM1cWNHY3w3N2Q0Zjc4ODc4NTEzZWJiMzc1ZGJhYzE0MmM0MTdmMTE3NmJmYWI1YmYyZDcwYzNhNzJmM2Q4YzJiZjJhNWI3"
+    },
+    {
+      "id": 166,
+      "transpharmCode": "86701EA",
+      "name": "DENTAL NEEDLE 27GX21MM HEALTHEASE 100",
+      "category": "dental",
+      "categoryLabel": "Dental",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 90,
+      "inStock": true,
+      "description": "DENTAL NEEDLE 27GX21MM HEALTHEASE 100 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Dental Needles & Syringes"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-86701-01.jpg?context=bWFzdGVyfGltYWdlc3wxODc1MzB8aW1hZ2UvanBlZ3xhRFUyTDJobFpDODVORGd5T1RNek1UYzBNekF5THpVeE5WZDROVEUxU0Y4NE5qY3dNVjh3TVM1cWNHY3w1MzI3OWI2OWM2NGU2YTMzMjYwMDc0ZWZkZDRmYTU4NWRjNTMxMDc5OGJlMDk0NmJhZDZjZTI5NzE2ZDM4ZjM4"
+    },
+    {
+      "id": 167,
+      "transpharmCode": "53417EA",
+      "name": "SPONGOSTAN DENTAL 10x10x10MM 24~",
+      "category": "dental",
+      "categoryLabel": "Dental",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 97,
+      "inStock": true,
+      "description": "SPONGOSTAN DENTAL 10x10x10MM 24~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Dental Accessories+Consumables"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-53417-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjM0NDd8aW1hZ2UvanBlZ3xhRFJrTDJoall5OHhNVFkwTWpRNU16TTNNRE01T0M4MU1UVlhlRFV4TlVoZk5UTTBNVGRmTURFdWFuQm58NzIwNWQ5YTJhM2RjN2NlNzBjYTFlNzEwNmNkZDIxNjVlZTNiZmNmZWJlZjhjNDljZjliZjk3MTNlZmMyMDllZQ"
+    },
+    {
+      "id": 168,
+      "transpharmCode": "40535EA",
+      "name": "ANAESTHETIC GEL I-TOPICAL CHERRY 30G",
+      "category": "dental",
+      "categoryLabel": "Dental",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 59,
+      "inStock": true,
+      "description": "ANAESTHETIC GEL I-TOPICAL CHERRY 30G — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Dental Accessories+Consumables"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-40535-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDE2NzR8aW1hZ2UvanBlZ3xhRGsxTDJoak1TOHhNekl6TXpJNU56STJNRFUzTkM4MU1UVlhlRFV4TlVoZk5EQTFNelZmTURFdWFuQm58ZWFmNWM3YWIzN2I2NDljOGM0ZTU1ZmNhZDQ1YzRkNDE4MThmMzA1ZTg0NjEwMjJjNjcxNWJmNzM4MGZkOTdkOQ"
+    },
+    {
+      "id": 169,
+      "transpharmCode": "98957EA",
+      "name": "DRESS TRAY RENAL COSTIWAY",
+      "category": "renal",
+      "categoryLabel": "Renal",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 95,
+      "inStock": true,
+      "description": "DRESS TRAY RENAL COSTIWAY — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Renal Trays"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98957-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjU3MzR8aW1hZ2UvanBlZ3xhR0V6TDJnMk1pODVORGcyTlRBd01EWTVOREEyTHpVeE5WZDROVEUxU0Y4NU9EazFOMTh3TVM1cWNHY3wxMjA3MGYxZWFhNDg2NTlkZDkwZTUxZWU0ZjdmNTVhMDlkNmYwZjE5ZDhlODYyNzI1YTc1ODg1NzdlZDBhZmMx"
+    },
+    {
+      "id": 170,
+      "transpharmCode": "95875EA",
+      "name": "SCISSOR OPERATION SHARP/SHARP STR 14.5CM",
+      "category": "surgical-instruments",
+      "categoryLabel": "Surgical Instruments",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 39,
+      "inStock": true,
+      "description": "SCISSOR OPERATION SHARP/SHARP STR 14.5CM — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Scissors"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-95875-01.jpg?context=bWFzdGVyfGltYWdlc3w4Nzc4NnxpbWFnZS9qcGVnfGFHUTRMMmd4TXk4NU5EZzFNemc0T1RNNU1qazBMelV4TlZkNE5URTFTRjg1TlRnM05WOHdNUzVxY0djfDNlNTcxYWM1YzFhMmFhODdiZWE2ZGZkZTQ5MjVkMmJmMWU0NTM2OWU0M2IzNzY5MzkyYmI4MTA3MjVlZmY4ODg"
+    },
+    {
+      "id": 171,
+      "transpharmCode": "95874EA",
+      "name": "FORCEP RAMPLEY SPONGE HOLDER 25CM",
+      "category": "surgical-instruments",
+      "categoryLabel": "Surgical Instruments",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 85,
+      "inStock": true,
+      "description": "FORCEP RAMPLEY SPONGE HOLDER 25CM — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Forceps"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-95874-01.jpg?context=bWFzdGVyfGltYWdlc3w4NDcyOXxpbWFnZS9qcGVnfGFEUXpMMmd3Tnk4NU5EZzFNemc0TVRVeU9EWXlMelV4TlZkNE5URTFTRjg1TlRnM05GOHdNUzVxY0djfDM3YTE2M2JjYTVlMTkzODQ0MzdlMWE1ZmE2ZWU4MTRjYzdhMjdkNzk4OThkOWQ5OTRiMTA3MjdjZGQ0OGU1ZWM"
+    },
+    {
+      "id": 172,
+      "transpharmCode": "95873EA",
+      "name": "SCISSOR SPENCER STITCH 9CM",
+      "category": "surgical-instruments",
+      "categoryLabel": "Surgical Instruments",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 178,
+      "inStock": true,
+      "description": "SCISSOR SPENCER STITCH 9CM — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Scissors"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-95873-01.jpg?context=bWFzdGVyfGltYWdlc3w4MDMwNHxpbWFnZS9qcGVnfGFERmpMMmcyWVM4NU5EZzFNemczTXpZMk5ETXdMelV4TlZkNE5URTFTRjg1TlRnM00xOHdNUzVxY0djfDk3NzQwMWExZjZjYmM1N2Y2MTRmY2RmZWI1YTlkZWU1NDdhMjAzYTgxOGNkOTQzZGUxOGU2YWE2YjIxMzUyMWQ"
+    },
+    {
+      "id": 173,
+      "transpharmCode": "95872EA",
+      "name": "SCISSOR OPERATION SHARP/BLUNT STR 14CM",
+      "category": "surgical-instruments",
+      "categoryLabel": "Surgical Instruments",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 27,
+      "inStock": true,
+      "description": "SCISSOR OPERATION SHARP/BLUNT STR 14CM — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Scissors"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-95872-01.jpg?context=bWFzdGVyfGltYWdlc3w3NjUyNHxpbWFnZS9qcGVnfGFHWTJMMmhqWXk4NU5EZzFNemcyTlRjNU9UazRMelV4TlZkNE5URTFTRjg1TlRnM01sOHdNUzVxY0djfDVlNjNkOWM5ODk1MTU2YTg4NDYzMDE0YmM1NDE2OGRjZTQ4N2RlNDlhOWI4MDEyMDhjYjRmYTAzM2JhMWJhNWY"
+    },
+    {
+      "id": 174,
+      "transpharmCode": "95871EA",
+      "name": "SCISSOR OPERATION SHARP/SHARP STR 13CM",
+      "category": "surgical-instruments",
+      "categoryLabel": "Surgical Instruments",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 64,
+      "inStock": true,
+      "description": "SCISSOR OPERATION SHARP/SHARP STR 13CM — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Scissors"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-95871-01.jpg?context=bWFzdGVyfGltYWdlc3w5MTIyM3xpbWFnZS9qcGVnfGFEUXpMMmhrTUM4NU5EZzFNemcxTnprek5UWTJMelV4TlZkNE5URTFTRjg1TlRnM01WOHdNUzVxY0djfDhhNjQzZjI4MjZhMDBjMGFiNjA4Yzc0NTgyMzIzN2E3ZTBkMWJkNzI2NmVkYWIwZDE0YWVjNWJiZGQ5NjY0Y2U"
+    },
+    {
+      "id": 175,
+      "transpharmCode": "95861EA",
+      "name": "FORCEP HARTMANN EAR SERRATED 7MM/8.5CM",
+      "category": "surgical-instruments",
+      "categoryLabel": "Surgical Instruments",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 35,
+      "inStock": true,
+      "description": "FORCEP HARTMANN EAR SERRATED 7MM/8.5CM — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Forceps"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-95861-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDgzMzN8aW1hZ2UvanBlZ3xhR1kyTDJoall5ODVORGcxTXpjM05UWTROems0THpVeE5WZDROVEUxU0Y4NU5UZzJNVjh3TVM1cWNHY3wxZTE3ZWJiODcyZmQ5MGVlYWJjNDBhYjlkYmZjZDA4ZmM2ZDFkNjQ5ODlmZTNjMThhZjg5YjBmNzkxNzRhNjgx"
+    },
+    {
+      "id": 176,
+      "transpharmCode": "95858EA",
+      "name": "FORCEP GILLIES TISSUE 1/2TEETH 15CM",
+      "category": "surgical-instruments",
+      "categoryLabel": "Surgical Instruments",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 96,
+      "inStock": true,
+      "description": "FORCEP GILLIES TISSUE 1/2TEETH 15CM — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Forceps"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-95858-01.jpg?context=bWFzdGVyfGltYWdlc3w3NjkyMnxpbWFnZS9qcGVnfGFHVTNMMmd3TXk4NU5EZzFNemMxTmpBeU56RTRMelV4TlZkNE5URTFTRjg1TlRnMU9GOHdNUzVxY0djfGU0YmE3MWQ4YTk4MjdmZjgyMjViM2M4NGY5YjhmNzkxOTAzYjhkMzZjZTQ0MmY0NDU0NTIwYTBkYTg1NDEyOGU"
+    },
+    {
+      "id": 177,
+      "transpharmCode": "95854EA",
+      "name": "FORCEP DRESSING NARROW TIP 18CM",
+      "category": "surgical-instruments",
+      "categoryLabel": "Surgical Instruments",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 137,
+      "inStock": true,
+      "description": "FORCEP DRESSING NARROW TIP 18CM — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Forceps"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-95854-01.jpg?context=bWFzdGVyfGltYWdlc3w4MTMzNHxpbWFnZS9qcGVnfGFHSTFMMmhsTkM4NU5EZzFNemN6TWpRek5ESXlMelV4TlZkNE5URTFTRjg1TlRnMU5GOHdNUzVxY0djfDNmMjk0MzQyNWIzNjU3YWUyZGIyMTZiZTI3MmZiNzM3YWY4NGEzYmNkYmYxYmJiMWJjMmVjZjFhMzdmNDI3MmU"
+    },
+    {
+      "id": 178,
+      "transpharmCode": "99621EA",
+      "name": "STERILIZER UV 30W UVS30 CAMI",
+      "category": "equipment-and-accessories",
+      "categoryLabel": "Equipment and Accessories",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 28,
+      "inStock": true,
+      "description": "STERILIZER UV 30W UVS30 CAMI — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Autoclaves & Sterilizers"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99621-01.jpg?context=bWFzdGVyfGltYWdlc3w3MTAzMXxpbWFnZS9qcGVnfGFETTRMMmc1WWk4eE5ESTJOREE1T1Rnek1UZ3pPQzgxTVRWWGVEVXhOVWhmT1RrMk1qRmZNREV1YW5CbnxhMmQ3Y2I2NDdkZjBkZmFhYzA2YTI0MWRlMTY2YjEyMWU4NjJhYzhiZTFjYzIzMWZmNTYyNjIwNTBhMzY4YmI4"
+    },
+    {
+      "id": 179,
+      "transpharmCode": "70155EA",
+      "name": "SUCTION ASKIR C30 FILTER",
+      "category": "equipment-and-accessories",
+      "categoryLabel": "Equipment and Accessories",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 178,
+      "inStock": true,
+      "description": "SUCTION ASKIR C30 FILTER — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Suction Equip & Consumables"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-70155-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDQ2NDZ8aW1hZ2UvanBlZ3xhR1V5TDJoaFlpODVORGd3TnpNM056VXhNRGN3THpVeE5WZDROVEUxU0Y4M01ERTFOVjh3TVM1cWNHY3xjNmJjYTg2YjQzNjcxMTY3NWFjOTUwOTc3MzU0ZmQ5Zjg3MWZhODQ1YmI3MDY4ZDU0ZTRkMTUxNjJkMGM3NDc4"
+    },
+    {
+      "id": 180,
+      "transpharmCode": "63935EA",
+      "name": "SUCTION PUMP ASPIRET SAHC",
+      "category": "equipment-and-accessories",
+      "categoryLabel": "Equipment and Accessories",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 66,
+      "inStock": true,
+      "description": "SUCTION PUMP ASPIRET SAHC — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Suction Equip & Consumables"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-63935-01.jpg?context=bWFzdGVyfGltYWdlc3wxODczNzB8aW1hZ2UvanBlZ3xhRFV5TDJnMVpTODVORGd3TWpFek9UZzNNelU0THpVeE5WZDROVEUxU0Y4Mk16a3pOVjh3TVM1cWNHY3xjODU2MWU5OWViNWU3ODc2NmFiZWQ0Mjg2YWRiOGFiMjc5MDY0MjczZDRiYWUyOWE2YjE4MWUyODM1MTU3NTZj"
+    },
+    {
+      "id": 181,
+      "transpharmCode": "12645EA",
+      "name": "STERILIZER ULTRAVIOLET THERMOREX",
+      "category": "equipment-and-accessories",
+      "categoryLabel": "Equipment and Accessories",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 94,
+      "inStock": true,
+      "description": "STERILIZER ULTRAVIOLET THERMOREX — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Autoclaves & Sterilizers"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-12645-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTk0NnxpbWFnZS9qcGVnfGFHSXdMMmd3WlM4NU5EYzBOREUzT0RVeU5EUTJMelV4TlZkNE5URTFTRjh4TWpZME5WOHdNUzVxY0djfDk5MzgwNWM2MjgyMDY2MTE1MjY4ODM0NzJiNmYzYmI5MDI3OWUyM2Q2ZDE1MWRjYjFhZDE5MDUwNjk2YjcwNzk"
+    },
+    {
+      "id": 182,
+      "transpharmCode": "105601EA",
+      "name": "TUNING FORK CI128",
+      "category": "equipment-and-accessories",
+      "categoryLabel": "Equipment and Accessories",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 147,
+      "inStock": true,
+      "description": "TUNING FORK CI128 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Audiology"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-105601-01.jpg?context=bWFzdGVyfGltYWdlc3wyOTkxMHxpbWFnZS9qcGVnfGFHWmhMMmd3T0M4eE1USTNNVGszTmpRNE5EZzVOQzgxTVRWWGVEVXhOVWhmTVRBMU5qQXhYekF4TG1wd1p3fGEwYzUzMzZmZWYxNDEwZDAzN2VkYTIxMDRmYWM0NjkyMmIzYzQyOGNhZDFjZDQ3OGJkNTIwMWRlNDBiZDZlYjU"
+    },
+    {
+      "id": 183,
+      "transpharmCode": "110654EA",
+      "name": "EAR PICK LUMINOUS",
+      "category": "ent-ear-nose-and-throat",
+      "categoryLabel": "ENT - Ear, Nose and Throat",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 143,
+      "inStock": true,
+      "description": "EAR PICK LUMINOUS — supplied by EJ Surgical Solutions.",
+      "features": [
+        "ENT Equipment"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-110654-01.jpg?context=bWFzdGVyfGltYWdlc3wxNDgxMzF8aW1hZ2UvanBlZ3xhRFV5TDJnNU15OHhOREE0T1RBMk1UVTJORFEwTmk4MU1UVlhlRFV4TlVoZk1URXdOalUwWHpBeExtcHdad3xkMGZiMTQyMzBiYzlmNjRhNjI4OTY2ZDE4ZmI1NDU0MzcwNTE3MTEzNmIyOTdiOGUxYjgwODZlMGI1ODNhMGU1"
+    },
+    {
+      "id": 184,
+      "transpharmCode": "105600EA",
+      "name": "TUNING FORK CI512",
+      "category": "ent-ear-nose-and-throat",
+      "categoryLabel": "ENT - Ear, Nose and Throat",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 203,
+      "inStock": true,
+      "description": "TUNING FORK CI512 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Tuning Forks"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-105600-01.jpg?context=bWFzdGVyfGltYWdlc3wzMjc0OXxpbWFnZS9qcGVnfGFEZzRMMmd4Tmk4eE1USTNNVGszTmpBNU1UWTNPQzgxTVRWWGVEVXhOVWhmTVRBMU5qQXdYekF4TG1wd1p3fGE2YmEzYmFhYWQyZWIzNWU2MDU2MmE5YTA0MjBkOTRjOWMwNTYxNjY1ZTMxNDEwYzExYjExZDMxZmZjNTk2NWM"
+    },
+    {
+      "id": 185,
+      "transpharmCode": "111698EA",
+      "name": "SILK 45 MULTIPIN NEEDLE 34GX0.8MM 5's",
+      "category": "aesthetics",
+      "categoryLabel": "Aesthetics",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 88,
+      "inStock": true,
+      "description": "SILK 45 MULTIPIN NEEDLE 34GX0.8MM 5's — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Meso Needles"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-111698-01.jpg?context=bWFzdGVyfGltYWdlc3w3MzE5MnxpbWFnZS9qcGVnfGFEUm1MMmcxTmk4eE5EWTFNVGM0TnpFNE1qRXhNQzgxTVRWWGVEVXhOVWhmTVRFeE5qazRYekF4TG1wd1p3fDg5ZjRhODI0ZmEwZmE0NzQwYjhiNjdkMGEzMjA3NzVhNjU0NGZkN2EwNjE2MjM3ZTQ2YTJkYmI2NjcwMzRlMzQ"
+    },
+    {
+      "id": 186,
+      "transpharmCode": "110944EA",
+      "name": "SYRINGE 3DOSE 100 ORANGE 1ML 10's",
+      "category": "aesthetics",
+      "categoryLabel": "Aesthetics",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 198,
+      "inStock": true,
+      "description": "SYRINGE 3DOSE 100 ORANGE 1ML 10's — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Aesthetic Syringes"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-110944-01.jpg?context=bWFzdGVyfGltYWdlc3wxMzI1ODZ8aW1hZ2UvanBlZ3xhR1EyTDJoa01pOHhOREkyTkRFek5UTTFNak0xTUM4MU1UVlhlRFV4TlVoZk1URXdPVFEwWHpBeExtcHdad3xjZWY1ODQxMWRmMDNiYTA3ODdlNmVjNTAyMjc2NjJmMDAwYmRmODE4Y2M4MWVkYjJhMzlkN2Q0YTkyM2FiMjNi"
+    },
+    {
+      "id": 187,
+      "transpharmCode": "110943EA",
+      "name": "SYRINGE 3DOSE 125 GREEN 1ML 10's",
+      "category": "aesthetics",
+      "categoryLabel": "Aesthetics",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 180,
+      "inStock": true,
+      "description": "SYRINGE 3DOSE 125 GREEN 1ML 10's — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Aesthetic Syringes"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-110943-01.jpg?context=bWFzdGVyfGltYWdlc3wxMTEwMjB8aW1hZ2UvanBlZ3xhR015TDJoaVl5OHhOREkyTkRFek5ERTNNamN3TWk4MU1UVlhlRFV4TlVoZk1URXdPVFF6WHpBeExtcHdad3wyZTY2ZjBkMTg2NjE0ZjIwYTUwZGJiMmI0MWQxODczZTA2NTkwYmJlMGRlNzgyYzlhNzE4YjQxZjYwZTA5MzI2"
+    },
+    {
+      "id": 188,
+      "transpharmCode": "108716EA",
+      "name": "SYR 0.3ML 32Gx8MM CALIBRE 100~",
+      "category": "aesthetics",
+      "categoryLabel": "Aesthetics",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 65,
+      "inStock": true,
+      "description": "SYR 0.3ML 32Gx8MM CALIBRE 100~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Aesthetic Syringes"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-108716-01.jpg?context=bWFzdGVyfGltYWdlc3w3MTU2N3xpbWFnZS9qcGVnfGFEbGtMMmcxT0M4eE1qa3pOekk0TVRJd09ETTFNQzgxTVRWWGVEVXhOVWhmTVRBNE56RTJYekF4TG1wd1p3fGNmMDM5MTFjOGY1M2ZjMTI3MWU2MDZiZmMxMTg0MmRkODFlMTYwZjU1NDJmMTY0M2E1YzRiNzFlZWJmYzEzZjg"
+    },
+    {
+      "id": 189,
+      "transpharmCode": "108715EA",
+      "name": "SYR 0.5ML 32Gx8MM CALIBRE 100~",
+      "category": "aesthetics",
+      "categoryLabel": "Aesthetics",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 40,
+      "inStock": true,
+      "description": "SYR 0.5ML 32Gx8MM CALIBRE 100~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Aesthetic Syringes"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-108715-01.jpg?context=bWFzdGVyfGltYWdlc3w3NDcwOHxpbWFnZS9qcGVnfGFEYzBMMmhpWlM4eE1qa3pOekk0TURNMU5qTTRNaTgxTVRWWGVEVXhOVWhmTVRBNE56RTFYekF4TG1wd1p3fGZhYzk3NzNhYTI0ZjAxMDdhMWRjYmE2NzE0YTkzN2VkOTUwYTNhNjM1YjEwOTg2MGJhZjY5NTJlNzQyNDY0NDU"
+    },
+    {
+      "id": 190,
+      "transpharmCode": "105929EA",
+      "name": "MESO NEEDLE PRECISE 34G X 4MM 20~",
+      "category": "aesthetics",
+      "categoryLabel": "Aesthetics",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 217,
+      "inStock": true,
+      "description": "MESO NEEDLE PRECISE 34G X 4MM 20~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Meso Needles"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-105929-01.jpg?context=bWFzdGVyfGltYWdlc3w2MjgwOXxpbWFnZS9qcGVnfGFESTVMMmhpTXk4eE1UTTVPVFV4T1RBeE1EZzBOaTgxTVRWWGVEVXhOVWhmTVRBMU9USTVYekF4TG1wd1p3fDEwOWMxMDVmYmNhZTgyNjhhYWRmZDUzMTk1MDk1ZTM1OTU2YTUyNzZhOTIxMDJhNmNkNjY5YzRjYzc3MmI5N2E"
+    },
+    {
+      "id": 191,
+      "transpharmCode": "105928EA",
+      "name": "MESO NEEDLE PRECISE 33G X 4MM 20~",
+      "category": "aesthetics",
+      "categoryLabel": "Aesthetics",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 26,
+      "inStock": true,
+      "description": "MESO NEEDLE PRECISE 33G X 4MM 20~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Meso Needles"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-105928-01.jpg?context=bWFzdGVyfGltYWdlc3w2ODg1M3xpbWFnZS9qcGVnfGFEaGpMMmhtTkM4eE1UTTVPVFV4T0RVMU1qQTVOQzgxTVRWWGVEVXhOVWhmTVRBMU9USTRYekF4TG1wd1p3fGYwMDkzOTVjODQ1ZTE0ZWFiYzk1ZDQyNWEyMTBiZWEwZjUwMjliZDgxNTFkZmYzM2ZmNmI3OTYzZGJkNzI3Mzk"
+    },
+    {
+      "id": 192,
+      "transpharmCode": "105927EA",
+      "name": "MESO NEEDLE PRECISE 32G X 4MM 20~",
+      "category": "aesthetics",
+      "categoryLabel": "Aesthetics",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 138,
+      "inStock": true,
+      "description": "MESO NEEDLE PRECISE 32G X 4MM 20~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Meso Needles"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-105927-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTgyM3xpbWFnZS9qcGVnfGFHVmlMMmhsTmk4eE1UTTVPVFV4T0RFMU9EZzNPQzgxTVRWWGVEVXhOVWhmTVRBMU9USTNYekF4TG1wd1p3fDRlNGYxNWEzMjMyMTZhMTcxYWUxZDY1NjU5Mzg0YmU5NjdkNDY0OTQ2YzliMjY4MzBmMmZjZTU3OGEwM2ZkNjU"
+    },
+    {
+      "id": 193,
+      "transpharmCode": "111785EA",
+      "name": "SYNOTECH 10ML SODIUM HYALURONATE 10MG/ML",
+      "category": "orthopaedic",
+      "categoryLabel": "Orthopaedic",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 104,
+      "inStock": true,
+      "description": "SYNOTECH 10ML SODIUM HYALURONATE 10MG/ML — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Injections"
+      ],
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15f558118?w=600&h=600&fit=crop"
+    },
+    {
+      "id": 194,
+      "transpharmCode": "111784EA",
+      "name": "SYNOTECH 6ML SODIUM HYALURONATE 20MG/ML",
+      "category": "orthopaedic",
+      "categoryLabel": "Orthopaedic",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 133,
+      "inStock": true,
+      "description": "SYNOTECH 6ML SODIUM HYALURONATE 20MG/ML — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Injections"
+      ],
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15f558118?w=600&h=600&fit=crop"
+    },
+    {
+      "id": 195,
+      "transpharmCode": "111783EA",
+      "name": "SYNOTECH 2ML SODIUM HYALURONATE 20MG/ML",
+      "category": "orthopaedic",
+      "categoryLabel": "Orthopaedic",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 178,
+      "inStock": true,
+      "description": "SYNOTECH 2ML SODIUM HYALURONATE 20MG/ML — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Injections"
+      ],
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15f558118?w=600&h=600&fit=crop"
+    },
+    {
+      "id": 196,
+      "transpharmCode": "105135EA",
+      "name": "MONOVISC 4ML PREFILLED SYRINGE",
+      "category": "orthopaedic",
+      "categoryLabel": "Orthopaedic",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 211,
+      "inStock": true,
+      "description": "MONOVISC 4ML PREFILLED SYRINGE — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Injections"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-105135-01.jpg?context=bWFzdGVyfGltYWdlc3w4NjMwNXxpbWFnZS9qcGVnfGFERTRMMmczTnk4eE1Ea3lPREEzTXprek1qZ3pNQzgxTVRWWGVEVXhOVWhmTVRBMU1UTTFYekF4TG1wd1p3fGI3ZmE2YjIxOTRlNWQxMGNiOTQ4MThiNDZhZjA0NzA2NWNjNTAyODdhNDE2Zjc1OWE4MzVjNDI0ZjgwMmI0NjM"
+    },
+    {
+      "id": 197,
+      "transpharmCode": "105134EA",
+      "name": "CINGAL 4ML PREFILLED SYRINGE",
+      "category": "orthopaedic",
+      "categoryLabel": "Orthopaedic",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 100,
+      "inStock": true,
+      "description": "CINGAL 4ML PREFILLED SYRINGE — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Injections"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-105134-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDY4MzR8aW1hZ2UvanBlZ3xhR0l4TDJnd05pOHhNRGt5T0RBM01qYzFNekU0TWk4MU1UVlhlRFV4TlVoZk1UQTFNVE0wWHpBeExtcHdad3xlYTg0NDI3OTY0NWE4NDZlNTc1ZjhmYzI4MTVjMmQ4Njc1Zjc3ZWNkNTJjYzI5ZDZmZDhlYzFlNWNlOTQ3Nzk2"
+    },
+    {
+      "id": 198,
+      "transpharmCode": "99979EA",
+      "name": "FEELGOOD PETS PARVO-K @",
+      "category": "veterinary",
+      "categoryLabel": "Veterinary",
+      "department": "Veterinary",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 153,
+      "inStock": true,
+      "description": "FEELGOOD PETS PARVO-K @ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Diagnostics"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99979-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjI0NTJ8aW1hZ2UvanBlZ3xhRFJsTDJoaU5TODVORGcyT0RVNE5UZzBNRGswTHpVeE5WZDROVEUxU0Y4NU9UazNPVjh3TVM1cWNHY3xiNTAwZmYzNWU0ZWVjZDdmMTVmY2U3YWNkODhlZTI1NTVlYTMxYTMwY2NhMjhjYTYzZTFjNTBiOWJkMmE4NDY4"
+    },
+    {
+      "id": 199,
+      "transpharmCode": "98789EA",
+      "name": "GRANTS SLOW FEEDING BOWL ASSORTED MED @",
+      "category": "veterinary",
+      "categoryLabel": "Veterinary",
+      "department": "Veterinary",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 65,
+      "inStock": true,
+      "description": "GRANTS SLOW FEEDING BOWL ASSORTED MED @ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Bowl & Feeding Supplies"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98789-01.jpg?context=bWFzdGVyfGltYWdlc3wxNDkwOTJ8aW1hZ2UvanBlZ3xhRGhrTDJneU5DODVORGcyTkRJek5EVTNPREl5THpVeE5WZDROVEUxU0Y4NU9EYzRPVjh3TVM1cWNHY3xkOTg1MjkzMTc5M2U2YTZlZDVjNTFlNGY4ZjJjNDUzZDIxNWU4YTE0OWI4NGI1ZDYzMmFkN2JlYmQ5Y2RkZWNh"
+    },
+    {
+      "id": 200,
+      "transpharmCode": "98788EA",
+      "name": "GRANTS DOG FLEECY SWEATER NO45 ASSORTED@",
+      "category": "veterinary",
+      "categoryLabel": "Veterinary",
+      "department": "Veterinary",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 144,
+      "inStock": true,
+      "description": "GRANTS DOG FLEECY SWEATER NO45 ASSORTED@ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Beds / Bedding / Clothing"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98788-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTM3MDV8aW1hZ2UvanBlZ3xhRFF3TDJoaVl5ODVORGcyTkRJeE1EazROVEkyTHpVeE5WZDROVEUxU0Y4NU9EYzRPRjh3TVM1cWNHY3w0NmE1ZWVjY2RmNDExYTIzNDQ2ZTUyMTZlMjY5MjNjM2M4ZmZkNWQwY2Q3OGY4YTg3ZGZlMWIyZDcwYzYxNjA3"
+    },
+    {
+      "id": 201,
+      "transpharmCode": "98787EA",
+      "name": "GRANTS DOG FLEECY SWEATER NO40 ASSORTED@",
+      "category": "veterinary",
+      "categoryLabel": "Veterinary",
+      "department": "Veterinary",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 77,
+      "inStock": true,
+      "description": "GRANTS DOG FLEECY SWEATER NO40 ASSORTED@ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Beds / Bedding / Clothing"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98787-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzAwNDd8aW1hZ2UvanBlZ3xhR1kyTDJobU1pODVORGcyTkRFM09UVXlOems0THpVeE5WZDROVEUxU0Y4NU9EYzROMTh3TVM1cWNHY3w3ZWZiYzcxNzNlN2RiMjI5M2NiYjIxYzhhNTAyNmVlYWUyNmJiYTNmY2QzMDJlMzE1YWQ1N2NhOGFkZjNmM2Yz"
+    },
+    {
+      "id": 202,
+      "transpharmCode": "98786EA",
+      "name": "GRANTS DOG FLEECY SWEATER NO35 ASSORTED@",
+      "category": "veterinary",
+      "categoryLabel": "Veterinary",
+      "department": "Veterinary",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 115,
+      "inStock": true,
+      "description": "GRANTS DOG FLEECY SWEATER NO35 ASSORTED@ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Beds / Bedding / Clothing"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98786-01.jpg?context=bWFzdGVyfGltYWdlc3wxNjc4NjR8aW1hZ2UvanBlZ3xhREUxTDJnMFl5ODVORGcyTkRFME1URTRPVFF5THpVeE5WZDROVEUxU0Y4NU9EYzRObDh3TVM1cWNHY3xkM2IzOTMzNzBiNzYxMTJlMzc4NDQ5MWYyZjk0NDZhYzliYzhkYWYxNmQ2MjQ0MTQ3OTNjOTlmMGI3ZDNiMWI2"
+    },
+    {
+      "id": 203,
+      "transpharmCode": "98785EA",
+      "name": "GRANTS DOG FLEECY SWEATER NO30 ASSORTED@",
+      "category": "veterinary",
+      "categoryLabel": "Veterinary",
+      "department": "Veterinary",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 100,
+      "inStock": true,
+      "description": "GRANTS DOG FLEECY SWEATER NO30 ASSORTED@ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Beds / Bedding / Clothing"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98785-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzYzMDJ8aW1hZ2UvanBlZ3xhRGN6TDJnNE9DODVORGcyTkRFeE5qazBNVEV3THpVeE5WZDROVEUxU0Y4NU9EYzROVjh3TVM1cWNHY3w2ZDAzZTQyNWQyYjg4MGU2OTRjYWNjMjAxYjY5MTNiMTBiZWU4MzEwOTRkMWYxN2Y3Nzc5ZGI3NDhlN2JmM2Qx"
+    },
+    {
+      "id": 204,
+      "transpharmCode": "98784EA",
+      "name": "GRANTS DOG FLEECY SWEATER NO25 ASSORTED@",
+      "category": "veterinary",
+      "categoryLabel": "Veterinary",
+      "department": "Veterinary",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 175,
+      "inStock": true,
+      "description": "GRANTS DOG FLEECY SWEATER NO25 ASSORTED@ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Beds / Bedding / Clothing"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98784-01.jpg?context=bWFzdGVyfGltYWdlc3wxNDAxODB8aW1hZ2UvanBlZ3xhREpsTDJobVl5ODVORGcyTkRBNU16TTBPREUwTHpVeE5WZDROVEUxU0Y4NU9EYzRORjh3TVM1cWNHY3w1NWI2MDIzZGRlMWMzZGZhYzgxOTE0YTU1NTNhN2E0Nzg2M2IzOTAwZGJhMmU1ZWY1N2JiY2RkMWU4Yzg2N2Vh"
+    },
+    {
+      "id": 205,
+      "transpharmCode": "98783EA",
+      "name": "GRANTS DOG BED LARG 550x420x200MM ASSOR@",
+      "category": "veterinary",
+      "categoryLabel": "Veterinary",
+      "department": "Veterinary",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 98,
+      "inStock": true,
+      "description": "GRANTS DOG BED LARG 550x420x200MM ASSOR@ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Beds / Bedding / Clothing"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-98783-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzM1NjB8aW1hZ2UvanBlZ3xhR1kyTDJoaE5pODVORGcyTkRBNE9UUXhOVGs0THpVeE5WZDROVEUxU0Y4NU9EYzRNMTh3TVM1cWNHY3w3NWE3ZDE1MWJhN2E3MDM1NGRjZTI0ZWZmMDNiMTJkYWRhOWJiODdmMGU5MmM4YjNhMDQ1MDA3NTBmMzU0ZjFi"
+    },
+    {
+      "id": 206,
+      "transpharmCode": "99916EA",
+      "name": "FEELGOOD PETS BETTER BLADDER CONTROL20G@",
+      "category": "veterinary-articles",
+      "categoryLabel": "Veterinary Articles",
+      "department": "Veterinary",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 78,
+      "inStock": true,
+      "description": "FEELGOOD PETS BETTER BLADDER CONTROL20G@ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Urinary Tract"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99916-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDc0MTh8aW1hZ2UvanBlZ3xhR05rTDJoak9TODVORGcyT0RNMk1UY3dOemd5THpVeE5WZDROVEUxU0Y4NU9Ua3hObDh3TVM1cWNHY3wwODUwMjE4ZjQ3ZGUxOTcyNWFhMmRlZDZiNWZkNjBkM2QwMGI5OTg3NWIwNjMwZmE5M2ViMDQwMjJkZDNlNGM5"
+    },
+    {
+      "id": 207,
+      "transpharmCode": "99914EA",
+      "name": "FEELGOOD PETS EAR DR 30ML @",
+      "category": "veterinary-articles",
+      "categoryLabel": "Veterinary Articles",
+      "department": "Veterinary",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 93,
+      "inStock": true,
+      "description": "FEELGOOD PETS EAR DR 30ML @ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Ear, Nose & Throat"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99914-01.jpg?context=bWFzdGVyfGltYWdlc3w3ODY3N3xpbWFnZS9qcGVnfGFHWTBMMmcyTmk4NU5EZzJPRE0xTXpnME16VXdMelV4TlZkNE5URTFTRjg1T1RreE5GOHdNUzVxY0djfDUwMDY0YTIxZjUxNGMwN2Q4NzU5OWI3Yzg5YTM3OWMzNDcyYThkMTJiMjNjYTk3Njg3YTJkMDI3MDhkNTE4YzY"
+    },
+    {
+      "id": 208,
+      "transpharmCode": "99804EA",
+      "name": "BOB MARTIN 3-IN-1 DEWORMER LRG DOG @",
+      "category": "veterinary-articles",
+      "categoryLabel": "Veterinary Articles",
+      "department": "Veterinary",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 195,
+      "inStock": true,
+      "description": "BOB MARTIN 3-IN-1 DEWORMER LRG DOG @ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Dewormer"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99804-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjY5NzV8aW1hZ2UvanBlZ3xhRFUwTDJnNU5TODVORGcyTnprNE9ERTFNall5THpVeE5WZDROVEUxU0Y4NU9UZ3dORjh3TVM1cWNHY3xhZDhhNWNmNmU2NWZjZTM3N2FmYzY4MDY4NWJjZDVkY2VjYjU2OTMyYTEzZmQwMWFhNDBlYjQ3MWJiMWE5MDE5"
+    },
+    {
+      "id": 209,
+      "transpharmCode": "99803EA",
+      "name": "BOB MARTIN 3-IN-1 DEWORMER SMAL/MED DOG@",
+      "category": "veterinary-articles",
+      "categoryLabel": "Veterinary Articles",
+      "department": "Veterinary",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 147,
+      "inStock": true,
+      "description": "BOB MARTIN 3-IN-1 DEWORMER SMAL/MED DOG@ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Dewormer"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99803-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjM2OTd8aW1hZ2UvanBlZ3xhR1l6TDJoaE5TODVORGcyTnprNE16VTJOVEV3THpVeE5WZDROVEUxU0Y4NU9UZ3dNMTh3TVM1cWNHY3wzYzQ5NGU0YjQ4OGYyYjQ1YzU1YTU5Y2I2NWJkMzMzNWUzZjIxN2FlMGE0ODE4M2M3NTRlMjZhMzEzMjEwZDk0"
+    },
+    {
+      "id": 210,
+      "transpharmCode": "99802EA",
+      "name": "BOB MARTIN TABS LARGE DOGS 100 @",
+      "category": "veterinary-articles",
+      "categoryLabel": "Veterinary Articles",
+      "department": "Veterinary",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 196,
+      "inStock": true,
+      "description": "BOB MARTIN TABS LARGE DOGS 100 @ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Supplements / Health & Wellnes"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99802-01.jpg?context=bWFzdGVyfGltYWdlc3wxNDg0NzB8aW1hZ2UvanBlZ3xhRE5rTDJobVpTODVORGcyTnprM09EazNOelU0THpVeE5WZDROVEUxU0Y4NU9UZ3dNbDh3TVM1cWNHY3w1YWIwMWVjMzhjZTMyMmM5ZjJkZmVhOTE1ODQ0ZmJlNmVhMzA2OWEwMmRlNzVlNTM1Yzc5YTRhOTBlZWUyYTNh"
+    },
+    {
+      "id": 211,
+      "transpharmCode": "99801EA",
+      "name": "BOB MARTIN TABS MEDIUM DOGS 100 @",
+      "category": "veterinary-articles",
+      "categoryLabel": "Veterinary Articles",
+      "department": "Veterinary",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 138,
+      "inStock": true,
+      "description": "BOB MARTIN TABS MEDIUM DOGS 100 @ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Supplements / Health & Wellnes"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99801-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzM0MzV8aW1hZ2UvanBlZ3xhRGMxTDJobU1DODVORGcyTnprM016Y3pORGN3THpVeE5WZDROVEUxU0Y4NU9UZ3dNVjh3TVM1cWNHY3xmOTAyMzY2YTU2OTlkZGQ1N2NjYTlhOTJjNmYzNzdhMjhlN2I0YmU3ZDg2NDA2MmQ4OGE3MzFhY2Q4ZTk2Mzlh"
+    },
+    {
+      "id": 212,
+      "transpharmCode": "99800EA",
+      "name": "BOB MARTIN TABS PUPPY/SMALL DOGS 50 @",
+      "category": "veterinary-articles",
+      "categoryLabel": "Veterinary Articles",
+      "department": "Veterinary",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 192,
+      "inStock": true,
+      "description": "BOB MARTIN TABS PUPPY/SMALL DOGS 50 @ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Supplements / Health & Wellnes"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99800-01.jpg?context=bWFzdGVyfGltYWdlc3wxOTMzNDF8aW1hZ2UvanBlZ3xhRGRpTDJnNVlTODVORGcyTnprMk9URTBOekU0THpVeE5WZDROVEUxU0Y4NU9UZ3dNRjh3TVM1cWNHY3w2M2I4N2RmYjUyMDFjYTVmYTJiMmUyZjEwY2VhYzU5ZmQ0ZDljYzc3ODY0NmFlMjM4NTI3NzRlYjRmZWFiMzlj"
+    },
+    {
+      "id": 213,
+      "transpharmCode": "13931EA",
+      "name": "UNI-SOLVE ADHESIVE REMOVER S&N 50 ~",
+      "category": "wound-care",
+      "categoryLabel": "Wound Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 50,
+      "inStock": true,
+      "description": "UNI-SOLVE ADHESIVE REMOVER S&N 50 ~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Adhesive Removers"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-13931-01.jpg?context=bWFzdGVyfGltYWdlc3w5Mzg0OXxpbWFnZS9qcGVnfGFHVXdMMmcxWkM4NU5EYzBOVFUxT0RBMU56STJMelV4TlZkNE5URTFTRjh4TXprek1WOHdNUzVxY0djfDNiMjZhN2QxNGUwOTQ1MDc3ZDJkYmRjZjk4MmE2ZWI1NDMxOTliNjliNDM0ODRhOGU3NGI3YmI0NTRlYWMwYWM"
+    },
+    {
+      "id": 214,
+      "transpharmCode": "47233EA",
+      "name": "OMNIFIX ELASTIC DRESSING ROLL 5CMX10M 1",
+      "category": "wound-care",
+      "categoryLabel": "Wound Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 180,
+      "inStock": true,
+      "description": "OMNIFIX ELASTIC DRESSING ROLL 5CMX10M 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Dressing Tapes and Rolls",
+        "Hartmann",
+        "Dressing Tapes and Rolls"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-47233-01.jpg?context=bWFzdGVyfGltYWdlc3wxMzM3MjJ8aW1hZ2UvanBlZ3xhR000TDJoaVppOHhNekl6TXpJNU9EZzVPRGszTkM4MU1UVlhlRFV4TlVoZk5EY3lNek5mTURFdWFuQm58MGI4MTBiYTY4YTczMzk5YmIwZDg5NTJjNDExZDJiNTZiOTliNDRkNWVhMDFjM2MwNmMzMTdmMmQwY2EzOWEzYQ"
+    },
+    {
+      "id": 215,
+      "transpharmCode": "103870EA",
+      "name": "OMNIFIX ELASTIC DRESSING ROLL 10CMx10M 1",
+      "category": "wound-care",
+      "categoryLabel": "Wound Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 67,
+      "inStock": true,
+      "description": "OMNIFIX ELASTIC DRESSING ROLL 10CMx10M 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Dressing Tapes and Rolls",
+        "Hartmann",
+        "Dressing Tapes and Rolls"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-103870-01.jpg?context=bWFzdGVyfGltYWdlc3wxNDIyMDN8aW1hZ2UvanBlZ3xhR1JoTDJoaVlTOHhNREkxTlRBek1EVTFNRFUxT0M4MU1UVlhlRFV4TlVoZk1UQXpPRGN3WHpBeExtcHdad3xhMjFhODNkZGUxZDVhMWNlMzRiYzE0OTc1MmE5ZWI3NGZiOGU0Mzk0ZDAyNjcxNzEzNGE2YzVlODZkNmIzZjkx"
+    },
+    {
+      "id": 216,
+      "transpharmCode": "106805EA",
+      "name": "PVP DRESS MEGHDIN 5X5CM NON-ADH 25 ~",
+      "category": "wound-care",
+      "categoryLabel": "Wound Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 49,
+      "inStock": true,
+      "description": "PVP DRESS MEGHDIN 5X5CM NON-ADH 25 ~ — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Specialized Wound Dressings",
+        "Specialized Wound Dressings"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-106805-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjc0OTd8aW1hZ2UvanBlZ3xhRFUyTDJneU5TOHhNVGcwT0Rrek9URXhNRFF6TUM4MU1UVlhlRFV4TlVoZk1UQTJPREExWHpBeExtcHdad3w2YzBiZTdkYzcyMjFkZGFhOGNjOTRlNjRiZWY5YWEwMDM0NGZhOThmNGU0NmYxNDJmYzQ5YTEwYzI2NWQ2NDBl"
+    },
+    {
+      "id": 217,
+      "transpharmCode": "99486EA",
+      "name": "TRIFECTIV PLUS WOUND & BURN CARE 450ML",
+      "category": "wound-care",
+      "categoryLabel": "Wound Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 109,
+      "inStock": true,
+      "description": "TRIFECTIV PLUS WOUND & BURN CARE 450ML — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Wounds: Gel, Ointment or Spray"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-99486-01.jpg?context=bWFzdGVyfGltYWdlc3w1MjgxN3xpbWFnZS9qcGVnfGFESTVMMmhrWkM4NU5EZzJOamd5TURrMU5qUTJMelV4TlZkNE5URTFTRjg1T1RRNE5sOHdNUzVxY0djfGRmNDM5MDVmZTJhZDUxMDdlZTU5ZDExZWIyNjg5ZmY0N2JhOTBmYWU2Zjk2MTk4ZDk1MzY3ZTgxMzM3NjE0MjE"
+    },
+    {
+      "id": 218,
+      "transpharmCode": "97796EA",
+      "name": "TRIFECTIV PLUS WOUND & BURN CARE 100ML",
+      "category": "wound-care",
+      "categoryLabel": "Wound Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 152,
+      "inStock": true,
+      "description": "TRIFECTIV PLUS WOUND & BURN CARE 100ML — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Wounds: Gel, Ointment or Spray"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-97796-01.jpg?context=bWFzdGVyfGltYWdlc3w3NzkyOHxpbWFnZS9qcGVnfGFEaGlMMmcyWXk4NU5EZzJNREl6T1RVd016WTJMelV4TlZkNE5URTFTRjg1TnpjNU5sOHdNUzVxY0djfGVhYjdhMWM3MDA5YzE3NzNjZmMzMzNmNjM4NjdhNGI1ZDk1YTNkNzZlODBlYTA3NzQ4NTY2NGQzOGIzM2YzMDI"
+    },
+    {
+      "id": 219,
+      "transpharmCode": "95880EA",
+      "name": "ELASTOPLAST HEALING OINTMENT 20G",
+      "category": "wound-care",
+      "categoryLabel": "Wound Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 72,
+      "inStock": true,
+      "description": "ELASTOPLAST HEALING OINTMENT 20G — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Wounds: Gel, Ointment or Spray"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-95880-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDg1NTR8aW1hZ2UvanBlZ3xhREppTDJobE9TOHhNelkwTnpjeU1EZ3dPRFEzT0M4MU1UVlhlRFV4TlVoZk9UVTRPREJmTURFdWFuQm58YTcxNjIwYWYwNzc2MTZmN2Y4NTE3NzYwYzc5OWRkZmIxYmMzNTk3ZDg4MzNjYTA1M2I4MTI5NGJmN2RlZjk4ZA"
+    },
+    {
+      "id": 220,
+      "transpharmCode": "87280EA",
+      "name": "SECURA NO STING SPRAY 28ML 1",
+      "category": "wound-care",
+      "categoryLabel": "Wound Care",
+      "department": "Surgical",
+      "priceOnRequest": true,
+      "rating": 4.5,
+      "reviews": 74,
+      "inStock": true,
+      "description": "SECURA NO STING SPRAY 28ML 1 — supplied by EJ Surgical Solutions.",
+      "features": [
+        "Wounds: Gel, Ointment or Spray"
+      ],
+      "image": "https://www.transpharm.co.za/medias/515Wx515H-87280-01.jpg?context=bWFzdGVyfGltYWdlc3w4NzU1MHxpbWFnZS9qcGVnfGFEaGxMMmhtWWk4NU5EZ3pNVEUxTmpJMk5USTJMelV4TlZkNE5URTFTRjg0TnpJNE1GOHdNUzVxY0djfDE3Mjc0ZTY1YmQzYTM1OTY4NTYwOWY3MDIxNzFhYzAyYzczZjI1M2VjYTQ3YjkwNDRiZGI1ZjNkZGRkZmJhMmE"
+    }
+  ]
+}

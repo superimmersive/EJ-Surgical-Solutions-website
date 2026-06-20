@@ -61,15 +61,16 @@ export function CartProvider({ children }) {
 
   const clearCart = () => dispatch({ type: 'CLEAR_CART' });
 
+  const hasQuoteItems = items.some((item) => item.priceOnRequest);
   const itemCount = items.reduce((sum, item) => sum + item.quantity, 0);
-  const subtotal = items.reduce((sum, item) => sum + item.price * item.quantity, 0);
-  const shipping = subtotal >= 500 ? 0 : subtotal > 0 ? 79.99 : 0;
-  const tax = subtotal * 0.15;
+  const subtotal = hasQuoteItems ? 0 : items.reduce((sum, item) => sum + item.price * item.quantity, 0);
+  const shipping = hasQuoteItems ? 0 : subtotal >= 500 ? 0 : subtotal > 0 ? 79.99 : 0;
+  const tax = hasQuoteItems ? 0 : subtotal * 0.15;
   const total = subtotal + shipping + tax;
 
   return (
     <CartContext.Provider
-      value={{ items, addItem, removeItem, updateQuantity, clearCart, itemCount, subtotal, shipping, tax, total }}
+      value={{ items, addItem, removeItem, updateQuantity, clearCart, itemCount, subtotal, shipping, tax, total, hasQuoteItems }}
     >
       {children}
     </CartContext.Provider>

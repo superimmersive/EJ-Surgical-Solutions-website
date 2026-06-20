@@ -168,9 +168,9 @@ export function Footer() {
             <ul className="mt-3 space-y-2 text-sm text-slate-500">
               <li><Link to="/shop" className="hover:text-brand-600">All Products</Link></li>
               <li><Link to="/shop?category=gloves" className="hover:text-brand-600">Gloves</Link></li>
-              <li><Link to="/shop?category=syringes" className="hover:text-brand-600">Syringes</Link></li>
-              <li><Link to="/shop?category=wound-dressings" className="hover:text-brand-600">Wound Dressings</Link></li>
-              <li><Link to="/shop?category=sutures" className="hover:text-brand-600">Sutures</Link></li>
+              <li><Link to="/shop?category=iv-access-needles-syringes" className="hover:text-brand-600">Needles & Syringes</Link></li>
+              <li><Link to="/shop?category=wound-care" className="hover:text-brand-600">Wound Care</Link></li>
+              <li><Link to="/shop?category=veterinary" className="hover:text-brand-600">Veterinary</Link></li>
             </ul>
           </div>
           <div>

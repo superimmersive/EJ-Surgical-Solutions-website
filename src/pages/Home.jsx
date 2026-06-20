@@ -15,6 +15,7 @@ import {
   Scissors,
   Minus,
   Syringe,
+  Activity,
   Quote,
   User,
 } from 'lucide-react';
@@ -34,10 +35,11 @@ const iconMap = {
   Scissors,
   Minus,
   Syringe,
+  Activity,
 };
 
 export default function Home() {
-  const featured = products.filter((p) => p.badge).slice(0, 4);
+  const featured = products.slice(0, 4);
   const shopCategories = categories.filter((c) => c.id !== 'all');
 
   return (
@@ -125,7 +127,7 @@ export default function Home() {
           <h2 className="text-2xl font-bold text-slate-900 sm:text-3xl">Our Products and Pricing</h2>
           <p className="mt-2 text-slate-500">Browse our wide range of medical and surgical equipment</p>
         </div>
-        <div className="mt-10 grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
+        <div className="mt-10 grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6">
           {shopCategories.map((cat) => {
             const Icon = iconMap[cat.icon] || LayoutGrid;
             return (

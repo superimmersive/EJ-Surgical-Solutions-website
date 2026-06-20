@@ -4,7 +4,7 @@ import { useCart } from '../context/CartContext';
 import { formatPrice } from '../data/products';
 
 export default function Cart() {
-  const { items, updateQuantity, removeItem, subtotal, shipping, tax, total, itemCount } = useCart();
+  const { items, updateQuantity, removeItem, subtotal, shipping, tax, total, itemCount, hasQuoteItems } = useCart();
 
   if (items.length === 0) {
     return (
@@ -50,7 +50,7 @@ export default function Cart() {
                     <Trash2 className="h-4 w-4" />
                   </button>
                 </div>
-                <p className="mt-1 text-lg font-bold text-slate-900">{formatPrice(item.price)}</p>
+                <p className="mt-1 text-lg font-bold text-slate-900">{formatPrice(item.price, item.priceOnRequest)}</p>
                 <div className="mt-auto flex items-center justify-between pt-4">
                   <div className="flex items-center rounded-xl border border-slate-200">
                     <button
@@ -70,7 +70,7 @@ export default function Cart() {
                     </button>
                   </div>
                   <span className="font-semibold text-slate-900">
-                    {formatPrice(item.price * item.quantity)}
+                    {item.priceOnRequest ? 'Quote' : formatPrice(item.price * item.quantity)}
                   </span>
                 </div>
               </div>
@@ -82,6 +82,12 @@ export default function Cart() {
           <div className="card sticky top-24 p-6">
             <h2 className="text-lg font-bold text-slate-900">Order Summary</h2>
             <dl className="mt-4 space-y-3 text-sm">
+              {hasQuoteItems ? (
+                <div className="rounded-lg bg-brand-50 px-3 py-3 text-sm text-brand-800">
+                  Some items require a custom quote. Submit your order and our team will confirm pricing via email or phone.
+                </div>
+              ) : (
+                <>
               <div className="flex justify-between">
                 <dt className="text-slate-500">Subtotal</dt>
                 <dd className="font-medium text-slate-900">{formatPrice(subtotal)}</dd>
@@ -100,9 +106,11 @@ export default function Cart() {
                 <dt className="font-bold text-slate-900">Total</dt>
                 <dd className="text-lg font-bold text-slate-900">{formatPrice(total)}</dd>
               </div>
+                </>
+              )}
             </dl>
 
-            {subtotal < 500 && (
+            {!hasQuoteItems && subtotal < 500 && (
               <p className="mt-4 rounded-lg bg-brand-50 px-3 py-2 text-xs text-brand-700">
                 Add {formatPrice(500 - subtotal)} more for free delivery!
               </p>
