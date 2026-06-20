@@ -39,10 +39,10 @@ export default function Shop() {
 
     switch (sort) {
       case 'price-asc':
-        result.sort((a, b) => a.price - b.price);
+        result.sort((a, b) => (a.price ?? Infinity) - (b.price ?? Infinity));
         break;
       case 'price-desc':
-        result.sort((a, b) => b.price - a.price);
+        result.sort((a, b) => (b.price ?? -Infinity) - (a.price ?? -Infinity));
         break;
       case 'rating':
         result.sort((a, b) => b.rating - a.rating);
