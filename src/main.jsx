@@ -5,9 +5,12 @@ import App from './App'
 import { CartProvider } from './context/CartContext'
 import './index.css'
 
+const basename = import.meta.env.BASE_URL.replace(/\/$/, '')
+const routerBasename = basename && basename !== '/' ? basename : undefined
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename={import.meta.env.BASE_URL.replace(/\/$/, '') || undefined}>
+    <BrowserRouter basename={routerBasename}>
       <CartProvider>
         <App />
       </CartProvider>

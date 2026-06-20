@@ -5,7 +5,14 @@ export default defineConfig(({ mode }) => ({
   plugins: [react()],
   base: mode === 'production' ? '/EJ-Surgical-Solutions-website/' : '/',
   server: {
+    host: true,
     port: 5173,
-    open: true,
+    strictPort: true,
+    open: '/',
+  },
+  preview: {
+    host: true,
+    port: 4173,
+    strictPort: true,
   },
 }))
