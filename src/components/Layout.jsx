@@ -1,10 +1,11 @@
-import { Link, NavLink } from 'react-router-dom';
+import { Link, NavLink, useNavigate } from 'react-router-dom';
 import { ShoppingCart, Search, Menu, X, Plus, HeartPulse, Phone, Mail, MapPin, Clock } from 'lucide-react';
 import { useState } from 'react';
 import { useCart } from '../context/CartContext';
 import { company } from '../data/company';
 
 export default function Header() {
+  const navigate = useNavigate();
   const { itemCount } = useCart();
   const [mobileOpen, setMobileOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
@@ -20,7 +21,9 @@ export default function Header() {
   const handleSearch = (e) => {
     e.preventDefault();
     if (searchQuery.trim()) {
-      window.location.href = `/shop?search=${encodeURIComponent(searchQuery.trim())}`;
+      navigate(`/shop?search=${encodeURIComponent(searchQuery.trim())}`);
+      setSearchOpen(false);
+      setMobileOpen(false);
     }
   };
 

@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -20,6 +20,35 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Configure GitHub Pages publishing source
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          api="https://api.github.com/repos/${GITHUB_REPOSITORY}/pages"
+          auth=(-H "Authorization: Bearer ${GH_TOKEN}" -H "Accept: application/vnd.github+json")
+
+          status="$(curl -sS -o /tmp/pages-workflow.json -w "%{http_code}" \
+            -X PUT "${auth[@]}" "$api" -d '{"build_type":"workflow"}')"
+          if [ "$status" = "200" ] || [ "$status" = "204" ]; then
+            echo "GitHub Pages configured to deploy from GitHub Actions."
+            exit 0
+          fi
+
+          echo "Workflow Pages config returned HTTP ${status}; trying gh-pages branch source."
+          cat /tmp/pages-workflow.json || true
+
+          status="$(curl -sS -o /tmp/pages-branch.json -w "%{http_code}" \
+            -X PUT "${auth[@]}" "$api" \
+            -d '{"build_type":"legacy","source":{"branch":"gh-pages","path":"/"}}')"
+          if [ "$status" = "200" ] || [ "$status" = "204" ]; then
+            echo "GitHub Pages configured to deploy from gh-pages branch."
+            exit 0
+          fi
+
+          echo "Unable to update Pages settings (HTTP ${status}); gh-pages branch was still updated."
+          cat /tmp/pages-branch.json || true
+
       - uses: actions/setup-node@v4
         with:
           node-version: 20
@@ -28,14 +57,23 @@ jobs:
       - run: npm ci
       - run: npm run build
       - run: cp dist/index.html dist/404.html
+      - run: touch dist/.nojekyll
 
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
 
+      - name: Publish build to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ github.token }}
+          publish_dir: ./dist
+          force_orphan: true
+
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    continue-on-error: true
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
