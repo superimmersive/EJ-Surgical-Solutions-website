@@ -14,7 +14,7 @@ export const company = {
     weekend: 'Weekends: Closed',
   },
   founder: {
-    name: "Shane' Jamane",
+    name: 'Lyle Jamane',
     title: 'Founder and Managing Director',
   },
   deliveryNote: 'We deliver to all nine provinces in South Africa.',
